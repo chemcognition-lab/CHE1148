@@ -1,2 +1,4 @@
 # CHE1148
 Artificial Intelligence for Applied Chemistry and Chemical Engineering
+
+This course @UofT provides a comprehensive introduction to machine learning engineering with a dedicated focus on the unique challenges of chemical data. The course is structured around three interconnected themes: formulating domain-specific ML tasks, making informed modelling choices by leveraging the inductive biases of architectures like Graph Neural Networks and Transformers for molecules and proteins, and addressing the critical requirements for responsible deployment, including interpretability and ethical impact. Through a major hands-on team project, students will gain a practical "feel" for chemical data, culminating in a conference-style workshop paper that demonstrates a rigorous application of AI to a real-world chemical or engineering problem.
