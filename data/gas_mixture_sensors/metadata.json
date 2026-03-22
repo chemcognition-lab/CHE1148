@@ -1,0 +1,37 @@
+{
+    "args": {
+        "downsample": 100,
+        "clip": true,
+        "interpolate": true
+    },
+    "audit_log": [
+        {
+            "mixture": "CH4_C2H4",
+            "raw_shape": [
+                4178600,
+                19
+            ],
+            "final_shape": [
+                41786,
+                20
+            ],
+            "final_dt_sec": 1.0,
+            "spearman_s01_vs_c2h4": -0.5360840716274612,
+            "file_size_mb": 2.5712289810180664
+        },
+        {
+            "mixture": "CO_C2H4",
+            "raw_shape": [
+                4208300,
+                19
+            ],
+            "final_shape": [
+                42083,
+                20
+            ],
+            "final_dt_sec": 1.0,
+            "spearman_s01_vs_c2h4": -0.155599547005949,
+            "file_size_mb": 2.65279483795166
+        }
+    ]
+}
