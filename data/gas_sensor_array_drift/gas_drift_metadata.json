@@ -1,0 +1,68 @@
+{
+    "dataset_name": "Gas Sensor Array Drift at Different Concentrations",
+    "doi": "10.24432/C5MK6M",
+    "description": "13,910 measurements across 10 batches (36 months).",
+    "citation": "Rodriguez-Lujan et al. (2014) Chemometrics and Int. Lab Systems.",
+    "hardware_mapping": {
+        "s01-s04": "TGS2600",
+        "s05-s08": "TGS2602",
+        "s09-s12": "TGS2610",
+        "s13-s16": "TGS2620"
+    },
+    "feature_sequence": [
+        "dr",
+        "dr_norm",
+        "ema_0.001_rise",
+        "ema_0.01_rise",
+        "ema_0.1_rise",
+        "ema_0.001_decay",
+        "ema_0.01_decay",
+        "ema_0.1_decay"
+    ],
+    "class_mapping": {
+        "1": "Ethanol",
+        "2": "Ethylene",
+        "3": "Ammonia",
+        "4": "Acetaldehyde",
+        "5": "Acetone",
+        "6": "Toluene"
+    },
+    "audit_results": {
+        "completeness_verified": true,
+        "temporal_sparsity_verified": true,
+        "physical_signs_verified": true,
+        "monotonicity_spearman_corr": 0.9425994120984031,
+        "class_statistics": {
+            "Ethanol": {
+                "count": 2565,
+                "min_ppmv": 2.5,
+                "max_ppmv": 600.0
+            },
+            "Ethylene": {
+                "count": 2926,
+                "min_ppmv": 2.5,
+                "max_ppmv": 300.0
+            },
+            "Ammonia": {
+                "count": 1641,
+                "min_ppmv": 2.5,
+                "max_ppmv": 1000.0
+            },
+            "Acetaldehyde": {
+                "count": 1936,
+                "min_ppmv": 2.5,
+                "max_ppmv": 300.0
+            },
+            "Acetone": {
+                "count": 3009,
+                "min_ppmv": 10.0,
+                "max_ppmv": 1000.0
+            },
+            "Toluene": {
+                "count": 1833,
+                "min_ppmv": 1.0,
+                "max_ppmv": 230.0
+            }
+        }
+    }
+}
