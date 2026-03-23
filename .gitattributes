@@ -1,0 +1,1 @@
+data/swissprot_eda/proteins_tax_pfam.parquet filter=lfs diff=lfs merge=lfs -text
