@@ -1,0 +1,3001 @@
+smiles,name,Rose,split
+CCCCCCCC=CC(=O)OCCCC,Butyl dec-2-enoate,0,train
+CCOC(=O)c1ccco1,Ethyl 2-furoate,0,train
+CCCCC(OCC(C)C)OCC(C)C,"1,1-Bis(2-methylpropoxy)pentane",0,train
+CCCCCOC(=O)CC,Amyl propionate,0,train
+CCC1=CCCC(C)(C)C12C=CC(C)O2,"6-Ethyl-2,10,10-trimethyl-1-oxaspiro[4.5]deca-3,6-diene",0,test
+CCC=CCCOC(C)OCC,1-(1-Ethoxyethoxy)hex-3-ene,0,train
+CCCCCCOC(=O)C=Cc1ccccc1,Hexyl 3-phenylprop-2-enoate,0,train
+COc1nc(C)cnc1C,"2,5-Dimethyl-3-methoxypyrazine",0,train
+CC(C)c1ccc(C=CC=O)cc1,"2-Propenal, 3-[4-(1-methylethyl)phenyl]-",0,train
+C=CCCCCCCCCC(=O)OCC=C,Allyl 10-undecenoate,0,test
+CC1CCSS1,"3-Methyl-1,2-dithiolane",0,train
+CCOCCC(C)CCCC(C)C,"Dihydrocitronellol ethyl ether, (+-)-",1,train
+CCCCCCCCCC(=O)OCc1ccco1,Furfuryl decanoate,0,train
+Cc1cncc(C)c1,"3,5-Dimethylpyridine",0,train
+CCCCCCC#CC(=O)OCC,Ethyl-2-nonynoate,0,test
+CSSC,Dimethyl Disulfide,0,train
+CCC=CC(=O)C(OC)OC,"1,1-Dimethoxyhex-3-en-2-one",0,train
+CC(=CCCC1(C)C2CC3C(C2)C31C)CO,"5-(2,3-Dimethyltricyclo(2.2.1.02,6)hept-3-yl)-2-methylpent-2-en-1-ol, stereoisomer",0,train
+NC(CCC(=O)O)C(=O)O,DL-Glutamic acid,0,test
+C=CCOC(=O)c1ccccc1C(=O)OCC=C,Diallyl phthalate,0,test
+CC(C)=CCCC(C)=CCOC(=O)CC(C)C,"Butanoic acid, 3-methyl-, (2E)-3,7-dimethyl-2,6-octadienyl ester",1,train
+CCCC(=O)CC,3-Hexanone,0,train
+CCCCCCCCCOC=O,Nonyl formate,0,train
+CCCOC(CC(C)C)OCCC,Isovaleraldehyde dipropyl acetal,0,train
+CCCCCCC=CCO,2-Nonen-1-ol,0,train
+CC1C(O)C=C2CC(C)(C)C=CC21C,"2,2,6,7-Tetramethylbicyclo-[4.3.0]nona-4,9(1)-dien-8-ol",0,test
+Nc1ccc(Oc2ccc(N)cc2)cc1,"4,4'-Diaminodiphenyl Ether",0,test
+Cc1ccc2c(c1)C=CCC2(C)C,"1,1,6-Trimethyl-1,2-dihydronaphthalene",0,train
+CCCC(=O)OC(C)Cc1ccccc1,1-Phenyl-2-propyl butyrate,0,train
+CC1OC(C)OC(C)O1,Paraldehyde,0,train
+CCCCOC(=O)CC(O)C(=O)OCCCC,"Butanedioic acid, 2-hydroxy-, 1,4-dibutyl ester",0,train
+CCCC=CCCC(C)=O,5-Nonen-2-one,0,train
+CC1=CC(O)CC(C)C12CCC(=C(C)C)C2,"6,10-Dimethyl-3-propan-2-ylidenespiro[4.5]dec-9-en-8-ol",0,train
+SCc1cccs1,Thenyl mercaptan,0,test
+O=C1CCC2CCCCC2O1,Octahydrocoumarin,0,train
+FC(F)(F)C(F)(F)C(F)(F)F,Perfluoropropane,0,train
+CC(C)=CCOC(=O)c1ccccc1O,Prenyl salicylate,0,train
+CCC(C)c1nccs1,2-(1-Methylpropyl)thiazole,0,train
+CCOC(=O)C(C)C(C)=O,Ethyl 2-methylacetoacetate,0,train
+CCC(C=CC1=C(C)CCCC1(C)C)OC(C)=O,"1-(2,6,6-Trimethylcyclohex-1-EN-1-YL)pent-1-EN-3-YL acetate",0,train
+c1ccc(Cc2ccccc2)cc1,Diphenylmethane,1,train
+CCC(O)c1ccccc1,1-Phenyl-1-propanol,1,train
+Cc1ccccc1OC(=O)C(C)C,o-TOLYL ISOBUTYRATE,0,train
+CCC1CC(C)(C)CCC1=O,"Cyclohexanone, 2-ethyl-4,4-dimethyl-",0,train
+CCOC(=O)C(O)CC(C)C,Ethyl 2-hydroxy-4-methylpentanoate,0,train
+CC(C)CCCOC(=O)CCC(C)C,4-Methylpentyl 4-methylvalerate,0,train
+CC(C)C(=O)OCCc1ccccc1,Phenethyl isobutyrate,1,test
+C=CC(C)(CCC=C(C)CC)OC(C)=O,"3,7-Dimethylnona-1,6-dien-3-yl acetate",1,train
+CCCCCC=CC(=O)OC,"2-Octenoic acid, methyl ester",0,test
+CC(=O)c1ccc(C(C)C)cc1,4-Isopropylacetophenone,0,train
+C=CC(O)CCCC,1-Hepten-3-OL,0,train
+CCCc1ccc(O)c(OC)c1,4-Propylguaiacol,0,train
+CC(=O)OC(C)(C)CCc1ccccc1,2-Methyl-4-phenyl-2-butyl acetate,1,train
+CCCCCCCC1CCCO1,"Furan, 2-heptyltetrahydro-",1,test
+CCCCCCC(=O)OCCc1ccccc1,"Heptanoic acid, 2-phenylethyl ester",1,train
+CC(C)Oc1cc(C=O)ccc1O,4-Hydroxy-3-isopropoxybenzaldehyde,0,test
+CCCCCOC(=O)CCCC,Pentyl valerate,0,train
+CCCCCCOC(C)OCCC(C)C,Acetaldehyde hexyl isoamyl acetal,0,train
+CC1=CC2C(CCC(C)=CCC1)C2(C)C,CID 522276,0,test
+COc1ccc(C=O)c(O)c1,2-Hydroxy-4-Methoxybenzaldehyde,0,train
+CSSCCC(C)C,Methyl isopentyl disulfide,0,train
+CSc1cnc(C)cn1,2-Methyl-5-(methylthio)pyrazine,0,train
+CC1CCC(C(C)C)C(OC=O)C1,Menthyl formate,0,train
+CCOC(=O)CCCc1ccccc1,Ethyl 4-phenylbutanoate,0,train
+CC=C(C)C(=O)OCc1ccccc1,Benzyl 2-methylbut-2-enoate,1,train
+CCCCCCOC(C)=O,Hexyl acetate,0,train
+CCCc1ccn(-c2ccccc2)n1,1-Phenyl-3-propyl-pyrazole,0,train
+Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1,Triamterene,0,train
+c1ccc(CCCc2ccccn2)cc1,2-(3-Phenylpropyl)Pyridine,0,train
+CCCC(C)C=Nc1ccccc1C(=O)OC,"Benzoic acid, 2-[(2-methylpentylidene)amino]-, methyl ester",0,train
+COc1ccc(C)cc1O,2-Methoxy-5-methylphenol,0,train
+CCC(=O)C(C)O,2-Hydroxy-3-pentanone,0,test
+Cc1ccc(C=O)s1,5-Methyl-2-thiophenecarboxaldehyde,0,test
+CC(=O)CCC(=O)OC(C)C,Isopropyl levulinate,0,train
+CCOCCC(C)CCC=C(C)C,"Citronellyl ethyl ether, (+-)-",1,train
+CCCCCCC(OCCCC)OCCCC,"1,1-Dibutoxyheptane",0,train
+CCCC(C)OC(=O)C(C)O,Pentan-2-yl 2-hydroxypropanoate,0,train
+CCCCCCCCCCCCC=CC=O,(E)-2-pentadecen-1-al,0,test
+CC(C)(C)C1CCC(O)CC1,4-tert-Butylcyclohexanol,0,train
+C=CCCCCCCCCCOC(=O)CCC,10-Undecenyl butyrate,0,test
+CCOCc1ccccc1,Benzyl ethyl ether,0,train
+O=[N+]([O-])CCc1ccccc1,1-Nitro-2-phenylethane,0,train
+C=C(O)C(C)CCCC(C)C,"3,7-Dimethylocten-2-ol",0,train
+CCCCCCCCc1ccco1,2-Octylfuran,0,train
+CC(C)CC=NCCC(C)C,Isopentylidene isopentylamine,0,train
+CC=C(C)C(=O)OCCC(C)CCC=C(C)C,"2-Butenoic acid, 2-methyl-, 3,7-dimethyl-6-octenyl ester, (2E)-",1,train
+CC(=O)OC(C)(C)c1ccccc1,"Benzenemethanol, alpha,alpha-dimethyl-, 1-acetate",0,test
+O=C(CCO)c1cccs1,3-Hydroxy-1-(thiophen-2-yl)propan-1-one,0,train
+CC1=CCC(C(C)CO)CC1,p-MENTH-1-EN-9-OL,0,test
+CCCCCCC(C)=NO,2-Octanone oxime,0,test
+CC(C)C1CCC(C)(S)CC1=O,5-Methyl-2-(propan-2-yl)-5-sulfanylcyclohexan-1-one,0,train
+CCCCCCC(=O)OCCC,Propyl heptanoate,0,train
+CCCCC(CC)OC(C)=O,3-Heptanyl acetate,1,test
+CC(C)CCOC(=O)c1ccccc1O,Isoamyl salicylate,0,train
+CC(C)(C)c1cccc2ncccc12,"Quinoline, (1,1-dimethylethyl)-",0,train
+CC(C)c1cccc(CC=O)c1,Ar-isopropylphenylacetaldehyde,0,train
+C=Cc1cncc(CC)n1,2-Ethyl-6-vinylpyrazine,0,test
+CCc1nc(C)c(C)o1,"2-Ethyl-4,5-dimethyloxazole",0,train
+CCCCCC(=O)OCCc1ccccc1,Phenethyl hexanoate,1,train
+CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1,Fenofibrate,0,train
+CCCCCCCCCCC(OC(C)=O)C(=O)OC,Methyl 2-acetyloxydodecanoate,0,train
+CCCCCCCCCCC(=O)OCCC(C)C,Isoamyl undecanoate,1,train
+CCCCOC(=O)C(C)OC(C)=O,Butyl 2-acetoxypropanoate,0,train
+COc1ccc(C)cc1,4-Methylanisole,0,train
+CCc1occc(=O)c1O,Ethyl Maltol,0,train
+CCCCC(=O)C1=C(C)CCCC1(C)C,"1-Pentanone, 1-(2,6,6-trimethyl-1-cyclohexen-1-yl)-",0,train
+CCC(C)(C#N)N=NC(C)(C#N)CC,"2,2'-Azobis(2-methylbutyronitrile)",0,train
+CC(C)=CCCC1(C)CCC(=O)O1,Orin lactone,0,train
+CCCCCCCCC(=O)OCC,Ethyl Nonanoate,1,train
+COc1cccc(C=O)c1OC,"2,3-Dimethoxybenzaldehyde",0,train
+CC1=CC2C(=C(C)CCC2C(C)C)CC1,"Naphthalene, 1,2,3,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-, (1S-cis)-",0,test
+CCC(=O)Oc1ccccc1,Phenyl propionate,0,train
+CC1C(=O)CC23CC1C(C)(C)C2CCC3C,"1H-3a,7-Methanoazulen-5(4H)-one, hexahydro-3,6,8,8-tetramethyl-",0,test
+CC(=O)OC(C)C(C)OC(C)=O,"Butane-2,3-diyl diacetate",0,train
+CC(C)CC(=O)OC1CC2CCC1(C)C2(C)C,"1,7,7-Trimethylbicyclo(2.2.1)heptan-2-yl 3-methylbutanoate",0,train
+CCCCCC(=O)C(C)=O,"2,3-Octanedione",0,train
+CC(C)=CCCC(C)CC=O,Citronellal,1,train
+CCC(C)(O)CCCC(C)C,Tetrahydrolinalool,0,train
+CCC1OCC2(CO1)CC(C)=CCC2C,"2,4-Dioxaspiro(5.5)undec-8-ene, 3-ethyl-8,11(or 9,11)-dimethyl-",0,train
+CC1CSCS1,"1,3-Dithiolane, 4-methyl-",0,train
+CCOc1ccccc1C=O,"Benzaldehyde, 2-ethoxy-",0,test
+CCC=CCC=O,Hex-3-enal,0,train
+COC(=O)C1(C)CC=CCC1,Methyl 1-methylcyclohex-3-ene-1-carboxylate,0,train
+Nc1ccc(N=Nc2cccc(N=Nc3ccc(N)cc3N)c2)c(N)c1,C.I. Basic Brown 1,0,train
+CCCCCCCCC(=O)OCCCCC,"Nonanoic acid, pentyl ester",0,train
+CC(=CC(C)C)C(=O)O,"2,4-Dimethyl-2-pentenoic acid",0,train
+C=C(C)C1CCC(C)C(=O)C1,"1,6-Dihydrocarvone",0,train
+CCc1ccc(C=O)s1,5-Ethyl-2-thiophenecarboxaldehyde,0,train
+CC1(C)Cc2cccc(O)c2O1,"2,3-Dihydro-2,2-dimethyl-7-benzofuranol",0,train
+C=C(C)C1CC=C(C2OCC(C)O2)CC1,Perillaldehyde propyleneglycol acetal,0,train
+CC1CCCCN1,2-Methylpiperidine,0,train
+CC1C=CCCC1,3-Methylcyclohexene,0,train
+CC1=CCC2CC1C2(C)C,(+-)-alpha-Pinene,0,train
+S=C=NCc1ccccc1,Benzyl Isothiocyanate,0,train
+CCCCCC1=C(C)COC1=O,4-Methyl-3-pentylfuran-2(5H)-one,0,train
+CC1=CC(C)CC(C=O)C1,"3,5-Dimethyl-3-cyclohexene carboxaldehyde",0,train
+CC(C)=CCCC(C)CC(OCCCCCCCCCCC(C)C)OCCCCCCCCCCC(C)C,"Isotridecane, 1,1'-[(3,7-dimethyl-6-octen-1-ylidene)bis(oxy)]bis-",1,train
+CCCc1cccs1,2-Propylthiophene,0,train
+CCCCCCCCCCCCOC(=O)CC(C)C,Dodecyl 3-methylbutanoate,0,train
+CC(C)CC(=O)CO,1-Hydroxy-4-methyl-2-pentanone,0,train
+CCCCC1CCCCC(=O)O1,epsilon-DECALACTONE,0,test
+CCCCCCCCCCC=CCOC(C)=O,"2-Tridecen-1-ol, 1-acetate",0,train
+CC1CCC(C(C)C)C(C(=O)NC2CC2)C1,N-Cyclopropyl-5-methyl-2-(2-propanyl)cyclohexanecarboxamide,0,train
+O=C(CCc1ccccc1)c1ccc[nH]1,Dihydrocinnamoylpyrrol,0,test
+CCC1SC(CC(C)C)=NC1C,cis and trans-5-Ethyl-4-methyl-2-(2-methylpropyl)-thiazoline,0,train
+O=C1CCCCCCCC=CCCCCCCC1,9-Cycloheptadecen-1-one,0,train
+CCC(=O)c1ccccc1,1-Phenyl-1-propanone,0,train
+CSC(=O)c1ccccc1,S-methyl thiobenzoate,0,train
+CCC(=O)C(C)=O,"2,3-Pentanedione",0,train
+O=c1ccc2ccccc2o1,Coumarin,0,train
+CC1(C)C2CCC(C3CCC(O)CC3)C1(C)C2,Bornylcyclohexanol,0,train
+Cc1ccc(-c2ccccc2)cc1,4-Methylbiphenyl,0,test
+C=C1CCCC(C)(C)C1CCC(C)=CCCC1C(C)(O)CCC2C(C)(C)CCCC21C,"1-[6-(2,2-dimethyl-6-methylidenecyclohexyl)-4-methylhex-3-enyl]-2,5,5,8a-tetramethyl-3,4,4a,6,7,8-hexahydro-1H-naphthalen-2-ol",0,train
+CCCCCCCCC(C)C=O,2-Methyldecanal,0,train
+CSCc1ccccc1,Benzyl methyl sulfide,0,train
+CC1(C)SC(C)(C)SC(C)(C)S1,Trithioacetone,0,train
+CC(C)=CCCC(C)=CC(=O)OCCC(C)C,"3-Methylbutyl 3,7-dimethylocta-2,6-dienoate",1,train
+CCCC=CC=CC=O,"Octa-2,4-dienal",0,test
+CCOC(C)OCC=C(C)CCC=C(C)C,"2,6-Octadiene, 1-(1-ethoxyethoxy)-3,7-dimethyl-",0,train
+CC(O)C(C)S,2-Mercapto-3-butanol,0,test
+CC1=CC(=O)C(=C(C)C)CC1,Piperitenone,0,train
+CCCCC=CCCCC1CCCC(=O)O1,9-Tetradecen-5-olide,0,train
+CCCCCCC(=O)OCC=C(C)CCC=C(C)C,"3,7-Dimethylocta-2,6-dienyl heptanoate",0,train
+CCC1OCC(C)O1,"2-Ethyl-4-methyl-1,3-dioxolane",0,train
+CC1(C)OCC(CO)O1,Solketal,0,train
+C=CC(=C)CCCC(C)(C)OC(C)=O,Myrcenylacetate,0,train
+CC(C)OC(=O)CC1=CCCCC1,"1-Cyclohexene-1-acetic acid, 1-methylethyl ester",1,train
+CCOC(=O)C(C)C(C)S,Ethyl 3-mercapto-2-methylbutanoate,0,test
+CCCCCCC=CCCC=O,Undec-4-enal,0,train
+CCCCNC(N)=O,Butylurea,0,train
+COC(=O)C(C)C,Methyl isobutyrate,0,test
+CC(C=O)=Cc1ccco1,"2-Propenal, 3-(2-furanyl)-2-methyl-",0,test
+CC1(C)CCCC2C(=O)C3CCC21C3,"2H-2,4a-Methanonaphthalen-1(5H)-one, hexahydro-5,5-dimethyl-",0,train
+CCOC(=O)C(=O)OCC,Diethyl Oxalate,0,train
+CCCCCC(OCC)OCCC(C)C,1-Ethoxy-1-(3-methylbutoxy)hexane,0,test
+CC(C)CCOCCC(C)C,Diisopentyl ether,0,train
+CC1=CC2C(C#N)CC1CC2C(C)C,"Bicyclo[2.2.2]oct-5-ene-2-carbonitrile, 5-methyl-7-(1-methylethyl)-",0,train
+CCC(=O)OC1C=C(C)C2CC(=C(C)C)CC2C(C)C1,"6-Azulenol, 1,2,3,3a,4,5,6,8a-octahydro-4,8-dimethyl-2-(1-methylethylidene)-, 6-propanoate",0,train
+CC(C)C1=CC(=O)C(C)CC1,Carvenone,0,train
+CC1CCC(=O)OC1C,"5,6-Dimethyltetrahydropyran-2-one",0,train
+O=C1c2cccc(O)c2C(=O)c2c(O)cccc21,"1,8-Dihydroxyanthraquinone",0,train
+C=CCSCCC,3-(Propylthio)propene,0,test
+CCCCC=CC(=O)C(C)C,2-Methylnon-4-EN-3-one,0,train
+C=C(OCC)C1C(C)(C)CC(=O)CC1(C)C,"4-(1-Ethoxyvinyl)-3,3,5,5-tetramethylcyclohexanone",0,test
+CC(C)CC(=O)OCC=Cc1ccccc1,3-Methylbutanoic acid 3-phenyl-2-propenyl ester,1,train
+CC(C)=CCCC(C)CCCC(C)C=O,"2,6,10-Trimethyl-9-undecenal",1,train
+CC(C)=CCCC(C)CCOCC=O,Citronelloxyacetaldehyde,1,train
+CCC(C)c1cnc(C)c(C)n1,"5-Sec-butyl-2,3-dimethylpyrazine, 98%",0,train
+CC1(C)CSSC1=O,"4,4-Dimethyldithiolan-3-one",0,train
+CCC(=O)C(C)C,2-Methyl-3-pentanone,0,train
+CC(C)CC1NC(CC(C)C)SC(CC(C)C)S1,"2,4,6-Triisobutyl-5,6-dihydro-4H-1,3,5-dithiazine",0,train
+CCCCCC=CC(=O)OCCCCCC,Hexyl oct-2-enoate,0,train
+Cc1oc2ccccc2c1C,"2,3-Dimethylbenzofuran",0,train
+CC1=C(O)C(=O)CC1C,"2-Hydroxy-3,4-dimethyl-2-cyclopenten-1-one",0,train
+COC(=O)c1ccccc1O,Methyl Salicylate,0,train
+C=C(C)C1CCC(C)CC1OC=O,"Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, 1-formate, (1R,2S,5R)-",0,test
+CC(=O)OCCC(C)(C)S,3-Mercapto-3-methylbutyl acetate,0,train
+C=C(C)C1CC=C(C)C(OC(=O)CCC)C1,"Butanoic acid, 2-methyl-5-(1-methylethenyl)-2-cyclohexen-1-yl ester",0,test
+c1ccc2[nH]ccc2c1,Indole,0,train
+CCCOC(C)OCCc1ccccc1,Acetaldehyde phenethyl propyl acetal,0,train
+CC=C1CC2CC1C1CCC(=O)OC21,"6-Ethylideneoctahydro-2H-5,8-methanochromen-2-one",0,train
+CCOC(OCC)C(C)CC,"1,1-Diethoxy-2-methylbutane",0,train
+CCCCCCCCOC(=O)Cc1ccccc1,Octyl phenylacetate,1,train
+C=CCc1ccc(OC)cc1,Estragole,0,test
+CCCCCCCc1ccccn1,2-Heptylpyridine,0,train
+CCOC(=O)CCS,Ethyl 3-mercaptopropionate,0,train
+CC1=CCC2(O)CC1C2(C)C,2-Pinen-5-ol,0,train
+CC1SSC(C)S1,"3,5-Dimethyl-1,2,4-trithiolane",0,train
+COC(=O)C(C)(C)O,Methyl alpha-hydroxyisobutyrate,0,train
+C=CC(=C)CC(O)C=C(C)C,"2-Methyl-6-methylene-2,7-octadien-4-ol",0,train
+CCCCCCCCCCCCCCC(C)=O,Hexadecan-2-one,0,train
+CCC1OC(=O)C(O)=C1C,5-Ethyl-3-hydroxy-4-methyl-2(5H)-furanone,0,train
+CCC(=O)CC,Ethyl ketone,0,train
+CC(=O)c1cccnc1C(C)C,1-(2-Isopropylpyridin-3-yl)ethanone,0,train
+CC(CC#N)CCc1ccccc1,3-Methyl-5-phenylpentanenitrile,0,train
+C=C(C)CCCC(C)CCOC(=O)CC(C)C,"3,7-Dimethyloct-7-EN-1-YL 3-methylbutanoate",1,train
+CC1CC(C)(C)OC(c2ccccc2)O1,"4,4,6-Trimethyl-2-phenyl-1,3-dioxane",1,train
+CCC(C)C(O)C(=O)O,2-Hydroxy-3-methylpentanoic acid,0,train
+CCCCCCc1nccnc1OC,"Pyrazine, 2-hexyl-3-methoxy",0,train
+CCCCCCS,1-Hexanethiol,0,train
+CC(C)=C(C)C(=O)OCc1ccccc1,"Benzyl 2,3-dimethylcrotonate",0,train
+CCCCC(CC)C1OCCO1,"1,3-Dioxolane, 2-(1-ethylpentyl)-",0,train
+CCC(C)OC(=O)C(C)O,"Propanoic acid, 2-hydroxy-, 1-methylpropyl ester",0,train
+CCOC(=O)CCc1ccco1,Ethyl 2-furanpropionate,0,test
+O=C1OC(C(O)CO)C(O)=C1O,"D-erythro-hex-2-enonic acid, gamma-lactone",0,train
+SCCS,"1,2-Ethanedithiol",0,train
+CCCC(=O)OC(C)(C)C1CCC(C)C2=C(C1)C(C)CC2,"2-(3,8-dimethyl-1,2,3,4,5,6,7,8-octahydroazulen-5-yl)propan-2-yl butanoate",1,train
+O=C(Nc1ccccc1C(=O)O)c1ccccc1,2-(Benzoylamino)benzoic acid,0,train
+CCCCCCOC(=O)CCCCCC,Hexyl heptanoate,0,train
+CC=CC(=O)C1C(C)C=CCC1(C)C,"1-(2,6,6-Trimethylcyclohex-3-en-1-yl)but-2-en-1-one",1,train
+CC12CCCC(C)(CC1)C2=NO,"Bicyclo[3.2.1]octan-8-one, 1,5-dimethyl-, oxime",0,train
+c1ccc(CSSCc2ccccc2)cc1,Dibenzyl Disulfide,0,train
+CCC1OC(C)=C(O)C1=O,Homofuraneol,0,test
+CCCCCCC(CC)OC(C)=O,3-Nonanol acetate,0,train
+CC1=C(O)C(=O)C(C)(C)C1,"2-Hydroxy-3,5,5-trimethyl-2-cyclopenten-1-one",0,train
+FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,Perfluorohexane,0,train
+CC(=O)c1nccs1,2-Acetylthiazole,0,train
+CC(C)C(=O)OC1CC2CC1C1C=CCC21,"3a,4,5,6,7,7a-hexahydro-4,7-methano-1H-inden-5-yl isobutyrate",0,train
+CC(C)C1CCC(C)C(O)C1,2-Methyl-5-(propan-2-yl)cyclohexan-1-ol,0,test
+O=C1C=CCCCCCCCCCO1,1-Oxacyclotridec-3-EN-2-one,0,train
+CC(COC(=O)c1ccccc1)OC(=O)c1ccccc1,Propylene glycol dibenzoate,0,test
+O=C(O)c1ccc(O)cc1,4-Hydroxybenzoic Acid,0,train
+CC(C)COC(=O)COc1ccccc1,Isobutyl phenoxyacetate,0,train
+CCCCCCCOC(=O)C(C)C,Heptyl isobutyrate,0,train
+C=CCOC(=O)CCCC(C)(C)CC,"Hexanoic acid, methyl-, 2-propen-1-yl ester",1,train
+OCC(O)CO,Glycerol,0,train
+CCCCC(C(C)=O)C(=O)OCC,Ethyl 2-acetylhexanoate,0,train
+CC(=O)OC=C(C)c1ccccc1,"1-Propen-1-ol, 2-phenyl-, acetate, (1E)-",0,train
+CC=C(C)C(=O)OCCCCCC,Hexyl 2-methylbut-2-enoate,0,train
+CCC(=O)C=CC1C(C)C=CCC1(C)C,"1-Penten-3-one, 1-(2,6,6-trimethyl-3-cyclohexen-1-yl)-",0,test
+COc1cccc(C=O)c1,3-Methoxybenzaldehyde,0,train
+O=C(O)c1cc(O)c(O)c(O)c1,Gallic Acid,0,train
+Cc1cccc(Oc2ccccc2)c1,3-Phenoxytoluene,1,train
+CC(=O)OCC(OC(C)=O)c1ccccc1,"1,2-Ethanediol, 1-phenyl-, 1,2-diacetate",0,train
+COc1c(C(C)(C)C)cc([N+](=O)[O-])c(C)c1[N+](=O)[O-],Musk ambrette,0,test
+CCCCCCCCCCCCCCCC(=O)OCC(O)C1OC(=O)C(O)=C1O,6-O-palmitoylascorbic acid,0,test
+CCC=CCCOC,1-Methoxyhex-3-ene,0,train
+CC(=O)c1ccc[nH]1,2-Acetylpyrrole,0,test
+CCOC(=O)C(=Cc1ccccc1)C(C)=O,Ethyl 3-oxo-2-(phenylmethylene)butanoate,0,train
+CCCCCC1(C)CCC(C)(C)C1=O,"2,2,5-Trimethyl-5-pentylcyclopentanone",0,train
+CCCCCCCCCCCCCCC=O,Pentadecanal,0,train
+CCC(CC)C(=O)N(C)c1cccc(C)c1,"Butanamide, 2-ethyl-N-methyl-N-(3-methylphenyl)-",0,train
+CCC(C)CCCCCCC=O,8-Methyldecanal,1,train
+CC1=CC(C)(C)C(C=O)CC1,"2,2,4-Trimethyl-3-cyclohexenecarboxaldehyde",0,train
+CC1(C)C(=O)C2CCC1C2,Camphenilone,0,train
+C=CC1(C)CCC(C(=C)C)CC1C(=C)C,"Cyclohexane, 1-ethenyl-1-methyl-2,4-bis(1-methylethenyl)-, (1R,2R,4S)-rel-",0,train
+CC(C)=CCCC1=CCCC(C)(C=O)C1,Precyclemone B,0,test
+NCCCCN,Putrescine,0,test
+CC1C(=O)CC2(C(C)C)CC12,3-Thujanone,0,test
+Cc1ccnc(C)c1,"2,4-Dimethylpyridine",0,train
+CC(=O)CC(=O)OC(C)C,Isopropyl acetoacetate,0,train
+CC(=O)OCCCCCCCS,7-Sulfanylheptyl acetate,0,train
+c1ccc2ncccc2c1,Quinoline,0,train
+CC(=O)OC(C)CC(C)(C)c1ccccc1,"Benzenepropanol, alpha,gamma,gamma-trimethyl-, 1-acetate",0,train
+COc1ncc(CC(C)C)nc1C,5-Isobutyl-3-methyl-2-methoxypyrazine,0,train
+CCCCC(C#N)c1ccccc1,2-Phenylhexanenitrile,0,train
+CC(=O)CC(=O)OC(C)(C)C,Tert-butyl acetoacetate,0,test
+CCCCCC(C)OC(=O)CCC,2-Heptyl butyrate,0,train
+CCCC(CS)OC(C)=O,1-Mercaptopentyl-2-acetate,0,train
+C=CC(C)(O)CCC=C(C)CC,"3,7-Dimethylnona-1,6-dien-3-ol",1,train
+CCC1CCCC(=O)O1,delta-Heptalactone,0,train
+CC(C)C(O)C(C)C,"2,4-Dimethyl-3-pentanol",0,train
+CC(C)C1=CCC(CCOC=O)=CC1,Menthadienyl formate,0,train
+CCCCCC=CC=CC(=O)NCC(C)C,"n-Isobutyl-2,4-decadienamide",0,train
+CC(C)Cn1cccc1,N-Isobutylpyrrole,0,train
+CCCC(CCO)SC,3-(Methylthio)-1-hexanol,0,train
+CC=CC(=O)C1CCC(C)(C)C=C1C,"2-Buten-1-one, 1-(2,4,4-trimethyl-2-cyclohexen-1-yl)-",1,train
+CC1=CC(=O)CC(C)(C)C1C=CC(C)O,CID 520684,0,test
+COCCC(C)(C)S,4-Methoxy-2-methyl-2-butanethiol,0,train
+O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1O,Phloretin,0,train
+COC(CCc1ccccc1)OC,"1,1-Dimethoxy-3-phenylpropane",0,test
+CCCCSSCC,Butyl ethyl disulfide,0,test
+CC(F)(F)Cl,"1-Chloro-1,1-difluoroethane",0,train
+CCc1ccncc1,4-Ethylpyridine,0,train
+CC(C)=C1CCC2(C)OC2C1=O,"7-Oxabicyclo4.1.0heptan-2-one, 6-methyl-3-(1-methylethylidene)-",0,train
+O=Cc1ccco1,Furfural,0,test
+C=CCCCCCCCCC(=O)OCC,Ethyl 10-undecenoate,0,train
+Cc1ccc(C(C)CC=O)o1,3-(5-Methyl-2-furyl)butanal,0,test
+CCCCCC(=O)O,Hexanoic Acid,0,test
+C=CC1(C)CCC(C(C)(O)CCC=C(C)C)O1,"7,10-Epoxy-2,6,10-trimethyl-dodeca-2,11-dien-6-ol B",0,train
+CCOC(=O)C(C)SSC,Ethyl 2-(methyldithio)propionate,0,train
+O=C(OCc1ccccc1)c1ccccc1O,Benzyl Salicylate,0,train
+CC=C(C)C(=O)OCCC,Propyl 2-methylbut-2-enoate,1,train
+CCOC(OC)c1ccccc1,(Ethoxy-methoxymethyl)benzene,0,train
+CCOC(OCC)c1ccc(OC)cc1,1-(Diethoxymethyl)-4-methoxybenzene,0,test
+C=CCOC(=O)c1ccccc1,Allyl benzoate,0,train
+CC(=O)c1nc(C)cnc1C,"2-Acetyl-3,6-dimethylpyrazine",0,train
+CC1=NCCS1,2-Methyl-2-thiazoline,0,train
+CCCCCCC(C(C)=O)C(=O)OCC,Ethyl 2-acetyloctanoate,0,train
+CC1CCC=CCCCCCCCCCC(=O)C1,3-Methyl-cyclohexadec-6-enone,0,train
+CCCCCCCCCCOC(=O)c1ccccc1N,"Benzoic acid, 2-amino-, decyl ester",0,train
+CC(C)(C)C(=O)C1C(=O)c2ccccc2C1=O,Pindone,0,train
+O=S(=O)(F)F,Sulfuryl fluoride,0,train
+CC1=CCCC(C)(C)C1C=CC(=O)C(C)C,"4-Methyl-1-(2,6,6-trimethylcyclohex-2-en-1-yl)pent-1-en-3-one",0,train
+COC(=O)CCSCc1ccco1,Methyl 3-(furfurylthio)propionate,0,train
+CC1SCCS1,"2-Methyl-1,3-dithiolane",0,train
+CC1(CO)CC1CC1CC2CC2(C)C1(C)C,"[1-Methyl-2-[(1,2,2-trimethylbicyclo[3.1.0]hexan-3-yl)methyl]cyclopropyl]methanol",0,train
+CCOc1cncc(C)n1,2-Methyl-6-ethoxypyrazine,0,test
+CCCCOC(=O)CCCC,Butyl valerate,0,train
+O=C(OC1CN2CCC1CC2)C(O)(c1ccccc1)c1ccccc1,3-Quinuclidinyl benzilate,0,train
+CCCCCCCCCCC(C(C)=O)C(=O)OCC,Ethyl 2-acetyldodecanoate,0,train
+CCCc1nccs1,2-Propylthiazole,0,train
+CCC(OC(C)=O)c1ccc(OC(C)=O)cc1,Dihydrogalangal acetate,0,train
+O=C1CCSC1,Dihydro-3(2H)-thiophenone,0,train
+CC(C)N=C=S,Isopropyl Isothiocyanate,0,train
+CC1(C)C2=CCCC(C)(C)C23CCC1C3,"2H-2,4a-Methanonaphthalene, 1,3,4,5,6,7-hexahydro-1,1,5,5-tetramethyl-, (2S)-",0,train
+CC(C)(O)CCc1ccccc1,2-Methyl-4-phenyl-2-butanol,1,train
+CCCCC1(O)C(C)=CC(=O)CC1(C)C,"4-Butyl-4-hydroxy-3,5,5-trimethyl-2-cyclohexen-1-one",0,train
+CCCCCCCC=CC=CC=CC=O,Tetradecatrienal,0,test
+CSC(=O)c1ccco1,Methyl 2-thiofuroate,0,train
+CSc1nccnc1C,"Pyrazine, methyl(methylthio)-",0,train
+CC(=O)CCC(=O)O,Levulinic Acid,0,train
+COC(=O)C1(c2ccccc2)OC1C,Methyl 3-methyl-2-phenyloxirane-2-carboxylate,0,train
+CCCOC(=O)CCC(C)=O,Propyl levulinate,0,train
+CC(=O)CCc1ccc(C)cc1,4-(p-Tolyl)-2-butanone,0,train
+CC(=O)OC1CC2CC1C1CCCC21,"4,7-Methano-1H-inden-5-ol, octahydro-, 5-acetate",0,test
+Cc1ccc(CS)o1,5-Methyl-2-furanmethanethiol,0,train
+CCC=CCCC=CC(=O)NC1CC1,"cyclopropyl (E,Z)-2,6-nonadienamide",0,train
+CCCCCCC1OCC(C)O1,Heptanal propyleneglycol acetal,0,train
+Cc1nccnc1OC(C)C,2-Isopropoxy-3-methylpyrazine,0,train
+CCCCc1nc(C)c(C)s1,"2-Butyl-4,5-dimethylthiazole",0,test
+C=CC(C)(C#N)Cc1ccccc1,2-Benzyl-2-methyl-3-butenitrile,0,train
+CC(C)SC(C)C,Diisopropyl sulfide,0,train
+CC(C)c1ccc(O)cc1,4-Isopropylphenol,0,test
+CC=CCCC=O,Hex-4-enal,0,train
+CCCCCCCCC=CCCCCCCCC(=O)OCC(O)CO,"2,3-Dihydroxypropyl octadec-9-enoate",0,train
+C=CCc1cc(OC)c(O)c(OC)c1,"4-Allyl-2,6-dimethoxyphenol",0,test
+O=c1[nH]cc(F)c(=O)[nH]1,5-Fluorouracil,0,train
+CC1OCCCCCCCCCCCCOC1=O,"3-Methyl-1,4-dioxacyclohexadecan-2-one",0,train
+CCc1cc(OC)c(O)c(OC)c1,4-Ethylsyringol,0,train
+CCCCCOC(C)=O,Amyl Acetate,0,train
+CCCC(=O)OCC=Cc1ccccc1,Butanoic acid 3-phenyl-2-propenyl ester,0,test
+CC(C)=CCCC(C)=CCOC(=O)c1ccccc1N,"2,6-Octadien-1-ol, 3,7-dimethyl-, 2-aminobenzoate, (2E)-",1,train
+CCCCCCCCC=CC(=O)O,Hendecenoic acid,0,train
+COc1ccc(C#N)cc1,4-Methoxybenzonitrile,0,test
+CCCC(O)CCCC(=O)OCC,Ethyl 5-hydroxyoctanoate,0,train
+CC(C)CC(=O)OCc1ccccc1,Benzyl isovalerate,0,test
+CCCCC(=O)OCCCc1ccccc1,3-Phenylpropyl valerate,0,train
+CCCCCCO,1-Hexanol,0,test
+CCCC(=O)OC(C)(C)C1CC=C(C)CC1,alpha-Terpinyl butyrate,0,train
+CCCCCOC(=O)C=Cc1ccccc1,"2-Propenoic acid, 3-phenyl-, pentyl ester",0,test
+CCCCCC(C)CCC(=O)O,4-Methylnonanoic acid,0,train
+CCCCCC=CCC(=O)O,3-Nonenoic acid,0,train
+CCCCc1cccnc1,3-Butylpyridine,0,train
+O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,Phenytoin,0,train
+C=CC(C)(CCC=C(C)C)OC(=O)CCCC,Linalyl valerate,0,train
+CCCCCC(C)S,2-Heptanethiol,0,train
+CCCCCC=CC=CC=CO,Undeca-trienol,0,train
+CCC1CCC(CC)O1,"2,5-Diethyltetrahydrofuran",0,train
+C=CCSC(C(=O)CC(C)C)C(C)C,"3-Allylthio-2,6-dimethyl-4-heptanone",0,train
+CCCCCCCCCC(=O)OCCCCCC,Hexyl decanoate,0,train
+CC=CC(=O)OC(C)CC(C)C,"1,3-Dimethylbutyl 2-butenoate",0,train
+CC(C)C(=O)C(=O)O,3-Methyl-2-oxobutanoic acid,0,train
+C=CCC(C)(O)C1C2CCC(C2)C1(C)C,"alpha-Allyl-alpha,3,3-trimethyl-2-norbornane-methanol",0,train
+CC(O)Cc1ccccc1,1-Phenyl-2-propanol,1,train
+CCCCCCC1CCOC1=O,alpha-Hexyl-gamma-butyrolactone,0,train
+CCCCCCCCCCCC=O,Dodecanal,0,train
+CC1CCOC(C2CCCCC2)S1,"2-Cyclohexyl-4-methyl-1,3-oxathiane",0,train
+CCCCCCCC(=O)OCC=C(C)CCC=C(C)C,"3,7-Dimethylocta-2,6-dienyl octanoate",1,train
+CC=CC(OCC)OCC,"1,1-Diethoxy-2-butene",0,train
+CCCCCCC(C=O)CC,2-Ethyl-octanal,0,train
+CCCCCC(OCC)OCCC,1-Ethoxy-1-propoxyhexane,0,train
+CCc1nc(C)sc1C,"4-Ethyl-2,5-dimethylthiazole",0,train
+C=CCOC(=O)CC(C)CC(C)(C)C,"Allyl 3,5,5-trimethylhexanoate",0,train
+CCCC(C)S,2-Pentanethiol,0,train
+CCCCOC(C)OCCCC,"Acetaldehyde, dibutyl acetal",1,test
+CC=Cc1ccc(OCCCC)c(OC)c1,1-Butoxy-2-methoxy-4-(1-propen-1-yl)benzene,0,train
+CCCCCC(OC)OC,"1,1-Dimethoxyhexane",0,train
+CC(C)CC(=O)C(S)C(C)C,"3-Mercapto-2,6-dimethyl-4-heptanone",0,train
+CCC(=O)OC1CC2(C)CCC1C2(C)C,"(4,7,7-Trimethyl-2-bicyclo[2.2.1]heptanyl) propanoate",0,train
+CCC=CCC(OC)OC,(Z)-3-hexen-1-al dimethyl acetal,0,train
+CCOC(=O)c1ccccc1C(=O)OCC,Diethyl Phthalate,0,train
+CCCC(C)(C)SSC(C)(C)CCC,Di-tert-hexyl disulphide,0,train
+CC(C)=CCCC1=CCC(C=O)CC1,"3-Cyclohexene-1-carboxaldehyde, 4-(4-methyl-3-penten-1-yl)-",0,train
+Cc1nc2ccccc2o1,2-Methylbenzoxazole,0,train
+CCCCCCCCC(=O)OCCC,Propyl nonanoate,0,train
+CC1=CCC(C(C)C)=CC1,Gamma-Terpinene,0,train
+CC1=CC=CCC1,"1-Methylcyclohexa-1,3-diene",0,train
+COC(=O)C1CC2CC1C(C)(C)C2,"Bicyclo[2.2.1]heptane-2-carboxylic acid, 3,3-dimethyl-, methyl ester",0,train
+CCCCCC=CCCCC(=O)O,Undec-5-enoic acid,0,test
+CCCCCCC,Heptane,0,train
+CCCCCCCCCCCCCC,Tetradecane,0,test
+FC(Cl)C(F)(F)C(F)(F)Cl,"1,3-Dichloro-1,1,2,2,3-pentafluoropropane",0,train
+CC(O)COCC(C)O,"1,1'-Oxydi-2-propanol",0,test
+CCCCCC(C=O)SC,2-methylsulfanylheptanal,0,test
+CCC(C)(CCC=C(C)C)OC(C)=O,"3,7-Dimethyloct-6-en-3-yl acetate",0,train
+CCCCCCCCOC(=O)CC(C)C,Octyl isovalerate,1,train
+CCCCC(=O)CC,3-Heptanone,0,test
+CC(=O)OC1CCCC1,"Cyclopentanol, acetate",0,train
+CC(C)CC(=O)Cc1ccccc1,4-Methyl-1-phenyl-2-pentanone,0,train
+CC(CC=O)CCCC(C)(C)O,Hydroxycitronellal,0,train
+CCCCCC=CCCC(OCC)OCC,(Z)-4-decen-1-al diethyl acetal,0,train
+C=C1C=CC(C(C)C)CCC(C)=CCC1,"8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",0,train
+CCCCCCCCC=O,Nonanal,1,train
+CC(C)(C)C1CCC(=O)CC1,4-tert-Butylcyclohexanone,0,train
+CC1(C)C2CC=C(CO)C1C2,(+-)-Myrtenol,0,train
+COC(C=Cc1ccccc1)OC,"(3,3-Dimethoxypropen-1-yl)benzene",0,train
+CCCCCCCCC(=O)OCC(C)C,Isobutyl nonanoate,1,train
+C=C(C)C1CCC(C)(C(=O)C2CCCC2=O)C1=C,2-((3-Isopropenyl-1-methyl-2-methylenecyclopentyl)carbonyl)cyclopentan-1-one,0,train
+CCCCOC(=O)CC(O)(CC(=O)OCCCC)C(=O)OCCCC,Tributyl Citrate,0,train
+CCOC(=O)Cc1ccccc1,Ethyl phenylacetate,1,train
+CCC1CCC(=O)O1,gamma-Hexalactone,0,train
+CCC(C)(C)S,tert-Amylthiol,0,train
+CC1OCCCCCCCCCCCOC1=O,"1,4-Dioxacyclopentadecan-2-one, 3-methyl-",0,train
+CC1C2CCC(C3(O)CCCCC3)(C2)C1(C)C,"Cyclohexanol, (2,2,3-trimethylnorbornanyl)-(mixed isomers)",0,train
+Cc1cc(CC(C)C)ccc1CCC=O,3-(4-Isobutyl-2-methylphenyl)propanal,0,train
+CC1CCCO1,2-Methyltetrahydrofuran,0,train
+CCc1ccccc1O,2-Ethylphenol,0,train
+CCCC(C)C(=O)OCCC(C)C,"Pentanoic acid, 2-methyl, 3-methylbutyl ester",0,train
+CC=CCC(=O)OCCCC,Butyl pent-3-enoate,0,train
+CCCCCC(=O)OCCC(C)C,Isoamyl hexanoate,0,test
+O=c1[nH]c(=O)[nH]c(=O)[nH]1,Cyanuric acid,0,train
+COc1ccc(CO)cc1OC,Veratryl alcohol,0,test
+CCc1ccc(OC)cc1,1-Ethyl-4-methoxybenzene,0,train
+CCCC=CCOC(=O)Cc1ccccc1,Hex-2-enyl 2-phenylacetate,0,train
+CCCCN(CCCC)CCCC,Tributylamine,0,train
+Cc1cc2occ(C)c2c2c1CCC(C)C2,"1,5,8-Trimethyl-6,7,8,9-tetrahydrobenzo[e][1]benzofuran",0,train
+CS(C)=O,Dimethyl Sulfoxide,0,train
+Cc1cc(SSCCC(C)C)c(C)o1,"2,5-Dimethyl-3-[(3-methylbutyl)disulfanyl]furan",0,train
+CCC(=O)C1=NCCS1,2-Propionyl-2-thiazoline,0,train
+CCCOC(=O)Cc1ccccc1,Propyl phenylacetate,1,train
+CCCCCCC1CC(OC(C)=O)CO1,2-Hexyl-4-acetoxytetrahydrofuran,0,train
+COc1cc(C(=O)O)cc(OC)c1O,Syringic Acid,0,train
+CCCC=CCOC(=O)c1ccccc1O,(E)-2-hexen-1-yl salicylate,0,train
+C=CCCCN=C=S,4-Pentenyl isothiocyanate,0,train
+CC(C)C(=O)Oc1ccccc1,Phenyl isobutyrate,0,train
+CC1=CCC(C(C)CC2CCCC2=O)CC1,2-(2-(4-Methylcyclohex-3-en-1-yl)propyl)cyclopentan-1-one,0,train
+C=CC=CC=CCCCCC,"1,3,5-Undecatriene",0,test
+CC(=O)C=C(C)CCC=C(C)C,"4,8-Dimethylnona-3,7-dien-2-one",1,train
+CCC=CC=CCO,"Hepta-2,4-dien-1-ol",0,test
+CC(=S)OC(C)(C)C1CCC(C)CC1=O,O-[2-(4-methyl-2-oxocyclohexyl)propan-2-yl] ethanethioate,0,test
+CCc1ccc(OC)c(OC)c1,"4-Ethyl-1,2-dimethoxybenzene",0,train
+CCCCCCCCCCCCOC(=O)C(C)C,Dodecyl isobutyrate,0,test
+Nc1ccccc1C(=O)Oc1ccc2ccccc2c1,beta-NAPHTHYL ANTHRANILATE,0,train
+C=CC(=O)CCCCCC,Non-1-en-3-one,0,train
+C=C(C)CCCC(C)CCOC=O,"7-Octen-1-ol, 3,7-dimethyl-, 1-formate",1,train
+CC(=O)C(=O)c1ccc(C)o1,"1-(5-Methyl-2-furanyl)-1,2-propanedione",0,train
+CCC(=O)OCC=C(C)CCC=C(C)C,"2,6-Octadien-1-ol, 3,7-dimethyl-, 1-propanoate",1,train
+CC(S)S,"1,1-Ethanedithiol",0,train
+CC(O)C(C)Cc1ccccc1,"Benzenepropanol, alpha,beta-dimethyl-",1,train
+CC1CCC2=C1N=CCN2,"5-methyl-2,5,6,7-tetrahydro-1H-cyclopenta[b]pyrazine",0,train
+CCCCCCCC(O)CCCC(=O)OCC(O)CO,"2,3-Dihydroxypropyl 5-hydroxydodecanoate",0,train
+CCCCCCCC=CCO,2-Decen-1-ol,1,train
+OCCCCCc1ccccc1,5-Phenyl-1-pentanol,1,train
+NCC(CC(=O)O)c1ccc(Cl)cc1,Baclofen,0,train
+CCCN(CCC)S(=O)(=O)c1ccc(C(=O)O)cc1,Probenecid,0,train
+CC(=O)C1CCCC1=O,2-Acetylcyclopentanone,0,train
+CCC(=O)OCCCC1CCCCC1,Cyclohexylpropyl propionate,0,train
+O=C1OCc2ccccc21,Phthalide,0,train
+CCCCCCC1OCCC(C)O1,"1,3-Dioxane, 2-hexyl-4-methyl-",1,test
+C=CCc1ccc(OC2OC(CO)C(O)C(O)C2O)cc1,Chavicol O-beta-glucopyranoside,0,train
+Cc1cccc2c1C(C)C(=O)O2,Dimethyl benzo-furanone,0,train
+CCSSCC,Diethyl disulfide,0,train
+C=CC(C)(CCC=C(C)CCC=C(C)C)OC(=O)C(C)C,"3,7,11-Trimethyldodeca-1,6,10-trien-3-yl 2-methylpropanoate",0,train
+CSCCCCN=C=S,Erucin,0,test
+CCCC1CCC(=O)O1,gamma-Heptalactone,0,test
+CC(=O)OC(C)C1CCCC(C)(C)C1,"Cyclohexanemethanol, alpha,3,3-trimethyl-, 1-acetate",1,test
+C=C(CCC=C(C)C)C1CC=C(CCC=C(C)C)CC1,alpha-Camphorene,0,test
+CCOC(OCC)c1ccccc1,(Diethoxymethyl)benzene,0,train
+CC(C)COC=O,Isobutyl formate,0,train
+CCCCCCCCCOC(=O)CCCCCC,Nonyl heptanoate,1,test
+CCOC(=O)C1=C(C)C=CCC1(C)C,"1,3-Cyclohexadiene-1-carboxylic acid, 2,6,6-trimethyl-, ethyl ester",1,train
+OCCOCCO,Diethylene Glycol,0,train
+CCCCCCCCOC(=O)c1cc(O)c(O)c(O)c1,Octyl Gallate,0,train
+CC=C(C)C(=O)OCC=Cc1ccccc1,3-Phenyl-2-propen-1-yl 2-methyl-2-butenoate,0,train
+CCCCCCCOC(=O)CC,Heptyl propionate,1,test
+CC1=CC(=O)CC(C)(C)C1(O)C=CC(C)O,"4-Hydroxy-4-(3-hydroxybut-1-enyl)-3,5,5-trimethylcyclohex-2-en-1-one",0,train
+C=CC(C)(CCC=C(C)C)OC(=O)C(C)C,Linalyl isobutyrate,1,test
+C=C(C)CCCC(C)CCOC(=O)c1ccccc1,"7-Octen-1-ol, 3,7-dimethyl-, 1-benzoate, (-)-",1,train
+CCCCC(OC(C)=O)C(=O)OC,Methyl 2-(acetyloxy)hexanoate,0,test
+CCCCCCCCCC(=O)OCCCc1ccccc1,3-Phenylpropyl decanoate,0,train
+CCCOC(=O)CC,Propyl propionate,0,train
+CC(C)C1CCC2CC(=O)CCC2C1,"2(1H)-Naphthalenone, octahydro-6-(1-methylethyl)-",0,test
+CCC=CCCCCO,5-Octen-1-ol,0,test
+CC1=CCCC(C)(C)C1C=CC(=O)CC(C)C,"5-Methyl-1-(2,6,6-trimethylcyclohex-2-en-1-yl)hex-1-en-3-one",0,train
+CCC=CCCCCOC(=O)CC(C)C,oct-5-enyl 3-methylbutanoate,0,train
+CC=CCSC(C(=O)CC(C)C)C(C)C,"3-Crotylthio-2,6-dimethyl-4-heptanone",0,train
+CCOC(=O)c1ccccc1OC,Ethyl 2-Methoxybenzoate,0,train
+CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,Propiconazole,0,train
+CC1CCC(C(C)C)C2(C1)OCC(CO)O2,"Menthone 1,2-glycerol ketal, (+-)-",0,test
+CCC#CCCCCC,3-Nonyne,0,train
+c1ccncc1,Pyridine,0,train
+CCCC(=O)OC(=O)CCC,Butyric anhydride,0,train
+CCCC(O)C(CC)CO,"2-Ethyl-1,3-Hexanediol",0,test
+CC1=CCOC(c2ccccc2)C1,"2H-Pyran, 3,6-dihydro-4-methyl-2-phenyl-",1,train
+O=C1CCC2=C(CCCC2)O1,"3,4,5,6,7,8-Hexahydrocoumarin",0,train
+CCCCOC(=O)CC,Butyl propionate,1,test
+CSc1cncc(C)n1,2-Methyl-6-(methylthio)pyrazine,0,train
+Cc1ncc2c(n1)C(C)OC2,"2,7-Dimethyl-5,7-dihydrofuro[3,4-d]pyrimidine",0,test
+CCC=CCCOC(=O)CC(C)C,"Butanoic acid, 3-methyl-, 3-hexenyl ester",0,train
+CCC(=O)OCC(COC(=O)CC)OC(=O)CC,Tripropionin,0,test
+C=CC(C)(CCC=C(C)C)OC(=O)Cc1ccccc1,Linalyl phenylacetate,1,train
+C=C(C)C1C=C2C(C)CCC2C(C)CC1,"1,4-Dimethyl-7-(prop-1-en-2-yl)-1,2,3,3a,4,5,6,7-octahydroazulene",0,train
+CCCC(O)C(C)C,2-Methyl-3-hexanol,0,train
+C=C1CCCC(C)(C)C1CCC(C)=O,"4-(2,2-Dimethyl-6-Methylenecyclohexyl)Butan-2-One",0,train
+CC1SC(C)SC(C)S1,"2,4,6-Trimethyl-1,3,5-trithiane",0,test
+CC(C)=CCOC(=O)C=C(C)C,3-Methyl-2-butenyl 3-methyl-2-butenoate,0,train
+CCCCCC(CC(=O)OC)OC(C)=O,Methyl 3-acetoxyoctanoate,0,train
+CCC=CCCOC(C)=O,Hex-3-enyl acetate,0,train
+CCCC(=O)OCC1CCCO1,Tetrahydrofurfuryl butyrate,0,train
+CCOC(=O)C(O)C(C)CC,Ethyl 2-hydroxy-3-methylvalerate,0,train
+COCC(C)O,1-Methoxy-2-propanol,0,train
+Cc1cc(C)c(O)c(C)c1,"2,4,6-Trimethylphenol",0,train
+c1nc2c(o1)CCCCCCCCCC2,"Cyclododecoxazole, 4,5,6,7,8,9,10,11,12,13-decahydro-",0,train
+CCCSSSCC,1-(Ethyltrisulfanyl)propane,0,train
+CC1=CCCC(C)(C)C1C=O,alpha-Cyclocitral,0,train
+CCCCCCCCCC(=O)O,Decanoic Acid,0,test
+CCCCCCCCCCCCCCCCCC(=O)OCC(O)[C@H]1OC[C@@H](O)[C@@H]1O,Glycomul S,0,train
+C=Cc1ncc(C)nc1C,"2-Ethenyl-3,5-dimethylpyrazine",0,train
+CCC(=O)c1ccc[nH]1,2-Propionylpyrrole,0,test
+CC=C(C)C(=O)OCC=C(C)CCC=C(C)C,"2-Butenoic acid, 2(or 3)-methyl-, (2E)-3,7-dimethyl-2,6-octadienyl ester",0,train
+CC(=O)OCC1CCC(C)CC1C,"Cyclohexanemethanol, 2,4-dimethyl-, 1-acetate",0,train
+CCCCOC(=O)COC(=O)c1ccccc1C(=O)OCCCC,Butyl phthalyl butyl glycolate,0,train
+CC(=O)C=CC(C)C,5-Methylhex-3-en-2-one,0,test
+CC1(C)C2CCC3(CO3)C1C2,"2,10-Epoxypinane",1,train
+CC(C)=CCCC1(C)C2CC3C(C2)C31C,alpha-Santalene,0,train
+CCc1cc2c(cc1C(C)=O)C(C)(C)CCC2(C)C,"7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin",0,train
+CCC1(CC)CSSS1,"4,4-Diethyltrithiolane",0,test
+CCCCCCCCCCCCCCC(=O)OC,Methyl Pentadecanoate,0,train
+CC1CC(C)SS1,"3,5-Dimethyldithiolane",0,train
+CC(C)CC1OCC(C)O1,"2-Isobutyl-4-methyl-1,3-dioxolane",0,train
+COc1cc(CO)ccc1O,Vanillyl alcohol,0,train
+CCCCCCCCCCCCCC(=O)OC(C)C,Isopropyl Myristate,0,train
+CC(C)=CCCc1ccoc1,Perillene,0,train
+CCCCCCc1ccc(C=CC(OC)OC)cc1,"Benzene, (3,3-dimethoxy-1-propenyl)-, monohexyl deriv.",0,train
+SCCCCCCS,"1,6-Hexanedithiol",0,train
+CCOC(C)OCC(COC(C)OCC)OC(C)OCC,"1,2,3-Tris((1-ethoxy)ethoxy)propane",0,train
+CCCCCC(=Cc1ccccc1)C(OCC)OCC,alpha-Amylcinnamaldehyde diethyl acetal,0,train
+O=C1CCCCCCCCCCC(=O)OCCO1,Ethylene dodecanedioate,0,test
+CC=CC(=O)C(C)=C(C)C(C)(C)C,"5,6,7,7-Tetramethylocta-2,5-dien-4-one",0,train
+CCCCCC=CCCO,3-Nonen-1-ol,0,train
+CCCCOC(=O)CC(C)=O,Butyl acetoacetate,0,train
+CCCCCCC(=O)OC(C)CCC,2-Pentanol 2-pentylacetate,0,train
+COc1nccnc1C,2-Methoxy-3-methylpyrazine,0,train
+CC(C)CCCC(C)CCOC(=O)Cc1ccccc1,"Benzeneacetic acid, 3,7-dimethyloctyl ester",1,train
+CCCC(=O)OC1CC(C)CCC1C(C)C,Menthyl butyrate,0,test
+CCCCCC=CCO,Oct-2-en-1-ol,0,train
+COC(=O)C1OC1(C)C1CC2C=CC1C2,"2-Oxiranecarboxylic acid, 3-bicyclo[2.2.1]hept-5-en-2-yl-3-methyl-, methyl ester",1,train
+CCCCCCCCCCCC(=O)Oc1ccc(C)cc1,p-Tolyl laurate,0,train
+CCC(=O)OC1C=CC2C3CCC(C3)C12,"3a,4,5,6,7,7a-Hexahydro-4,7-methano-1H-indenyl propionate",0,train
+Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C,Aminopyrine,0,test
+CCC=C(C)C(O)CCCC,4-Methylnon-3-en-5-ol,0,train
+CCCSSCc1ccco1,Propyl furfuryl disulfide,0,train
+N#CC(=C1CCCCC1)c1ccccc1,Alpha-cyclohexylidene benzeneacetonitrile,0,train
+O=C(O)COc1ccc(Cl)cc1Cl,"(2,4-Dichlorophenoxy)Acetic Acid",0,train
+c1ccoc1,Furan,0,train
+Cc1ccsc1,3-Methylthiophene,0,train
+CCCCCCCOC(=O)CC(C)C,Heptyl isovalerate,0,train
+CCCCCCCCCCCCCC(=O)OCC(O)CO,Glyceryl Myristate,0,train
+CCCCOCc1ccccc1,Benzyl butyl ether,1,test
+CCCCCCOC(=O)CCC(C)=O,Hexyl levulinate,0,train
+CC(C)=CCCC(C)CCOC(=O)C(C)C,Citronellyl isobutyrate,1,train
+C=CCC(C)C(=O)OCC,Ethyl 2-methyl-4-pentenoate,0,test
+C=CCCCCCCCCC(=O)OCCCC,Butyl 10-undecenoate,0,train
+CCCCOC(C)OCCC(C)C,1-(1-Butoxyethoxy)-3-methylbutane,0,train
+CCCCCCCCCC=CCO,2-Dodecen-1-ol,0,train
+CCC=C(C)COC(C)=O,"2-Penten-1-ol, 2-methyl-, acetate",0,train
+CC(C)CCOC(=O)C(C)C,Isoamyl isobutyrate,0,train
+C=CCCC(=O)C1=CC2(CCCC2)CCC1,"4-Penten-1-one, 1-spiro[4.5]dec-6-en-7-yl-",0,train
+C=CC(C)CCC=C(C)C,Dihydromyrcene,1,train
+CCCC=CCCOC(C)=O,Hept-3-en-1-yl acetate,0,train
+O=C(Cc1ccccc1)OCCc1ccccc1,Phenethyl phenylacetate,1,train
+CC1OCCC1=O,Dihydro-2-methyl-3(2H)-furanone,0,test
+c1ccc2cnccc2c1,Isoquinoline,0,test
+CCCCCCCC(=O)OCCC(C)CCC=C(C)C,Citronellyl octanoate,1,train
+CC=C(C=O)c1ccccc1,2-Phenyl-2-butenal,0,train
+COc1ccc(COC(=O)C(C)C)cc1,"Propanoic acid, 2-methyl-, (4-methoxyphenyl)methyl ester",0,test
+CC1=CCC2(CC1)COC(C)OC2,"3,9-Dimethyl-2,4-dioxaspiro[5.5]undec-8-ene",0,train
+CC(=O)OCC(OC(C)=O)C(OC(C)=O)C(OC(C)=O)C(C=O)OC(C)=O,D-Glucose pentaacetate,0,train
+CC1CCC(=O)C1=O,"3-Methyl-1,2-cyclopentanedione",0,train
+CC(C)(C)C(=O)OCc1ccccc1,Benzyl pivalate,0,test
+CC(=O)OC1=C(C)CCC1=O,2-Methyl-6-oxocyclopent-1-enyl acetate,0,test
+COc1ccc(C=CC(=O)NCCc2ccc3c(c2)OCO3)cc1OC,"N-[2-(1,3-benzodioxol-5-yl)ethyl]-3-(3,4-dimethoxyphenyl)prop-2-enamide",0,test
+COC(=O)OC,Dimethyl Carbonate,0,train
+CC=CC=CC(=O)OC(C)C,"Propan-2-yl hexa-2,4-dienoate",0,train
+Cc1ccccc1CCO,2-Methylphenethyl alcohol,1,train
+O=C1CCCCC1,Cyclohexanone,0,train
+CC(C)=CCCC1(C)OCC(C)O1,"2,4-Dimethyl-2-(4-methylpent-3-enyl)-1,3-dioxolane",0,train
+CSCCCO,3-(Methylthio)-1-propanol,0,train
+O=C(C=Cc1ccccc1)c1ccccc1,Cinnamoylbenzene,0,train
+CCCCCC1CCCC(=O)O1,delta-Decalactone,0,train
+O=C(Cc1ccccc1)OCc1ccco1,Furfuryl phenylacetate,0,train
+CC(=O)OCCC(C)CCCC(C)C,"1-Octanol, 3,7-dimethyl-, 1-acetate",1,train
+CC1=CC=C2C(C)(C)CCCC2(C)O1,Cycloionone,0,train
+C=CCc1ccc2c(c1)OCC(=O)CO2,"7-Allylbenzo[b][1,4]dioxepin-3-one",0,train
+NC(=O)NO,Hydroxyurea,0,train
+CCCCCOC(CCC)OCC,1-(1-Ethoxybutoxy)pentane,0,train
+C(=CC1OCCO1)c1ccccc1,"1,3-Dioxolane, 2-(2-phenylethenyl)-",0,train
+CCCCCCN=C=S,Hexyl isothiocyanate,0,test
+C=C(C)C1Cc2c(ccc3c2OC2COc4cc(OC)c(OC)cc4C2C3=O)O1,5'beta-Rotenone,0,train
+CC(C)(O)C(C)(C)O,Pinacol,0,test
+CCCOC(=O)c1cc(O)c(O)c(O)c1,Propyl Gallate,0,train
+CCCCCc1cccnc1,3-Pentylpyridine,0,test
+COc1ccc(CC(C)=O)cc1,1-(p-Methoxyphenyl)-2-propanone,0,train
+C=CC(=O)CCCCC,1-Octen-3-one,0,train
+CC(=O)C(=O)OCC(C)C,Isobutyl pyruvate,0,test
+CC1(C)CCC=C2CC(C=O)CCC21,"2-Naphthalenecarboxaldehyde, octahydro-5,5-dimethyl-",0,train
+CCCC(=O)C(CC)Sc1ccoc1C,3-[(2-Methyl-3-furyl)thio]-4-heptanone,0,train
+CC(C)CCC(C)C(C)O,"2-Heptanol, 3,6-dimethyl-",1,train
+CC(C)COC(=O)c1ccccc1,Isobutyl Benzoate,1,train
+CCOC(C)OCC(C)C,Acetaldehyde ethyl isobutyl acetal,0,test
+COC(=O)Cc1ccc(C(C)(C)C)cc1,Methyl p-tert-butylphenylacetate,0,train
+Cc1ccc(CO)o1,5-Methylfurfuryl alcohol,0,train
+O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1,"2,4-Pentadien-1-one, 5-(1,3-benzodioxol-5-yl)-1-(1-piperidinyl)-, (2E,4E)-",0,train
+CCCCCCC=CCC(=O)O,Dec-3-enoic acid,0,test
+CC=CC=CCOC(C)=O,"E,E-2,4-Hexadienyl acetate",0,train
+CCCC=CC(=O)OCCC,Propyl hex-2-enoate,0,train
+CCOC1OC(CO)C(O)C(O)C1O,"Glucopyranoside, ethyl",0,train
+CCOC(=O)CC1C=CCC1,"2-Cyclopentene-1-acetic acid, ethyl ester",0,train
+CC(C)C1CCC2(CCC(=O)O2)CC1,"1-Oxaspiro(4.5)decan-2-one, 8-(1-methylethyl)-, trans-",0,train
+CSc1ccoc1C,2-Methyl-3-(methylthio)furan,0,train
+O=C1CCCCC=CCCCCCCCCCO1,1-Oxacycloheptadec-7-en-2-one,0,test
+CC(C)CC=NCCc1ccccc1,"Benzeneethanamine, N-(3-methylbutylidene)-",0,test
+O=C1CCCCCCCCCCCCCC1,Cyclopentadecanone,0,train
+COC(=O)C(C)=O,Methyl pyruvate,0,test
+COCC(C)OCC(C)O,Dipropylene glycol monomethyl ether,0,train
+CCCCOCCCC,Butyl ether,0,test
+COc1cccc(OC)c1OC,"1,2,3-Trimethoxybenzene",0,train
+Nc1ccncc1,4-Aminopyridine,0,test
+CCCCCC=CCC(=O)OC,Methyl 3-nonenoate,0,train
+CSCC(C=O)=CCC(C)C,5-Methyl-2-(methylsulfanylmethyl)hex-2-enal,0,train
+S=P(N1CC1)(N1CC1)N1CC1,Thiotepa,0,train
+CC(=O)OCCC(C)C,Isoamyl Acetate,0,train
+CCCCCC=CC(=O)O,Oct-2-enoic acid,0,test
+O=Cc1ccc(O)c(O)c1,"3,4-Dihydroxybenzaldehyde",0,train
+CN(C)NC(=O)CCC(=O)O,Daminozide,0,train
+CC(O)CCO,"1,3-Butanediol",0,test
+C=C(C=O)C(C)CCC=C(C)C,"3,7-Dimethyl-2-methylene-6-octenal, (+-)-",0,train
+CCCCC=COC(=O)CCCCCCCCC,Hex-1-enyl decanoate,0,train
+CC=CC=O,But-2-enal,0,train
+CCCC=CCOC(=O)CCCCCCC,(E)-2-hexen-1-yl octanoate,0,train
+C=CC(C)(CCC=C(C)CCC=C(C)C)OC(=O)CC,"1,6,10-Dodecatrien-3-ol, 3,7,11-trimethyl-, 3-propanoate",0,train
+CC1=CC(OC=O)CC(C)C2CC(=C(C)C)CC12,"6-Azulenol, 1,2,3,3a,4,5,6,8a-octahydro-4,8-dimethyl-2-(1-methylethylidene)-, 6-formate",0,test
+CCCCCCCCCCCCCC#N,Tetradecanenitrile,0,test
+C=CC(C)CO,2-Methyl-3-buten-1-ol,0,test
+CC(=CCO)CCCC(C)CCCC(C)CCCC(C)C,"3,7,11,15-Tetramethylhexadec-2-en-1-ol",0,train
+CC(=O)OC1CCCCCCCCCCC1,"Cyclododecanol, 1-acetate",0,train
+CCCCOC(=O)C(C)CCC,Butyl 2-methylpentanoate,1,test
+CCCO,1-Propanol,0,train
+CC1(C)CCCC2(C)C3CCOC3CCC12,Ambrox,0,test
+O=C1C(O)=C(O)OC1C(O)CO,"D-erythro-hex-2-enonic acid, gamma-lactone",0,train
+CC(=O)c1cnc(C)c(C)n1,"1-(5,6-Dimethyl-2-pyrazinyl)ethanone",0,test
+CCCCCC(C)OC(=O)CC(C)C,sec-Heptyl isovalerate,0,train
+CCCCCCOC(=O)CC,Hexyl propionate,0,train
+CC(=O)C(O)CC(C)C,3-Hydroxy-5-methyl-hexan-2-one,0,train
+CCCOC(=O)c1ccco1,Propyl 2-furoate,0,train
+CC(=O)OCCOc1ccccc1,2-Phenoxyethyl acetate,0,test
+CCC(C)CN,2-Methylbutylamine,0,train
+CCc1cnc(CC)cn1,"Pyrazine, 2,5-diethyl-",0,train
+C=C1CCCC(C)(C)C1C=CC(C)=O,"4-(2,2-Dimethyl-6-methylenecyclohexyl)-3-buten-2-one",0,train
+CCC(=O)OC(C)(C)C1CC=C(C)CC1,Terpinyl propionate,0,train
+Cc1ccc(O)cc1,P-Cresol,0,train
+CC1=CCC(C=CC(C)C(C)O)C1(C)C,"3-Methyl-5-(2,2,3-trimethylcyclopent-3-en-1-yl)pent-4-en-2-ol",0,train
+CCC(C)CCCC(C)C=O,"2,6-Dimethyloctanal",1,test
+CC(=S)OC1CCOC1C,O-(2-methyloxolan-3-yl) ethanethioate,0,train
+Cc1ccc(C(C)(C)C)c(O)c1,6-tert-Butyl-m-cresol,0,test
+CC(=O)c1ncco1,"1-(1,3-Oxazol-2-yl)ethan-1-one",0,train
+O=O,Oxygen,0,train
+Cc1cc2ccccc2[nH]1,2-Methylindole,0,train
+CC(C)c1ccncc1,4-Isopropylpyridine,0,train
+CCCCCC(=O)CCCCC,6-Undecanone,0,train
+CC(C)c1ccc(C(C)CC=O)cc1,3-p-Isopropylphenyl-3-methylpropanal,0,train
+Cc1nccs1,2-Methylthiazole,0,test
+CC1CC(C)(C)OC(Cc2ccccc2)O1,"1,3-Dioxane, 4,4,6-trimethyl-2-(phenylmethyl)-",0,train
+c1coc(Cc2coc(Cc3ccco3)c2)c1,"2,4-Difurfurylfuran",0,train
+CCCCCCCCCCC=CC#N,2-Tridecenenitrile,0,train
+CCCCCC=CC(=O)OCC,2-Octenoic acid ethyl ester,0,train
+CC(C)(S)CC=O,3-Mercapto-3-methylbutanal,0,train
+C=C(C)COC(=O)CCC,2-Methylallyl butyrate,0,train
+CCCCCC=O,Hexanal,0,train
+CC(C)CC(=O)OCCc1ccccc1,Phenylethyl isovalerate,1,test
+CC=CC(=O)OCC,"2-Butenoic acid, ethyl ester",0,test
+CCCCCCCCC(OC)OC,Nonanal dimethyl acetal,0,train
+CC(=O)OC(C)=O,Acetic Anhydride,0,train
+CC1(O)CSC(C)(O)CS1,"2,5-Dimethyl-2,5-dihydroxy-1,4-dithiane",0,test
+Cc1cncs1,5-Methylthiazole,0,test
+C=CC(CCCCC)OC(=O)CC,1-Octen-3-YL propionate,0,train
+C=CC(=C)CCC=C(C)C,Myrcene,1,test
+CCCC1NCCS1,2-Propylthiazolidine,0,train
+CCCCCC(=O)OCC(C)OC(=O)CCCCC,Propylene glycol dihexanoate,0,train
+CC1CCC(CO)C(C)C1,"2,4-Dimethylcyclohexanemethanol",0,train
+CCCCCC(=O)OCCC(S)CCC,3-Mercaptohexyl hexanoate,0,train
+C=C(C)CCCC(C)CCOC(C)=O,Rhodinyl acetate,1,train
+Cc1cc(S)c(C)o1,"2,5-Dimethyl-3-furanthiol",0,train
+CC(=O)c1c(C)cc(C(C)(C)C)cc1C,"4'-tert-Butyl-2',6'-dimethylacetophenone",1,train
+CC(=O)OC1(C)CCC23CC1C(C)(C)C2CCC3C,Cedran-8-yl acetate,0,train
+CCCCCC(CC)OC(C)=O,3-Octyl acetate,1,train
+C=CCOC(=O)CCCCCC1CCCCC1,Allyl cyclohexyl hexanoate,0,train
+OCCCc1ccccc1,Benzenepropanol,0,train
+CCCCCCCOC(=O)C=Cc1ccccc1,"2-Propenoic acid, 3-phenyl-, heptyl ester",0,test
+CC(C)=CCCC(C)C=O,"(+-)-2,6-Dimethyl-5-heptenal",0,train
+C=C(C)CCCC(C)=CCC(C)C=O,"4,9-Decadienal, 2,5,9-trimethyl-",0,train
+CC(C)C1OCC(C)(C)C(C(C)C)O1,"1,3-Dioxane, 5,5-dimethyl-2,4-bis(1-methylethyl)-",0,train
+FC(F)(F)CCCl,"3-Chloro-1,1,1-trifluoropropane",0,train
+C=CC(C)(CCC=C(C)C)OC(=O)CC,Linalyl propionate,1,test
+CCc1ncc(C)nc1CC,"2,3-Diethyl-5-Methylpyrazine",0,train
+CCCOC(=O)c1ccccc1,Propyl Benzoate,0,train
+CCC=CCCOC(=O)CCCCCCCCC,(Z)-3-hexen-1-yl decanoate,0,train
+CCCCCC(=Cc1ccccc1)COC(=O)CC(C)C,2-Benzylideneheptyl 3-methylbutanoate,0,train
+CC1CCC2C(C)(C)C3CC12CC1OC13C,alpha-Cedrene epoxide,0,train
+CCCSSSSC,Methyl propyl tetrasulphide,0,train
+CCCCCCC(C)(C)S,tert-Nonanethiol,0,train
+CC(C)=CCCC(C)=CCO,"3,7-Dimethyl-2,6-octadienol",1,test
+CC1NCCS1,2-Methylthiazolidine,0,train
+CC(=O)OCC1CCC2C3CCC(C3)C12,"4,7-Methano-1H-indenemethanol, octahydro-, acetate",0,train
+CC=C(C)C(=O)O,"2-Butenoic acid, 2-methyl-",0,train
+CC1CCOC(c2ccccc2)C1,tetrahydro-4-methyl-2-phenyl-2H-pyran,1,train
+COc1cnc(C)s1,5-Methoxy-2-methylthiazole,0,train
+CCCCCCC1CCC(=O)O1,Gamma-Decalactone,0,train
+O=C1CCCCCC1,Cycloheptanone,0,train
+CC1SCCSS1,"3-Methyl-1,2,4-trithiane",0,test
+CCCCC(CC)COC=O,2-Ethylhexyl formate,0,train
+CCCCCCCCC(=O)OCC=C(C)CCC=C(C)C,"3,7-Dimethylocta-2,6-dienyl nonanoate",1,train
+CCCC(=O)OC(C)CCC,2-Pentyl butanoate,0,test
+Cc1occc1SC(C)CC=O,3-((2-Methyl-3-furyl)thio)butanal,0,train
+CC(C)c1ccccn1,2-Isopropylpyridine,0,test
+C=C(C)CCOC(=O)C(C)(C)C,"Propanoic acid, 2,2-dimethyl-, 3-methyl-3-buten-1-yl ester",1,train
+CC(C)=C1CCC(C)CC1=O,p-Menth-4(8)-en-3-one,0,train
+CCCC(=O)OCCCC1CCCCC1,3-Cyclohexylpropyl butyrate,0,train
+CC(C)(C)NC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4NC(=O)C=C[C@]4(C)[C@H]3CC[C@]12C,Finasteride,0,test
+C=C(C)C(=O)O,Methacrylic Acid,0,train
+CCCCc1ccccn1,2-Butylpyridine,0,train
+CC(C)CC(=O)OCCCc1ccccc1,3-Phenylpropyl isovalerate,0,train
+CCCCC(CC)COC(=O)c1ccccc1,2-Ethylhexyl benzoate,0,train
+CCCC(C)C(C)=O,3-Methylhexan-2-one,0,test
+CC(=O)CCC1=C(C)C=CCC1(C)C,Dihydrodehydro-beta-ionone,1,train
+CC(=O)C=CC1=C(C)CCC(C)C1(C)C,"3-Buten-2-one, 4-[2,5,6,6-tetramethyl-1(or 2)-cyclohexen-1-yl]-",0,train
+CCC(C)C(=O)OCc1ccco1,Furfuryl 2-methylbutyrate,0,test
+CC(C)c1cccc(O)c1,3-Isopropylphenol,0,train
+CC1CCC(C(C)(C)O)CC2=C1CCC2C,"2-(3,8-Dimethyl-1,2,3,4,5,6,7,8-octahydroazulen-5-yl)propan-2-ol",1,train
+CC=CC(=O)OCCC,Propyl but-2-enoate,0,test
+CCCCCCCCC=CC=CC=CC=O,"Pentadeca-2,4,6-trienal",0,train
+Cc1ccc2c(c1)CCCN2,"6-Methyl-1,2,3,4-tetrahydroquinoline",0,train
+CCC(O)CCC1C(C)CCCC1(C)C,"alpha-Ethyl-2,2,6-trimethylcyclohexanepropanol",0,train
+O=C(C=Cc1ccc(O)c(O)c1)OC(C(=O)O)C(O)C(=O)O,trans-Caftaric acid,0,train
+CC(=O)OC1CC2CCC1(C)OC2(C)C,"2-Oxabicyclo[2.2.2]octan-6-ol, 1,3,3-trimethyl-, 6-acetate",0,test
+CCCC=CCOC(=O)CCCCC,Hex-2-enyl hexanoate,0,train
+CC(C=O)C(C)CC(C)(C)C,"Hexanal, 2,3,5,5-tetramethyl-",0,train
+CCOC(=O)CC1(C)OCC(C)O1,"Ethyl 2,4-dimethyl-1,3-dioxolane-2-acetate",0,train
+CCCCCCC#CC(=O)OC,Methyl 2-nonynoate,0,train
+CC(C)CCOC(CC(C)C)OCC(C)C,1-Isobutoxy-1-isopentyloxy-3-methylbutane,0,train
+CC1CCC(C)O1,"2,5-Dimethyltetrahydrofuran",0,test
+C=CC(=C)CCC1C(=C)CCC2C(C)(C)CCCC12C,"1,1,4a-Trimethyl-6-methylene-5-(3-methylene-4-pentenyl)decahydronaphthalene",0,train
+CC=CC(=O)OC(CC)C(C)C,But-2-enoic acid 1-ethyl-2-methyl-propyl ester,0,train
+C1CCCCCC2COCC2CCCC1,"Cyclododeca(c)furan, tetradecahydro-",0,test
+CCCC=C(C#N)c1ccccc1,2-Phenylhex-2-enenitrile,0,train
+CC(C)CCOC(=O)CCc1ccco1,Isoamyl 3-(2-furan)propionate,1,test
+CC(=O)OCCCC(C)c1ccccc1,4-Phenylpentyl acetate,0,test
+CCCCCCCC1(C(=O)O)CC1,Heptylcyclopropane-1-carboxylic acid,0,test
+C=CC(C)(CCC=C(C)C)OCC,Ethyl linalyl ether,0,train
+CC(CC#N)CCCC(C)(C)O,"Octanenitrile, 7-hydroxy-3,7-dimethyl-",0,train
+C=CCSSSSSSCC=C,Diallyl hexasulfide,0,train
+CCCCCC(C)C(=O)O,2-Methylheptanoic acid,0,train
+NC(N)=O,Urea,0,train
+CCCCCOCc1ccccc1,"Benzene, [(pentyloxy)methyl]-",0,train
+CCC1OCCC(C)(C)S1,"1,3-Oxathiane, 2-ethyl-4,4-dimethyl-",0,train
+CSCCCCC#N,5-(Methylsulfanyl)pentanenitrile,0,train
+CCC(C)SC(=O)CC(C)C,"Butanethioic acid, 3-methyl-, S-(1-methylpropyl) ester",0,test
+CC(=O)C=CC1C(C)=CCC(C)C1(C)C,"3-Buten-2-one, 4-(2,5,6,6-tetramethyl-2-cyclohexen-1-yl)-",0,train
+CSCCCOC(C)=O,3-(Methylthio)propyl acetate,0,train
+CC1CC(=O)CO1,5-Methyloxolan-3-one,0,train
+CCCOC(=O)CC(C)=O,Propyl acetoacetate,0,train
+CC(O)CCc1ccccc1,4-Phenyl-2-butanol,0,train
+CC(O)C(C)SC(C)C(C)S,3-[(2-Mercapto-1-methylpropyl)thio]-2-butanol,0,train
+Cc1sccc1S,3-Mercapto-2-methylthiophene,0,train
+COC(=O)C=C1CCCC1,"Acetic acid, 2-cyclopentylidene-, methyl ester",0,train
+CCCCCOC(=O)c1ccccc1O,Amyl Salicylate,0,test
+CCOC(C)OCCc1ccccc1,"Benzene, (2-(1-ethoxyethoxy)ethyl)-",0,test
+COc1ccc(COC=O)cc1,4-Methoxybenzyl formate,0,train
+CCCCCC1C(=O)CCC1CC(=O)OC,Hedione,0,train
+CCCCOC(=O)c1ccccc1N,Butyl anthranilate,0,train
+CCCCCCC1CCCC(=O)O1,delta-UNDECALACTONE,0,train
+CC(C)(C)c1cccc(O)c1,"Phenol, 3-(1,1-dimethylethyl)-",0,train
+COC(=O)CCCC(C)OC(C)=O,Methyl 5-acetoxyhexanoate,0,train
+CCC(=CCC1CC=C(C)C1(C)C)CO,"2-Ethyl-4-(2',2',3-trimethylcyclopent-3'-enyl)but-2-enol",0,train
+CC12CCC(C3(CCCC3)C1=O)C2(C)C,"Spiro[bicyclo[2.2.1]heptane-2,1'-cyclopentan]-3-one, 4,7,7-trimethyl-",0,train
+CCC(=O)c1cccs1,2-Propionylthiophene,0,test
+C=CC(O)CC,1-Penten-3-Ol,0,train
+C=CC(C)(CCCC(C)C)OC(C)OCC,"1-Octene, 3-(1-ethoxyethoxy)-3,7-dimethyl-",0,test
+FC(F)=C(C(F)(F)F)C(F)(F)F,"1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene",0,test
+CCCCCC1CC(=O)C=C(C)C1C(=O)OCC,"2-Cyclohexene-1-carboxylic acid, 2-methyl-4-oxo-6-pentyl-, ethyl ester",0,train
+CCC(=O)C(=O)C(C)CC,"5-Methylheptane-3,4-dione",0,train
+CC(C)C(=O)OCc1ccco1,Furfuryl isobutyrate,0,train
+CCCC(=O)OCCCc1ccccc1,3-Phenylpropyl butyrate,0,train
+CC(=O)c1ccc2c(c1)C(C)(C)C(C)C2(C)C,"1-(2,3-Dihydro-1,1,2,3,3-pentamethyl-1H-inden-5-yl)ethan-1-one",0,train
+CC(=O)C1=CCCCN1,"2-Acetyl-1,4,5,6-tetrahydropyridine",0,train
+CC(C)=CCO,3-Methyl-2-buten-1-OL,0,train
+CCCCC1CCCC(=O)O1,Delta-Nonalactone,0,train
+CCOC(OCC)C(C)C,"1,1-Diethoxy-2-methylpropane",0,train
+O=CCOCCc1ccccc1,"Acetaldehyde, 2-(2-phenylethoxy)-",1,train
+CCCCCCC=COC(=O)CC,Octenol propionate,0,train
+CCF,Fluoroethane,0,train
+CC(C)=CCCC(C)CC(=O)O,Citronellic acid,0,train
+CC1(C)CCC(COC=O)C23C4CC(CC412)C3(C)C,"2,3b-Methano-3bH-cyclopenta[1,3]cyclopropa[1,2]benzene-4-methanol, octahydro-7,7,8,8-tetramethyl-, 4-formate",0,train
+Nc1ccn(C2CCC(CO)O2)c(=O)n1,4-Amino-1-[5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one,0,train
+C=C(C)C(=O)OCCCC,Butyl Methacrylate,0,test
+CCOCC,Diethyl Ether,0,train
+COCCc1ccccc1,Methyl phenethyl ether,1,train
+O=C(O)CCCc1ccccc1,4-Phenylbutyric Acid,0,test
+Cc1scnc1CCOC(=O)C(C)C,2-(5-Methyl-4-thiazolyl)ethyl isobutyrate,0,train
+FS(F)(F)(F)(F)F,Sulfur Hexafluoride,0,train
+CCOc1cc(COC)ccc1O,"Phenol, 2-ethoxy-4-(methoxymethyl)-",0,train
+CCCC=CCOC=O,Hex-2-enyl formate,0,test
+CCCCCCCCCOC(=O)C(C)C,Nonyl 2-methylpropanoate,1,train
+CC(C)CCCCOC(=O)C(C)C,Isoheptyl isobutyrate,0,test
+CCC1SC(C)=NC(C)S1,"2-ethyl-4,6-dimethyl-4H-1,3,5-dithiazine",0,train
+CSCCCCCCN=C=S,6-Methylthiohexyl isothiocyanate,0,train
+CC(C)COC(=O)C(C)(C)C,"Pivalic acid, 2-methylpropyl ester",0,train
+CC1CC(C)(c2ccccc2)CO1,Rhubafuran,0,train
+Cc1occc1SSCc1ccco1,Furfuryl 2-methyl-3-furyl disulfide,0,train
+COc1ccc(C=O)cc1O,Isovanillin,0,test
+CCC(C)C(O)C(=O)OC,Methyl 2-hydroxy-3-methylpentanoate,0,train
+CCCCCCC(=O)OCc1ccccc1,Phenylmethyl heptanoate,0,train
+CC1=CC(S)CS1,"2,3-Dihydro-5-methyl-3-thiophenethiol",0,train
+CCCCC(C)O,2-Hexanol,0,train
+CCC(=O)COC(C)=O,1-Acetoxy-2-butanone,0,train
+CC(=O)OC(C)(C)Cc1ccccc1,Dimethyl benzyl carbinyl acetate,1,train
+FC(F)(F)CCl,"2-Chloro-1,1,1-trifluoroethane",0,train
+CCC(C)COC(=O)C=Cc1ccccc1,2-Methylbutyl 3-phenyl-2-propenoate,0,test
+CCCCCCCCCCCCCC=CC(=O)O,Hexadec-2-enoic acid,0,test
+CCCCC(=O)OCC=C(C)CCC=C(C)C,"3,7-Dimethylocta-2,6-dienyl pentanoate",1,test
+Cc1cc(C)c(O)cc1C,Pseudocumenol,0,test
+CC(C)c1ccc(CO)cc1,Cuminol,0,test
+CCOCCOCCO,Diethylene Glycol Monoethyl Ether,0,train
+C=CCCCCCCCC(=O)O,9-Decenoic acid,0,train
+CC1OC=CC1=O,"3(2H)-Furanone, 2-methyl-",0,train
+CCCCCC(=O)OCc1ccco1,Furfuryl hexanoate,0,test
+C=C(C)C1CCC2=CC(O)CC(C)C2(C)C1,"2,3,4,4a,5,6,7,8-Octahydro-4,4a-dimethyl-6-(1-methylvinyl)-2-naphthol",0,train
+CCOC(=O)CCSCc1ccco1,Ethyl 3-(furfurylthio)propionate,0,train
+CC1CCc2nccnc21,"5-Methyl-6,7-dihydro-5H-cyclopentylpyrazine",0,train
+CC(=O)OCc1ccc(C)cc1,"Benzenemethanol, 4-methyl-, 1-acetate",0,train
+CCOC(C)OCc1ccccc1,"Benzene, ((1-ethoxyethoxy)methyl)-",0,train
+CC(C)C(C=O)c1ccccc1,3-Methyl-2-phenylbutyraldehyde,0,train
+C=C(CCOC(C)=O)c1ccccc1,3-Phenyl-3-buten-1-yl acetate,0,train
+CCCCC(CC)COC(=O)CCS,2-Ethylhexyl 3-mercaptopropionate,0,train
+CCCCCOC(=O)c1ccccc1,Amyl Benzoate,0,train
+CCC=CCCOC(=O)CC,Hex-3-en-1-yl propanoate,0,train
+C=CCC(C)C(=O)O,2-Methyl-4-pentenoic acid,0,train
+CCC=CCC(=O)OC,Methyl 3-hexenoate,0,train
+CC12CCCC(O)(C1)C1CC(C)(C)C1CC2,Beta-Caryophyllene Alcohol,0,test
+CC=Cc1cc(OC)c(O)c(OC)c1,"2,6-Dimethoxy-4-prop-1-enylphenol",0,test
+COC(=O)c1ccccc1N=CC=C(C)CCC=C(C)C,"Methyl 2-(3,7-dimethylocta-2,6-dienylideneamino)benzoate",0,train
+C=CCC=CCCC(=O)OCC,"Ethyl octa-4,7-dienoate",0,train
+CCC=CCCOC(=O)C=CCCC,Hexenoic acid 3-hexenyl ester,0,train
+C=CC(C)(O)CC=CC(=C)C,"1,5,7-Octatrien-3-ol, 3,7-dimethyl-",0,train
+C=CC(C)(CCC=C(C)C)OC(=O)c1ccccc1N,Linalyl anthranilate,1,test
+CCC(=O)OC(C)(C)Cc1ccccc1,"1,1-Dimethyl-2-phenylethyl propionate",0,train
+CC(CC(C)(C)C#N)c1ccccc1,"2,2,4-Trimethyl-4-phenyl-butane-nitrile",0,train
+CCCCCCCC=CC(=O)OCC,Ethyl 2-decenoate,0,test
+C,Methane,0,test
+CCCCCCCC=CC=CC=O,"Dodeca-2,4-dienal",0,train
+CCC(=O)Oc1ccccc1OC,Guaiacol propionate,0,train
+CC(C)C1CCC(C(C)O)CC1,"Cyclohexanemethanol, alpha-methyl-4-(1-methylethyl)-",1,train
+O=C(CCc1ccccc1)OCCCc1ccccc1,"Benzenepropanoic acid, 3-phenylpropyl ester",0,test
+CCCCCCCCCCCCO,1-Dodecanol,0,train
+CC(C)C(=O)OCC(C)c1ccccc1,2-Phenylpropyl isobutyrate,0,train
+CC(N)C(=O)NC(CCC(N)=O)C(=O)O,(2S)-5-amino-2-[[(2S)-2-aminopropanoyl]amino]-5-oxopentanoic acid,0,train
+Cc1cnc2ccccc2n1,2-Methylquinoxaline,0,train
+C=CCCCCCCCC(C)=O,10-Undecen-2-one,0,train
+CC(C)CCN=C=S,Isoamyl isothiocyanate,0,train
+O=C(O)CCCO,4-Hydroxybutyric Acid,0,test
+CCCCCC=CCCOC(C)=O,3-Nonenyl acetate,0,train
+NC(=O)NCCCC(N)C(=O)O,"Citrulline, (+-)-",0,train
+CC1CCC2CC1C2(C)C,Pinane,0,train
+CCN(CC)CC,Triethylamine,0,train
+CCOC(C)=O,Ethyl Acetate,0,test
+CCC=CCCOC(=O)C(CC)CC,(Z)-3-hexen-1-yl 2-ethyl butyrate,0,train
+COc1nccnc1CC(C)C,2-Isobutyl-3-methoxypyrazine,0,test
+CCCN(CCC)CCC,Tripropylamine,0,train
+CC(=O)C1=CNCCS1,"6-Acetyl-2,3-dihydro-1,4-thiazine",0,train
+CCN,Ethylamine,0,train
+CCC1N=C(C)C(C)S1,"2-Ethyl-4,5-dimethyl-3-thiazoline",0,test
+O=CC1CCC2C3CCC(C3)C12,"4,7-Methano-1H-indenecarboxaldehyde, octahydro-",0,train
+CN1CCCC1,1-Methylpyrrolidine,0,train
+CC(OC=O)C1CCCC(C)(C)C1,"alpha,3,3-Trimethylcyclohexylmethyl formate",0,train
+CCCCCCCCC(=O)OCCCCCCC,Heptyl nonanoate,1,test
+C=CC=CC=CCC=CCC,"Undeca-1,3,5,8-tetraene",0,train
+COC(=O)c1ccccc1OC,Methyl 2-Methoxybenzoate,0,train
+CCCCCCCCCCCOC(C)=O,Undecyl acetate,1,train
+CCC(=O)OC(C)c1ccccc1,1-Phenylethyl propionate,1,train
+CC(C)CCOC(OCCC(C)C)c1ccccc1,[Bis(3-methylbutoxy)methyl]benzene,0,train
+CCOC1=C(C)OC(C)C1=O,"2,5-Dimethyl-4-ethoxy-3(2H)-furanone",0,train
+CCNc1ccccc1C(=O)OC,Methyl 2-(ethylamino)benzoate,0,test
+CC(C)=CCCC(C)=CCOC(=O)C(C)C,"Propanoic acid, 2-methyl-, (2E)-3,7-dimethyl-2,6-octadienyl ester",1,train
+C=CC1(C)CCC(=O)O1,4-HYDROXY-4-METHYL-5-HEXENOIC ACID gamma LACTONE,0,train
+CCCC=CCOC(=O)CCC,Hex-2-enyl butyrate,0,train
+CC1=CC(O)C2CC1C2(C)C,Verbenol,0,train
+CCCCCC(=O)Oc1ccc(C)cc1,"Hexanoic acid, 4-methylphenyl ester",0,train
+CCC1OCC2(CC=CCC2)CO1,"2,4-Dioxaspiro[5.5]undec-8-ene, 3-ethyl-",1,train
+SCS,Methanedithiol,0,train
+C=C1C2CCC(C2)C1(C)CCC=C(C)CO,Santalol,0,train
+CC(=O)OCC=C(C)CCCC(C)CCCC(C)CCCC(C)C,"3,7,11,15-Tetramethylhexadec-2-en-1-yl acetate",0,test
+COC(=O)C(C)CS,Methyl 2-methyl-3-mercaptopropionate,0,train
+C=CC(C)=CCCC(C)(C)O,"2,6-Dimethyl-5,7-octadien-2-ol",0,train
+O=C(O)C(=O)Cc1ccccc1,Phenylpyruvic acid,0,train
+COc1cc(CCC=O)ccc1O,3-(4-Hydroxy-3-methoxyphenyl)propionaldehyde,0,train
+CSCSSC,"2,3,5-Trithiahexane",0,train
+CC1=C(O)C(=O)CC1,2-Hydroxy-3-methyl-2-cyclopenten-1-one,0,test
+CC12CCCC3(CC1)C1(C)OC1CCC23C,"2H-4,7a-Ethanonaphth[1,2-b]oxirene, octahydro-3a,4,7b-trimethyl-",0,train
+CCOC(=O)COc1ccccc1,"Acetic acid, 2-phenoxy-, ethyl ester",1,train
+O=C(O)C=CC(=O)O,2-Butenedioic acid,0,test
+CC(=O)CC(=O)OCC=C(C)CCC=C(C)C,"3,7-Dimethylocta-2,6-dien-1-yl 3-oxobutanoate",1,train
+CCOC(=O)c1ccc(C)cc1O,Ethyl 2-hydroxy-4-methylbenzoate,0,test
+CC1=CCCC2(C)C(OC=O)C(C)CCC12C,"1-Naphthalenol, 1,2,3,4,4a,7,8,8a-octahydro-2,4a,5,8a-tetramethyl-, 1-formate",0,train
+CCCCCCCCCCCCCCCC(=O)O,Palmitic Acid,0,train
+CCC(=O)C(=O)O,2-Oxobutanoic Acid,0,train
+CCCCCCCC1CC=CC(=O)O1,5-HYDROXY-2-DODECENOIC ACID delta-LACTONE,0,train
+CCCCCCCCCC(C)C=O,2-Methylundecanal,0,train
+CCCC(=O)Oc1ccc(C)cc1,p-Tolyl butyrate,0,train
+CC1CCCC(=O)C1=O,"1-Methyl-2,3-cyclohexadione",0,train
+CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc21,"4-(3,4-Dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine",0,train
+CCCC(=O)C(CC)Cc1ccccc1,3-Benzyl-4-heptanone,0,train
+CCCCCC=CCCCCC=O,Dodec-6-enal,0,train
+CC1OC(C)(O)C(C)OC1(C)O,"2,3,5,6-Tetramethyl-1,4-dioxane-2,5-diol",0,train
+CC1CC(C)c2nccnc21,"6,7-Dihydro-5,7-dimethyl-5H-cyclopentapyrazine",0,train
+CC(CO)COC1CC2CCC1(C)C2(C)C,"2-Methyl-3-((1,7,7-trimethylbicyclo(2.2.1)hept-2-yl)oxy)-1-propanol",0,train
+CCOc1ccc(OC)cc1,p-Methoxyphenetole,0,train
+CC1=CCC(C)C(C)C12C=CC(C)O2,"2,6,9,10-Tetramethyl-1-oxaspiro(4.5)deca-3,6-diene",0,train
+CCC=CCCOC(=O)C1CC1,3-Hexen-1-yl cyclopropanecarboxylate,0,train
+CCC(=O)c1ccc(OC)cc1,4-Propanoylanisole,0,train
+CC1COC(C)(C(C)O)O1,Acetoin propyleneglycol ketal,0,test
+CCCC(C)O,2-Pentanol,0,train
+CCCCCCCCCCCCCC(=O)O,Myristic Acid,0,train
+CCCc1nc(CC)sc1CC,"2,5-Diethyl-4-propylthiazole",0,train
+CC(C)=CCCC(C)=CCCC(C)=CCO,a Farnesol,0,train
+CCCCCCCCCCOC(=O)CCCCC,Decyl hexanoate,0,train
+O=Cc1cc2ccccc2o1,2-Benzofurancarboxaldehyde,0,train
+C=C(C)C1CCC(C)=CC1=O,Isopiperitenone,0,test
+CCCC=CC=CC=CC=O,"Deca-2,4,6-trienal",0,train
+CCCCCCCCCCOC(=O)CCC(C)C,Decyl 4-methylpentanoate,0,train
+CCCSSCCC,Dipropyl disulfide,0,train
+CCCCC(O)S,Thiopentol,0,train
+CSCCCN,3-(Methylthio)propylamine,0,train
+CCC(C)CC=O,3-Methylvaleraldehyde,0,test
+O=Cc1ccc[nH]1,Pyrrole-2-carboxaldehyde,0,train
+CC(=O)OC1=CCC2C3CCC(C3)C12,"4,7-Methano-1H-indenol, 3a,4,5,6,7,7a-hexahydro-, acetate",0,train
+CCCC(CC(=O)OCC)OC(C)=O,Ethyl 3-acetoxyhexanoate,0,train
+CC(C)OC=O,Isopropyl formate,0,test
+CCCC(O)CC,3-Hexanol,0,train
+CC1CC=CCC1,4-Methylcyclohexene,0,test
+CC(C)(C)c1ccc(O)cc1,4-tert-Butylphenol,0,train
+CCCCCC(=O)OCC(C)CC,"Hexanoic acid, 2-methylbutyl ester",0,train
+COCCOC,"1,2-Dimethoxyethane",0,train
+CC(C)CCOC(CC(C)C)OCCC(C)C,"3-Methyl-1,1-di-isopentyloxybutane",0,test
+CC1=CCC2(C(C)C)CC12,alpha-Thujene,0,test
+CCCC(=O)OCCC(S)CCC,3-Mercaptohexyl butyrate,0,train
+CC(C)=CCCC(C)CCOC(=O)C(C)O,"Propanoic acid, 2-hydroxy-, 3,7-dimethyl-6-octen-1-yl ester",0,test
+CC(C)(C)C1CCC(C=O)CC1,"Cyclohexanecarboxaldehyde, 4-(1,1-dimethylethyl)-",0,train
+CC(C)(C)c1cc(-c2ccncn2)c2c(c1)C(C)(C)CC2,"4-(6-Tert-butyl-1,1-dimethyl-indan-4-yl)-pyrimidine",0,train
+CC1=CCC23CC1C(C)(C)C2CCC3C,Cedrene,0,train
+CC(=O)Oc1c(C)occc1=O,2-Methyl-4-oxo-4H-pyran-3-yl acetate,0,test
+COC1CC2CCC1(C)C2(C)C,Isobornyl methyl ether,0,train
+CC(=O)CCCC(C)CCCC(C)C,"6,10-Dimethylundecan-2-one",0,train
+CCC=CCCOC(=O)C(C)=CCC,Hex-3-enyl 2-methylpent-2-enoate,0,train
+CC1=CCC(C(C)C)CC1=O,2-Methyl-5-(propan-2-yl)cyclohex-2-en-1-one,0,test
+O=C1CCCCCCCCCCCCC1,Cyclotetradecan-1-one,0,train
+CC(=O)C1C2CCC(C2)C1(C)C,"1-(3,3-Dimethylbicyclo(2.2.1)hept-2-yl)ethane-1-one",0,train
+C=CC(N)=O,Acrylamide,0,train
+CCC(C)N=C=S,2-Butyl isothiocyanate,0,train
+C=CCOC(=O)COc1ccccc1,Allyl phenoxyacetate,0,train
+C=C1CCC23CC1C(C)(C)C2CCC3C,(+)-beta-Funebrene,0,train
+CCC(S)C(C)=O,3-Mercapto-2-pentanone,0,test
+NCCC(=O)O,Beta-Alanine,0,train
+C1CNCCN1,Piperazine,0,train
+CC1CCC2(O1)C(C)(C)CCCC2(C)O,6-Hydroxydihydrotheaspirane,0,train
+CC(C)=CCCC(C)=CCCC(C)CCO,"6,10-Dodecadien-1-ol, 3,7,11-trimethyl-",0,test
+CC1CCC(C(C)C)C(OCC(O)CO)C1,Menthoxypropanediol,0,train
+C1CSSSS1,Tetrathiane,0,train
+CC12CC(=CO)C(=O)CC1CCC1C2CCC2(C)C1CCC2(C)O,"oxymetholone, Unimed",0,train
+CSCC=O,Methylthioacetaldehyde,0,train
+CCCC(C)C(=S)OC,O-methyl 2-methylpentanethioate,0,test
+CC(=O)OC1(C(C)=O)CCCCC1,Methyl 1-acetoxycyclohexyl ketone,1,train
+CCCCC=CCCC=O,Non-4-enal,0,train
+S=C=NCCc1ccccc1,Phenethyl Isothiocyanate,0,train
+Cc1ncsc1CCO,4-Methyl-5-(2-hydroxyethyl)thiazole,0,train
+CCCCCCCCC#CC(=O)OC,Methyl 2-undecynoate,0,train
+CCCCCCOC(C)OCc1ccccc1,Acetaldehyde benzyl hexyl acetal,0,train
+C=CC(C)(O)C=CC1=C(C)CCCC1(C)C,"3-Methyl-1-(2,6,6-trimethyl-1-cyclohexen-1-yl)-1,4-pentadien-3-ol",0,train
+CC(=O)c1ccnc(C)n1,4-Acetyl-2-methylpyrimidine,0,train
+C=CCc1ccc(OC=O)c(OC)c1,Eugenyl formate,0,train
+CCOC(=O)CC(C)SC,Ethyl 3-(methylthio)butyrate,0,test
+CCCCCCCCOC(=O)C(C)CC,Octyl 2-methylbutyrate,0,train
+C=CC(=O)CCC,1-Hexen-3-one,0,train
+CC=C1CC2CC(OC(C)C)C1C2,2-Ethylidene-6-[(propan-2-yl)oxy]bicyclo[2.2.1]heptane,0,train
+CCCc1nc(C)cnc1C,"2,5-Dimethyl-3-propylpyrazine",0,train
+CC=CSC=CC,1-Propenylsulfanyl-propene,0,train
+CC1=CCC(CCO)C1(C)C,alpha-CAMPHOLENOL,0,train
+CCCSCC,Ethyl propyl sulfide,0,train
+CCC=CCCCC(=O)O,Oct-5-enoic acid,0,train
+CCCCC(C)CCC(=O)O,4-Methyloctanoic acid,0,train
+COC(=S)CCc1ccco1,O-methyl 3-(furan-2-yl)propanethioate,0,train
+CC(C)c1cnccn1,Isopropylpyrazine,0,train
+CC(C)=CCCC(C)CC(C)O,"4,8-Dimethyl-7-nonen-2-ol",0,train
+CCSC(C)CCO,3-(Ethylthio)-1-butanol,0,train
+CC(=O)OC1C=C(C)C2CC(=C(C)C)CC2C(C)C1,Vetivert acetate,0,test
+COC(=O)c1ccccc1N=CC=Cc1ccccc1,Methyl 2-[(3-phenyl-2-propen-1-ylidene)amino]benzoate,0,train
+CCC(=O)OC1CCCCCCCCCCC1,Cyclododecyl propanoate,0,train
+CCC=CCCOC(=O)C(C)O,(Z)-Hex-3-en-1-yl 2-hydroxypropanoate,0,train
+CCOC(=O)C(=O)OCCC(C)CCC=C(C)C,"Ethanedioic acid, 1-(3,7-dimethyl-6-octen-1-yl) 2-ethyl ester",1,train
+CC(S)c1cccs1,1-(2-Thienyl)ethanethiol,0,train
+COc1cccc(CO)c1OC,"2,3-Dimethoxybenzyl alcohol",0,train
+CC(=O)OC1CCC2CCCCC2C1,Decahydro-beta-naphthyl acetate,0,train
+COC(=O)c1ccccc1N(C)C,"Methyl N,N-dimethylanthranilate",0,train
+CCCCC=CCC(=O)OC,3-Octenoic acid methyl ester,0,train
+CC(=O)CCc1ccccc1,Benzyl acetone,0,test
+CC(C)=CCCC(C)=CCOC(=O)Cc1ccccc1,"3,7-Dimethylocta-2,6-dienyl 2-phenylacetate",1,train
+CCOc1cc(C=O)ccc1OC(C)=O,"Benzaldehyde, 4-(acetyloxy)-3-ethoxy-",0,train
+CC(=O)OC(O)c1ccccc1,Hydroxybenzyl acetate,0,train
+COC(=O)c1ccccc1N=CC1CCC(C)=CC1C,"Methyl 2-[[(2,4-dimethyl-3-cyclohexen-1-yl)methylene]amino]benzoate",0,train
+C1CCC(SSC2CCCCC2)CC1,Dicyclohexyl disulfide,0,train
+CCCCCCCC(=O)OCc1ccco1,Furfuryl octanoate,0,train
+C=C(C)CCCC(C)CCOC(=O)C(C)C,"Propanoic acid, 2-methyl-, 3,7-dimethyl-7-octenyl ester",1,test
+CCCCCCC=CC(C)=O,CID 61522,0,train
+COC(C)OCCC(C)CCC=C(C)C,"2-Octene, 8-(1-methoxyethoxy)-2,6-dimethyl-",0,train
+C=CCSSSCCC,Allyl propyl trisulfide,0,train
+C=C1CC2CCC1C2(C)C,alpha-Fenchene,0,train
+COc1ccccc1C=O,2-Methoxybenzaldehyde,0,train
+CC12CCC3c4ccc(O)cc4CCC3C1CC(O)C2O,"13-Methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta(a)phenanthrene-3,16,17-triol",0,train
+CCCCC=CCCCCCCCCCCCCOC(C)=O,Z-13-Octadecen-1-yl acetate,0,train
+CCC=CCCCCCC=O,Dec-7-enal,0,test
+CC12CCC(C1)C(C)(C)C2(C)O,"1,2,3,3-Tetramethylbicyclo[2.2.1]heptan-2-ol",0,train
+CCOC(=O)CCC1(C)OCC(C)O1,Ethyl levulinate propyleneglycol ketal,0,train
+CC(C)C=C(C=O)c1ccccc1,4-Methyl-2-phenylpent-2-enal,1,test
+CCOC(OCC(C)C)C(C)C,1-Isobutoxy-1-ethoxy-2-methylpropane,0,train
+CCC(C)(O)CCC=C(C)CCC=C(C)CCC=C(C)C,"3,7,11,15-Tetramethylhexadeca-6,10,14-trien-3-ol",0,test
+SCc1ccccn1,2-Pyridinemethanethiol,0,train
+CSSC(C)(C)C=O,2-(Methyldithio)isobutyraldehyde,0,train
+CCCC(=O)OCC(C)=CCCC1(C)C2CC3C(C2)C31C,"5-(2,3-Dimethyltricyclo[2.2.1.02,6]hept-3-yl)-2-methylpent-2-enyl butyrate",1,train
+CCC=CC=CC(C)=O,"Octa-3,5-dien-2-one",0,train
+c1ccc2nccnc2c1,Quinoxaline,0,train
+CC(=O)OCC(C)C,Isobutyl Acetate,0,test
+CCCCC(=O)OC1CCCCC1,"Pentanoic acid, cyclohexyl ester",0,train
+CCOC(=O)CC(C)(OCC)OCC,"Ethyl 3,3-diethoxybutanoate",0,train
+CC(=O)OCC1CCC(C)(C)C23CC4CC2C13C4(C)C,Acetoxymethylisolongifolene,0,train
+CCC(=O)OCCC1CCCCC1,2-Cyclohexylethyl propanoate,0,train
+C=C1C2CC(C1OC(C)=O)C1CC=C(C)C21,"(3-Methyl-9-methylidene-8-tricyclo[5.2.1.02,6]dec-3-enyl) acetate",0,train
+CCCC(C)C(=O)OCC,Ethyl 2-methylpentanoate,0,train
+CCCCCCCCCC(C)C(OCC)OCC,"Undecane, 1,1-diethoxy-2-methyl-",0,train
+CCSCCO,2-(Ethylthio)ethanol,0,train
+CC=CC(=O)OC1CCCCC1,"2-Butenoic acid, cyclohexyl ester",0,train
+CC=Cc1ccc(OC)cc1,1-Methoxy-4-Prop-1-Enylbenzene,0,train
+CC(C)=CCSC(=O)CC(C)C,S-Prenyl thioisopentanoate,0,train
+CCCC=CCCO,Hept-3-en-1-ol,0,train
+CCCC(=O)CC(=O)OCC,Ethyl 3-oxohexanoate,0,train
+COC=O,Methyl formate,0,train
+CCC(SC)C(=O)OC,Methyl 2-(methylthio)-butyrate,0,train
+O=CC(=Cc1ccco1)c1ccccc1,3-(Furan-2-yl)-2-phenylacrylaldehyde,0,train
+CCCC(OCC)OCC,"1,1-Diethoxybutane",0,test
+CCCCCCC1=CCC(=O)O1,3-Decen-4-olide,0,test
+CCCCCCCCCCCC(=O)OCCC,Propyl laurate,0,train
+CCCCCCCCCCCCOC(C)=O,Dodecyl acetate,1,train
+CC(=O)C(=O)OCCC(C)C,Isoamyl pyruvate,0,train
+O=C(O)c1ccccc1C(=O)O,Phthalic Acid,0,train
+CCC=CCCC1(C)CCC(=O)O1,5-Hex-3-enyl-5-methyloxolan-2-one,0,train
+CC(C)=CC1CC(C)CCO1,Rose oxide,1,train
+CCCOC(=O)CCC,Propyl butyrate,0,train
+C=CCCC(=O)C=CC1C(C)=CCCC1(C)C,Allyl ionone,0,train
+CCCCCCCCCCCCOC(=O)c1cc(O)c(O)c(O)c1,Dodecyl Gallate,0,train
+O=COCCCc1ccccc1,3-Phenylpropyl formate,0,test
+CCCCO,1-Butanol,0,train
+O=C1CCCC=CCCCCCCCCCC1,5-Cyclohexadecen-1-one,0,train
+C=CC(=C)CCCC(C)(C)OC,Myrcenyl methyl ether,0,train
+C=CCSSCCC,Allyl propyl disulfide,0,train
+CCCCOc1ccccc1,Butyl phenyl ether,0,train
+CCCC(CCCC(=O)OCC)OC(C)=O,Ethyl 5-acetoxyoctanoate,0,train
+Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1,Dapsone,0,train
+NC(CS)C(=O)O,DL-cysteine,0,test
+CCCc1nccnc1OC,2-Methoxy-3-propylpyrazine,0,test
+CC(C)CC1CC(C)(O)CCO1,Tetrahydro-4-methyl-2-(2-methylpropyl)-2H-pyran-4-ol,0,train
+CCCCCCC1C=CC(=O)O1,5-hexylfuran-2(5H)-one,0,train
+CCOC(=O)C(C)C(C)O,Ethyl 3-hydroxy-2-methylbutyrate,0,train
+Cc1cncc(SCc2ccco2)n1,"Pyrazine, 2-((2-furanylmethyl)thio)-6-methyl-",0,train
+Cc1ncsc1C,"4,5-Dimethylthiazole",0,train
+c1ccc(Nc2ccccc2)cc1,Diphenylamine,0,train
+C=CCSSC,Allyl methyl disulfide,0,train
+CCCCCCCCCC(C)CO,2-Methylundecanol,0,train
+CC(C)C(=O)OC(C)(C)c1ccccc1,"alpha,alpha-Dimethylbenzyl isobutyrate",0,train
+COc1scnc1CC(C)C,4-Isobutyl-5-Methoxythiazole,0,test
+COC(=O)c1ccc(OC)cc1,Methyl anisate,0,train
+CCC=S,Propanethial,0,train
+CC(=O)OC1CCC(C)CC1C(C)(C)C,"Cyclohexanol, 2-(1,1-dimethylethyl)-4-methyl-, 1-acetate",1,train
+CCCC=CC(=O)O,2-Hexenoic acid,0,train
+CCCCCC(CCCC(=O)OCC)OC=O,Ethyl 5-formyloxydecanoate,0,train
+CC(=O)c1cccnc1,3-Acetylpyridine,0,train
+CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC,Tributyrin,0,test
+COc1cc(C=CC=O)cc(OC)c1O,"2-Propenal, 3-(4-hydroxy-3,5-dimethoxyphenyl)-",0,train
+CO,Methanol,0,test
+C=CC(CCCCC)OC(=O)C(C)C,"Propanoic acid, 2-methyl-, 1-ethenylhexyl ester",0,test
+CCCCC(=O)OCCC,Dipropyl Acetate,0,train
+CC(C)C(=O)OCCCC1CCCCC1,3-Cyclohexylpropyl isobutyrate,0,train
+COC(=O)C=C(C)C,Methyl 3-methyl-2-butenoate,0,train
+CC=C(C=O)CCCC,"Hexanal, 2-ethylidene-",0,train
+SC(S)CCSCCC(S)S,"3-[3,3-Bis(sulfanyl)propylsulfanyl]propane-1,1-dithiol",0,train
+CCC=CCC1=C(C)CCC1=O,"2-Cyclopenten-1-one, 3-methyl-2-(2Z)-2-pentenyl-",0,train
+O=C(Cc1ccccc1)Cc1ccccc1,"1,3-Diphenyl-2-propanone",1,test
+CCCCc1ccco1,2-Butylfuran,0,train
+CC1=CCCC(C)(C)C1C=CC(C)C=O,"3-Butenal, 2-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-",0,train
+COC1CCCCCCCCCCC1,"Cyclododecane, methoxy-",0,test
+O=CCS,Mercaptoacetaldehyde,0,test
+CCC(=O)OCC(C)C,Isobutyl propionate,0,train
+CCOC(=O)CCCO,Ethyl 4-hydroxybutanoate,0,train
+CCOCc1ccco1,Furfuryl ethyl ether,0,train
+CCCCC(O)CC,3-Heptanol,0,test
+O=C(OCCCc1ccccc1)c1ccccc1,3-Phenylpropyl benzoate,0,train
+CCOC(CC(C)CCCC(C)(C)O)OCC,Hydroxycitronellal diethyl acetal,0,train
+O=C1Oc2ccccc2C2CC12,"1a,7b-Dihydrocyclopropa[c]chromen-2-one",0,train
+CC=CC(O)CCCC,CID 89274,0,train
+CCCC(=O)OCCCCC(C)C,5-Methylhexyl butanoate,0,train
+CC(C)OCCOC(=O)c1ccccc1O,2-Isopropoxyethyl salicylate,0,train
+CC(=O)C(O)Cc1ccccc1,3-Hydroxy-4-phenylbutan-2-one,0,train
+CCC=CCCC(=O)OCC,Ethyl hept-4-enoate,0,train
+Cc1ccc(CCO)cc1,4-Methylphenethyl alcohol,1,train
+OCC(S)CS,Dimercaprol,0,train
+C=C(C)C1CCC(C)(O)C(O)C1,"Limonene-1,2-diol",0,train
+CCCCCCCCC(=O)C(C)=O,Acetyl nonyryl,0,train
+CCCCCCCCCCCC(=O)OCCC(C)C,Isoamyl Laurate,0,train
+CC1CCC(C(C)C)C(OC(=O)CCCC(=O)O)C1,5-(5-Methyl-2-propan-2-ylcyclohexyl)oxy-5-oxopentanoic acid,0,train
+CC(C)=CCCC(C)=CCOC(=O)C=Cc1ccccc1,"3,7-Dimethylocta-2,6-dien-1-yl 3-phenylprop-2-enoate",1,train
+CCC(=O)OC1CC2CC1C1CC=CC21,Tricyclodecenyl propionate,0,train
+CCC(C)CCC(C)(O)CC,"3,6-Dimethyl-3-octanol",1,test
+CCCCC(CC)COC(=O)c1ccccc1O,2-Ethylhexyl salicylate,0,train
+CSC(C)C(=O)O,S-Methylthiolactic acid,0,train
+CCCCCC(=S)OC,O-methyl hexanethioate,0,test
+CCOC(=O)CSC,Ethyl (methylthio)acetate,0,train
+O=C1CCCCCCCCCCC(=O)OCCC1,"Oxacyclohexadecane-2,13-dione",0,train
+CCCCCC=CCC=O,3-Nonenal,0,train
+CC=C(C)C(=O)OCC=C(C)C,3-Methylbut-2-enyl 2-methylbut-2-enoate,0,train
+CCOC(=O)C(S)CC,Ethyl 2-sulfanylbutanoate,0,train
+O=C1c2c(O)cccc2Cc2cccc(O)c21,Anthralin,0,train
+CCCCCC#CC(=O)OCCC(C)C,"2-Octynoic acid, 3-methylbutyl ester",0,train
+CCC(C)CC(=O)OCCC(C)C,Isopentyl 3-methylpentanoate,0,train
+CCCCCCCC1CCCC(=O)O1,delta-Dodecalactone,0,train
+COC(CC(C)CCC=C(C)C)OC,"2-Octene, 8,8-dimethoxy-2,6-dimethyl-",0,train
+CCCC(=O)OCC=C(C)CCC=C(C)C,"3,7-Dimethyl-2,6-octadienyl Butyrate",1,train
+CCCC(C)CC(=O)O,3-Methylhexanoic acid,0,train
+CCCc1nc(C)c(C)o1,"4,5-Dimethyl-2-propyloxazole",0,train
+O=[N+]([O-])C(Br)(CO)CO,Bronopol,0,train
+CCCC=CCC1CCCC1=O,2-Hex-2-enylcyclopentan-1-one,0,train
+CCCC=CC(OCC)OCC,"1,1-Diethoxyhex-2-ene",0,train
+CCC(=O)CSC,1-(Methylthio)-2-butanone,0,train
+CC(C)CC1CC(C)CCO1,"2H-Pyran, tetrahydro-4-methyl-2-(2-methylpropyl)-",1,train
+CC(C)=CCCC(C)=CCCc1ccncc1,"4-(4,8-Dimethylnona-3,7-dienyl)pyridine",0,train
+CCCCCC(O)C(C)=O,3-Hydroxy-2-octanone,0,train
+CCC(C)=CCCC(C)=CC=O,"3,7-Dimethylnona-2,6-dienal",0,train
+O=C(O)CS,Thioglycolic Acid,0,train
+O=C(Cc1ccccc1)OCC=Cc1ccccc1,3-Phenylprop-2-en-1-yl phenylacetate,0,train
+CCC=C1OC(=O)c2ccccc21,Propylidenephthalide,0,train
+C=CCCCCCCCCCO,10-Undecen-1-ol,1,test
+CSSSSC,Dimethyl tetrasulfide,0,train
+C=C(C)C1(O)CC=C(C)CC1,Limonen-4-ol,0,train
+CCCCCCC1OCC(CO)O1,"Heptanal 1,2-glyceryl acetal",0,test
+OCCc1ccccc1,2-Phenylethanol,1,train
+OCC1CO1,Glycidol,0,train
+c1ccc(CCOC2CCCCC2)cc1,"Benzene, [2-(cyclohexyloxy)ethyl]-",0,train
+CCSC(C)SCC,"Ethane, 1,1-bis(ethylthio)-",0,train
+CCCCCOC(C)OC,1-Methoxy-1-pentyloxyethane,0,train
+COC(=O)OC1CCC=CCCC1,Cyclooct-4-en-1-yl methyl carbonate,0,train
+CC=CC(=O)OCc1ccccc1,"2-Butenoic acid, phenylmethyl ester",0,test
+O=C(O)CCc1ccccc1,Benzenepropanoic acid,1,train
+CCCOC(=O)CC(=O)OCCC,Dipropyl Malonate,0,test
+CC(=CC#N)CCc1ccccc1,Citrus nitrile,1,train
+CCCCCCOC(C)OCCCCC,1-(1-Pentoxyethoxy)hexane,0,train
+NS(=O)(=O)c1cc(C(=O)O)c(NCc2ccco2)cc1Cl,Furosemide,0,train
+COc1ccc(NC(=O)C2CC(C)CCC2C(C)C)cc1,N-(4-methoxyphenyl)-5-methyl-2-propan-2-ylcyclohexane-1-carboxamide,0,test
+CCCC(C)OC(=O)CC(C)C,Pentan-2-yl 3-methylbutanoate,0,test
+CCC=CCCCCCOC(C)=O,Non-6-enium acetate,0,train
+CCCC=CO,Pent-1-en-1-ol,0,test
+COc1ccccc1C(C)=O,2'-Methoxyacetophenone,0,train
+CCOc1ccccc1CO,"Benzenemethanol, 2-ethoxy-",0,train
+CC(=O)c1ccc(C)[nH]1,"Ethanone, 1-(5-methyl-1H-pyrrol-2-yl)-",0,test
+CCCCC(S)CCOC(C)=O,3-Mercaptoheptyl acetate,0,train
+COc1ccc(CC2CC2)cc1,1-(Cyclopropylmethyl)-4-methoxybenzene,0,train
+C=CC(=C)C,Isoprene,0,train
+CCCCCCCCOC(=O)c1ccccc1,Octyl benzoate,0,train
+C=C1C(O)CC23CC1C(C)(C)C2CCC3C,Cedrenol,0,train
+COc1ccc(C(=O)OCC(=O)O)cc1,"Benzoic acid, 4-methoxy-, carboxymethyl ester",0,train
+CC(C)(C)CC(C)(S)CC(C)(C)C,"2,2,4,6,6-Pentamethyl-4-heptanethiol",0,train
+CC(CC=O)CCc1ccccc1,Phenylmethylpentanal,0,train
+CC(=O)CC(C)S,4-Mercapto-2-pentanone,0,train
+CCCCC1OC(=O)C2=C1CCC=C2,"3-N-Butyl-4,5-Dihydrophthalide",0,train
+C=CC(O)CC=CCC,"1,5-Octadien-3-ol",0,train
+CCCCC=COC(=O)C(C)C,Hex-1-en-1-yl 2-methylpropanoate,0,test
+CCOc1ccccc1C(N)=O,2-Ethoxybenzamide,0,train
+CCN=C=S,Ethyl isothiocyanate,0,train
+CCCCC(C)C=O,2-Methylhexanal,0,train
+CCCCCCCCCOC(=O)Cc1ccccc1,"Benzeneacetic acid, nonyl ester",0,train
+CCC(C)COC(C)=O,2-Methylbutyl Acetate,0,train
+CC1=CCCC(C)=CCC(C)(C)C=CC1,"2,6,6,9-Tetramethylcycloundeca-1,4,8-triene",0,test
+CCCC1OC1C=CC=O,3-(3-Propyloxiran-2-yl)prop-2-enal,0,train
+CCC(=O)OCC=Cc1ccccc1,3-Phenyl-2-propenyl propanoate,1,train
+COC(=O)C(C)O,Methyl Lactate,0,train
+O=C(OOC(=O)c1ccc(Cl)cc1)c1ccc(Cl)cc1,Bis(4-chlorobenzoyl) peroxide,0,train
+CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC=C(C)C,"2,6,10,15,19,23-Hexamethyltetracosa-2,6,10,14,18,22-hexaene",0,test
+FC(F)(F)C1(F)OC1(F)F,Hexafluoropropylene oxide,0,train
+CCCCC=CCCCCO,E-5-Decen-1-ol,1,test
+CSCCC(N)C(=O)O,(+-)-Methionine,0,train
+C=C(C)C1CC=C(C)C(OC(=O)CC(C)C)C1,2-Methyl-5-(1-methylvinyl)-2-cyclohexen-1-yl isovalerate,0,test
+CCCOC(C)OCCC,"1,1-Dipropoxyethane",0,train
+CCc1ccc(CC(C)(C)C=O)cc1,"Ethyl 2,2-dimethylhydrocinnamal",0,test
+CC1=C(O)C(=O)C(C)C1C,"2-Hydroxy-3,4,5-trimethyl-2-cyclopenten-1-one",0,train
+CCCCCCCCCCCCOC=O,Dodecyl formate,0,train
+CC1(C)CCCC2(C)C3CCC2(C)C(O)C31,"Decahydro-1,5,5,8a-tetramethyl-1,4-methanoazulen-9-ol",0,train
+CCOC(=O)CCC(O)C(=O)OCC,Diethyl 2-hydroxyglutarate,0,train
+CCCCCC=CCC=CC=O,"Undeca-2,5-dienal",0,train
+CCCCCCCC=CCCC(=O)O,CID 44135502,0,train
+C=CCSSSC,Methylallyl trisulfide,0,train
+CCCCCCCCCCCC=CC=O,2-Tetradecenal,0,test
+CC(=O)OCCOc1ccc(C)cc1,"Ethanol, 2-(4-methylphenoxy)-, 1-acetate",0,train
+C=Cc1ccc(OC)cc1,4-Methoxystyrene,1,train
+CC(C)(C)c1cccc(CCC=O)c1,3-(3-Tert-butylphenyl)propanal,0,train
+CCCCNc1ccccc1C(=O)OC,Methyl 2-(butylamino)benzoate,0,test
+CC(C)=CCCC(C)CCO,Citronellol,1,train
+CCSSSCC,Diethyl trisulfide,0,train
+CC(C)CS,Isobutyl mercaptan,0,train
+CC=C1CC2CC1C1CCCOC21,"6-Ethylideneoctahydro-5,8-methano-2H-benzo-1-pyran",0,train
+CC(C)C1=CC2=CCC3C(C)(C(=O)OC(=O)C4(C)CCCC5(C)C6CCC(C(C)C)=CC6=CCC45)CCCC3(C)C2CC1,"(1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carbonyl) 1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate",0,train
+CC(C)=CCC=C(C)CCOC(=O)CC(C)C,"3,7-Dimethylocta-3,6-dienyl 3-methylbutanoate",1,train
+CCOc1ccc(CO)cc1,4-Ethoxybenzyl alcohol,0,train
+C=C(CCO)CCCC(C)C,7-Methyl-3-methylene-1-octanol,1,train
+CCC(=O)OCCC(C)CCC=C(C)C,Citronellyl propionate,1,train
+CCCCCC=CC=CC(=O)OCC,"Ethyl deca-2,4-dienoate",0,train
+CCCCCCCCCCCCCCCC,Hexadecane,0,test
+CC(=O)OCC(=CCC(C)C)C(C)C,"2-Hexen-1-ol, 5-methyl-2-(1-methylethyl)-, 1-acetate",0,train
+CC(C)(S)CCO,3-Mercapto-3-methyl-1-butanol,0,test
+FC(F)(F)C(F)(F)C(Cl)Cl,"3,3-Dichloro-1,1,1,2,2-pentafluoropropane",0,test
+Nc1nc(=O)c2ncn(C3OC(COP(=O)(O)O)C(O)C3O)c2[nH]1,"2-Amino-9-(5-O-phosphonopentofuranosyl)-1,9-dihydro-6H-purin-6-one",0,train
+C=C(C)C1CCC(C)C(OC(C)=O)C1,Dihydrocarvyl acetate,1,train
+CCC(C)Cn1cccc1,1-(2-Methylbutyl)-1H-pyrrole,0,train
+CCCCCCCC(=O)N(CC)CC,Diethyl caprylamide,0,train
+CCOC(=O)CCCCC(=O)OCC,Diethyl Adipate,0,test
+CCC1SSSC(CC)S1,"4,6-Diethyl-1,2,3,5-tetrathiane",0,test
+CC1CC(=O)C(C)(O)C12CC(C)(C)CC(C)(C)C2,"4-Hydroxy-1,4,7,7,9,9-hexamethylspiro[4.5]decan-3-one",0,test
+CCCC(=O)C(=O)CCC,"4,5-Octanedione",0,train
+CCCCCC(=Cc1ccccc1)COC=O,2-Benzylideneheptyl formate,0,test
+CCCCCCCCC(C(C)=O)C(=O)OCC,Ethyl 2-acetyldecanoate,0,train
+CCCCCCCCCCC1OCC(C)O1,"2-Decyl-4-methyl-1,3-dioxolane",0,train
+CCCCCCC(CC)C(=O)OC,"Octanoic acid, 2-ethyl, methyl ester",0,train
+CC1OC(C)C2Cc3ccccc3C2O1,"Indeno[1,2-d]-1,3-dioxin, 4,4a,5,9b-tetrahydro-2,4-dimethyl-",0,train
+CCC=CCCOC(=O)C#CCCCCC,(Z)-3-hexen-1-yl heptine carbonate,0,train
+CCC=CCC=CCCOC(C)=O,"3,6-Nonadien-1-ol, 1-acetate",0,train
+CCOC(=O)CCC(C)C,Ethyl 4-methylpentanoate,0,train
+CCCCOCCO,2-Butoxyethanol,0,train
+C=CCc1ccc(OCc2ccccc2)c(OC)c1,"Benzene, 2-methoxy-1-(phenylmethoxy)-4-(2-propen-1-yl)-",0,train
+CC(C)=CCCC(C)=CC(C)O,"4,8-Dimethylnona-3,7-dien-2-ol",1,train
+C=CCc1ccc(OC(=O)C=Cc2ccccc2)c(OC)c1,Eugenol cinnamate,0,train
+CC=CC=CCOC(=O)CC,"2,4-Hexadien-1-ol, 1-propanoate",0,train
+CCOC1(OCC)CCCCC1,"1,1-Diethoxycyclohexane",0,train
+CCC(CC)C(=O)OCC=C(C)CCC=C(C)C,"3,7-Dimethyl-2,6-octadien-1-yl 2-ethylbutanoate",0,test
+CC(C)C1CCC(O)CC1,4-Isopropylcyclohexanol,1,test
+C=C(C)C(=O)OCC(C)C,Isobutyl Methacrylate,0,train
+Cc1c2ccccc2c(C)c2c1ccc1ccccc12,"7,12-Dimethylbenz(a)anthracene",0,test
+CCCCC(=O)O,Pentanoic Acid,0,test
+CCCCCC(O)CC,3-Octanol,0,train
+COC(CC(C)CCCC(C)C)OC,"Octane, 1,1-dimethoxy-3,7-dimethyl-",1,train
+CCCCCC1CCCC1O,2-Pentylcyclopentan-1-ol,0,train
+CC(C)COC(=O)CC(C)C,Isobutyl isovalerate,0,train
+CC1OCCC12SC1CCOC1(C)S2,"Spiro(2,4-dithia-1-methyl-8-oxabicyclo(3.3.0)octane-3,3'-(1'-oxa-2'-methyl)cyclopentane)",0,train
+CCC(C)C(=S)OCC(C)C,O-(2-methylpropyl) 2-methylbutanethioate,0,train
+CC(C)=CCC(=O)c1ccoc1,Egomaketone,0,train
+C=C(C)C1CC=C(COC(C)=O)CC1,Perillyl acetate,0,train
+COC(C)(C)CCCC(C)C=O,"(+-)-6-Methoxy-2,6-dimethylheptanal",0,train
+CCOC(CC(C)CCC=C(C)C)OCC,"1,1-Diethoxy-3,7-dimethyloct-6-ene",0,train
+C=CCOC(=O)COC1CCCCC1,Allyl cyclohexyloxyacetate,0,train
+CCc1ncc(C)nc1C,"2-Ethyl-3,5-dimethylpyrazine",0,test
+CCCCCCCCCCCCC(C)C=O,2-Methyltetradecanal,0,test
+CC(S)CCS,"1,3-Butanedithiol",0,train
+CCCCCCCCC(O)C(=O)OCC,Hydroxydecanoic acid ethyl ester,0,train
+CC(=O)C1=NCCCC1,"6-Acetyl-2,3,4,5-tetrahydropyridine",0,train
+CC(C)(O)CCC1CCCCC1,4-Cyclohexyl-2-methyl-2-butanol,1,train
+CCCCSSCCCC,Butyl disulfide,0,train
+CCCC=CCC1CCCC1O,"Cyclopentanol, 2-(2-hexenyl)-",0,test
+CC(=O)C1CC=C(C)C1(C)C,"1-(2,2,3-Trimethylcyclopent-3-en-1-yl)ethanone",0,train
+Cc1cnc(C)c(CCC(C)C)n1,"2,5-Dimethyl-3-(3-methylbutyl)pyrazine",0,train
+CC(=O)C1CC(C)=CC(C)C1C,"Ethanone, 1-(3,5,6-trimethyl-3-cyclohexen-1-yl)-",0,train
+CCCCCC1COCCC1OC(C)=O,4-Acetoxy-3-pentyltetrahydropyran,0,train
+CCCCOc1ccc(C)cc1,p-Butoxytoluene,0,train
+CC(O)CO,Propylene Glycol,0,test
+CCCCCC=CCC=CCCCCCCCC(=O)OC,"Methyl 9,12-octadecadienoate",0,test
+CC1(C)C2CCC1(C)C(OC(=O)c1ccccc1)C2,Isobornyl benzoate,0,train
+COC(Cc1ccccc1)OC,Phenyl acetaldehyde dimethyl acetal,1,train
+COC(=O)CCC(=O)OC,Dimethyl Succinate,0,train
+COC(=O)CO,Methyl Glycolate,0,train
+CCCCCCCCCC=CC(=O)O,2-Dodecenoic acid,0,train
+CCOC(=O)CNC(=O)C1CC(C)CCC1C(C)C,Ethyl N-((5-methyl-2-(isopropyl)cyclohexyl)carbonyl)glycinate,0,test
+C1SCSS1,"1,2,4-Trithiolane",0,train
+CCCCCC=CCC1CCCC1=O,2-(2-Octen-1-yl)cyclopentanone,0,train
+CCCCCCCC(OC)OC,"1,1-Dimethoxyoctane",1,train
+CC(=O)Sc1ccoc1C,3-(Acetylthio)-2-methylfuran,0,train
+CC(C)O,Isopropanol,0,train
+CC(C)=C(C)C1CCCCO1,2-(3-Methylbut-2-en-2-yl)oxane,0,test
+CCC(=O)C1=NCCC1,2-Propionylpyrroline,0,train
+Cc1ccc(C)c(O)c1,"2,5-Dimethylphenol",0,train
+CCC=CCCCO,(Z);-Hept-4-en-1-ol,0,train
+CC(O)C(=O)O,Lactic Acid,0,train
+CCCCCCCCCCCCCC(=O)CC(=O)OCC(O)CO,Glyceryl 1-(3-oxohexadecanoate),0,train
+CC(S)SS,1-(Disulfanyl)ethanethiol,0,train
+CC(=O)CC(C)C,Methyl Isobutyl Ketone,0,train
+CCCCCCCCCC(C)=O,2-Undecanone,1,train
+CCCCCC(CO)C(C)=O,3-(Hydroxymethyl)-2-octanone,0,train
+CSCc1cccs1,2-[(Methylsulfanyl)methyl]thiophene,0,train
+CCC(C)C(=O)OCC=C(C)CCC=C(C)C,Geranyl 2-methyl butyrate,1,train
+c1coc(COCc2cccs2)c1,Furfuryl thenyl ether,0,train
+O=C(O)C=Cc1ccccc1,"2-Propenoic acid, 3-phenyl-",0,train
+COc1ccc(C=CC=O)cc1,3-(4-Methoxyphenyl)prop-2-enal,0,train
+CCC=CC(=O)OCC,Ethyl pent-2-enoate,0,test
+NCCc1ccc(O)cc1,Tyramine,0,train
+OCCS,2-Mercaptoethanol,0,train
+CCC(=O)c1ccco1,"1-Propanone, 1-(2-furanyl)-",0,test
+C=CCOC(=O)C(C)CC,Allyl 2-methylbutyrate,0,train
+CC1CC(=O)CC(C)(C)C1=O,"2,2,6-Trimethylcyclohexane-1,4-dione",0,train
+CC(C)OCCc1ccccc1,"Benzene, [2-(1-methylethoxy)ethyl]-",1,train
+C=CCOC(=O)C(CC)CC,Allyl 2-ethylbutyrate,0,train
+CCCOC(=O)C=Cc1ccccc1,Propyl 3-phenylprop-2-enoate,0,train
+CCOC(=O)C1OC1(C)c1ccc(C)cc1,Ethyl 3-methyl-3-(p-tolyl)glycidate,0,test
+CC(=CC=O)CCC1CC1(C)C,"5-(2,2-Dimethylcyclopropyl)-3-methyl-2-pentenal",0,train
+CC(=O)OCC(C)=CCCC1(C)C2CC3C(C2)C31C,"5-(2,3-Dimethyltricyclo[2.2.1.02,6]heptan-3-yl)-2-methylpent-2-en-1-yl acetate",0,test
+C=CC1(C)CCC(C(C)(C)O)O1,"Linalool, oxide",0,test
+CC1=CC(O)CC(C)C2CC(=C(C)C)CC12,Vetiverol,0,test
+Cc1cccnc1,3-Methylpyridine,0,train
+C=C(C)C1CCC2(C)CCC=C(C)C2C1,"2-Isopropenyl-4a,8-dimethyl-1,2,3,4,4a,5,6,8a-octahydronaphthalene",0,train
+CCCC1(C(C)(C)C)C=CC(C)O1,Cassyrane,0,test
+CCCCC(CO)C(C)=O,3-(Hydroxymethyl)-2-heptanone,0,train
+CCCCCCCC(CC=O)SC,3-(Methylthio)-decanal,0,test
+CCCC(=O)OCCC(C)CCC=C(C)C,Citronellyl butyrate,1,train
+COC(=O)c1ccc(C(=O)OC)cc1,Dimethyl terephthalate,0,test
+CCOC(C)OC(C)=O,1-Ethoxyethyl acetate,0,train
+COC1(OC)CCCCCCCCCCC1,"1,1-Dimethoxycyclododecane",0,train
+O=Cc1ccc(CO)o1,5-(Hydroxymethyl)furfural,0,train
+CCOC(=O)CCc1ccccc1,Ethyl 3-phenylpropionate,1,test
+Cc1cccs1,2-Methylthiophene,0,test
+Cc1ccc2ccc(=O)oc2c1,7-Methylcoumarin,0,train
+CCCCC1OC1C=CC=O,3-(3-Butyloxiran-2-yl)prop-2-enal,0,train
+CCCC(=O)CSC,1-Methylsulfanylpentan-2-one,0,train
+CC(C)=CCCC(C)O,6-Methyl-5-hepten-2-ol,0,test
+CC=C(C)C1CCC(C)(C)O1,"2,2-Dimethyl-5-(1-methylpropenyl)tetrahydrofuran",0,train
+C=C(C)C(=O)OC,Methyl Methacrylate,0,train
+C=CCCC=O,4-Pentenal,0,train
+CCC=CCCC(OCC)OCC,"7,7-Diethoxyhept-3-ene",0,test
+OCCCCO,"1,4-Butanediol",0,train
+CCCCCCC(C)O,2-Octanol,0,train
+OCCc1ccc(O)cc1,Tyrosol,1,train
+C=C(C)C=CSC,Methyl isoprenyl sulfide,0,train
+CC1CSSS1,"4-Methyl-1,2,3-trithiolane",0,train
+CC(Oc1ccc(Cl)cc1Cl)C(=O)O,Dichlorprop,0,test
+CC(=O)c1ccc2c(c1)CCCC2,6-Acetyltetralin,0,train
+CC(=O)OC1CCCC(C(C)(C)C)C1,3-tert-Butylcyclohexyl acetate,0,train
+c1coc(Cc2ccoc2Cc2ccco2)c1,"2,3-Bis(furan-2-ylmethyl)furan",0,train
+CCC(C)CC(O)CC,5-Methylheptan-3-ol,0,train
+CCOc1nccnc1C(C)C,2-Ethoxy-3-isopropylpyrazine,0,train
+CC(C)c1ccc2c(c1)OCC(=O)CO2,"2H-1,5-Benzodioxepin-3(4H)-one, 7-(1-methylethyl)-",0,train
+CCCCCCCCCOC(=O)CCCCCCC,Nonyl octanoate,1,train
+CCCCCCCCCCOS(C)=O,Decyl methanesulfinate,0,train
+CCOC(=O)C(CC)C(C)=O,"Butanoic acid, 2-ethyl-3-oxo-, ethyl ester",0,train
+COC(=O)CS,Methyl Thioglycolate,0,train
+CCC=CCCOC(=O)CCC,Hex-3-en-1-yl butanoate,0,train
+C=C=CC(C)C(=O)OCC,"Ethyl 2-methyl-3,4-pentadienoate",0,train
+CC=CC(C)=O,Pentenone,0,test
+COc1cnc(NS(=O)(=O)c2ccc(N)cc2)nc1,Sulfameter,0,train
+CC=CC=CC(=O)O,"2,4-Hexadienoic Acid",0,train
+CCCCCCC1C(=O)CCC1C(=O)OC,Methyl hexyl cyclopentanone carboxylate,0,train
+Cc1nc(C)c(C)o1,"2,4,5-Trimethyloxazole",0,train
+C=C(C)C1CCC(C)CC1C(=O)NCC,N-ethyl-5-methyl-2-prop-1-en-2-ylcyclohexane-1-carboxamide,0,train
+CC1(O)CC2CCC1(C)C2(C)C,"2-Bornanol, 2-methyl-",0,train
+C=Cc1sc(C)nc1C,"2,4-Dimethyl-5-vinylthiazole",0,train
+C=C(C)C1CCC(C)CC1OC(C)=O,"Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, acetate",0,test
+CCCCCCCCCC(OCC)OCC,"1,1-Diethoxydecane",0,test
+Cc1ccc(OC(=O)c2ccccc2)cc1,p-Cresol benzoate,0,train
+CC(=O)OC(C)C=CC1=C(C)CCCC1(C)C,beta-Ionyl acetate,0,train
+CCCOS(C)=S,Propyl methanethiosulfinate,0,test
+COCC(CC(C)C)NC(=O)c1ccc(C)c(C)c1,"N-(1-methoxy-4-methylpentan-2-yl)-3,4-dimethylbenzamide",0,train
+COc1ccc(C=CC(C)=O)cc1,4-(4-Methoxyphenyl)but-3-en-2-one,0,test
+CCC(C)C(=O)OCC(C)C,Isobutyl 2-methylbutyrate,0,train
+Cc1ccoc1CS,(3-Methylfuran-2-yl)methanethiol,0,test
+CCCCCCCCC=CCC=O,Dodec-3-en-1-al,0,train
+CC(C)OC(=O)c1ccccc1N,Isopropyl anthranilate,0,train
+O=CCCCC=O,Glutaraldehyde,0,train
+CCCOc1cncc(C)n1,2-Methyl-6-propoxypyrazine,0,train
+CCC(=O)OC1CCCCC1,Cyclohexyl propionate,0,train
+CC1(C)CCC2OC23C(C)(C)C2CCC13C2,Isolongifolene epoxide,0,train
+O=C1CCCCCCCCCOCCCCCO1,11-Oxahexadecanolide,0,test
+CC(=O)CCC(C)C,5-Methyl-2-hexanone,0,test
+COc1cc(CC=O)ccc1O,Homovanillin,0,train
+O=C1NS(=O)(=O)c2ccccc21,Saccharin,0,test
+C=C1CCCC2(C)CCC(=C(C)C)CC12,Npc322415,0,train
+CCCCCCOC=O,Hexyl Formate,0,train
+CCCCCC(C)C=O,2-Methylheptanal,0,train
+CCCc1cccnc1,3-Propylpyridine,0,train
+COc1ccc(C2OCC(C)O2)cc1,Anisaldehyde propyleneglycol acetal,0,train
+CSCCCC(N)=O,4-(Methylsulfanyl)butanamide,0,train
+CCC=CCC=CCC=CCCCCCCCC(=O)OC,"9,12,15-Octadecatrienoic acid, methyl ester, (9Z,12Z,15Z)-",0,train
+CC1=CCCC(C)(C)C1=O,"2,6,6-Trimethyl-2-cyclohexen-1-one",0,train
+CC(C)CC1OC(CC(C)C)OC(CC(C)C)O1,"2,4,6-Triisobutyl-1,3,5-trioxane",0,train
+CC(C)Cc1ccc(CC(C)C=O)cc1,3-(p-Cumenyl)-2-methylpropionaldehyde,0,train
+O=C1CCCCCN1,Caprolactam,0,train
+CC(C)OC(=O)C=Cc1ccccc1,Cinnamic Acid Isopropyl Ester,0,train
+CCOc1ccccc1OCC,o-Diethoxybenzene,0,test
+CCCCCN=C=S,Amyl isothiocyanate,0,train
+O=C(CCO)OCCc1ccccc1,2-Phenylethyl 3-hydroxypropanoate,1,train
+CCCCCC=CCCCCCCC=O,(Z)-8-tetradecen-1-al,0,train
+CCCc1ccccc1O,2-Propylphenol,0,train
+CC(=O)C(C)C(C)=O,"3-Methyl-2,4-pentanedione",0,train
+CCC(OC)OC,"1,1-Dimethoxypropane",0,test
+C=CCOC(=O)C(C)=CC,Allyl 2-methylbut-2-enoate,0,train
+COC(=O)c1ccccc1N=Cc1ccc(OC)cc1,"Benzoic acid, 2-(((4-methoxyphenyl)methylene)amino)-, methyl ester",0,test
+CCCC=CCCC(=O)OC,Methyl 4-octenoate,0,train
+O=C(O)COc1cc(Cl)c(Cl)cc1Cl,Trichlorophenoxyacetic acid,0,train
+NO,Hydroxylamine,0,train
+CC(C)CCCCCCCCCCC=O,12-Methyltridecanal,0,train
+CC(C)=CCCC(C)=CCCC=O,"5,9-Dimethyl-4,8-decadienal",0,test
+CCCC(=O)SC,S-methyl butanethioate,0,train
+CCCCCCCCCC(=O)OCCc1scnc1C,2-(4-Methyl-5-thiazolyl)ethyl decanoate,0,train
+CC(C)(O)Cc1ccccc1,2-Methyl-1-phenyl-2-propanol,1,train
+CCCCCSSCCCCC,Dipentyl disulfide,0,test
+CCCCCC(=O)C(C)(O)C(C)=O,"3-Hydroxy-3-methyl-2,4-nonanedione",0,test
+CCCCCCCCCC(=O)OC(C)C,Isopropyl caprate,0,train
+CC1=CCC2C(C)=CCC(C(C)C)C2C1,"1-Isopropyl-4,7-dimethyl-1,2,4a,5,8,8a-hexahydronaphthalene",0,train
+CCC1(O)C2(C)CCCC1(C)CC2,"Bicyclo[3.2.1]octan-8-ol, 8-ethyl-1,5-dimethyl-",0,train
+CC(=O)CCCC(C)C,6-Methyl-2-heptanone,0,train
+CCC(S)CC,3-Pentanethiol,0,train
+SCCCS,"1,3-Propanedithiol",0,train
+Cc1nc2ccccc2nc1C,"2,3-Dimethylquinoxaline",0,train
+CC(C=O)Cc1ccc(C(C)C)cc1,Cyclamen aldehyde,0,train
+C=C(C)c1cnccn1,Isopropenyl pyrazine,0,test
+CCCCCCCCOC(=O)c1ccccc1O,"Benzoic acid, 2-hydroxy-, octyl ester",0,train
+CC(C)c1ccc(C=O)cc1,Cuminaldehyde,0,train
+Cc1ccccc1OC(=O)Cc1ccccc1,"Phenylacetic acid, 2-methylphenyl ester",0,train
+CC1CC2C(CC1=CCC#N)C2(C)C,"3-(4,7,7-Trimethylbicyclo[4.1.0]heptan-3-ylidene)propanenitrile",1,test
+CCCCCCOC(CCCCC)OCC,Hexanal ethyl hexyl acetal,0,train
+CC(O)CC(C)(C)S,"4-Mercapto-4-methyl-2-pentanol, (+-)-",0,train
+CCCCCCCCCC=CC=O,Dodec-2-enal,0,train
+CC(=O)C=CC1=C(C)CCCC1(C)C,"4-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-3-buten-2-one",0,train
+CC1C(=O)CC2CC1C2(C)C,3-Pinanone,0,test
+CC1OC(c2ccc3c(c2)OCO3)OC1C,"Heliotropine butane-2,3-diol acetal",0,test
+CC=Cc1ccc(OC(C)OCC)c(OC)c1,2-(1-Ethoxyethoxy)-5-(1-propenyl)anisole,0,train
+CCCCC=CC(=O)OCC,CID 316636,0,test
+CCc1cnc(C)s1,5-Ethyl-2-methylthiazole,0,train
+C=CCOC(=O)CCCCCCCC,Allyl nonanoate,0,train
+CCCCC(=O)OCCC(C)C,Isoamyl valerate,0,train
+CCCCCCCOC(C)=O,Heptyl acetate,0,train
+CSC(SC)SC,"Methane, tris(methylthio)-",0,train
+CCOC(=O)C1C(C)CCCC1(C)C,"Ethyl 2,2,6-trimethylcyclohexylcarboxylate",1,train
+CC1CCC2C(C1)OC(=O)C2C,Dihydromintlactone,0,train
+OC1CCCC1,Cyclopentanol,0,test
+CC1COCc2cc3c(cc21)C(C)(C)CCC3(C)C,"1H-Naphtho(2,3-c)pyran, 3,4,6,7,8,9-hexahydro-4,6,6,9,9-pentamethyl-",0,train
+CCOCc1cnccn1,"Pyrazine, 2-ethoxymethyl-",0,train
+C=CC(C)(O)CCCC(C)C,"3,7-Dimethyloct-1-en-3-ol",0,train
+CCCCCCCCCCC(=O)C(=O)O,2-Oxododecanoic acid,0,train
+O=COCCOc1ccccc1,2-Phenoxyethyl formate,0,train
+C=CCCCCCCCCO,9-Decen-1-ol,1,train
+CCCC(C)OC(C)=O,2-Pentyl acetate,0,test
+c1ccc(COCc2ccccc2)cc1,Dibenzyl ether,1,train
+CC1C(C)(C)C2=C(C(=O)CCC2)C1(C)C,(+-)-Cashmeran,0,train
+CCCCCC=C1CCCC1=O,2-Hexylidenecyclopentan-1-one,0,train
+CC(S)c1ccccc1,1-Phenylethanethiol,0,train
+Cc1ccccc1S,2-Thiocresol,0,test
+O=c1occcc1O,3-Hydroxy-2H-pyran-2-one,0,train
+CCC=CCCOCC=O,2-Hex-3-enoxyacetaldehyde,0,train
+CC(C)=CCOC(=O)C(C)C,Prenyl isobutyrate,0,test
+O=C(Oc1ccccc1)c1ccccc1O,Phenyl Salicylate,0,train
+CC(C)c1ccc(C#N)cc1,4-Isopropylbenzonitrile,0,train
+CCCCC(=O)Oc1ccccc1,Phenyl pentanoate,0,train
+CC(=O)c1oc(C)cc1C,"2-Acetyl-3,5-dimethylfuran",0,train
+CC(=O)Cc1ccco1,Furfuryl methyl ketone,0,train
+CCC(C)=O,Methyl Ethyl Ketone,0,train
+CC1C(=CCC#N)C2C=CC1C2,2(2-Cyanoethylidene)-3-methylbicyclo[2.2.1]hept-5-ene,0,train
+CCC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,"(10,13-Dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl) propanoate",0,train
+CCCCCCCOCCCCCC,1-(Hexyloxy)heptane,0,train
+C=C(C)CCCC(C)CCOC(=O)Cc1ccccc1,Rhodinyl phenyl acetate,1,train
+CC(=O)OC(C)CCCC(C)C,6-Methyl-2-heptyl acetate,0,train
+CCCCCCC(O)CC,3-Nonanol,0,train
+CSC(C)CC=O,3-(Methylthio)butanal,0,test
+Nc1ccccc1C(=O)OCCc1ccccc1,Phenethyl anthranilate,1,train
+CC1CCC(C(C)C)C(OC(=O)c2ccccc2O)C1,5-Methyl-2-(propan-2-yl)cyclohexyl 2-hydroxybenzoate,0,train
+CCCCCCCCCCOC(=O)CC,Decyl propionate,0,train
+CC=C(C)C(=O)OC,Methyl 2-methylbut-2-enoate,0,test
+CC(C=O)=CCC1=C(C)CCCC1(C)C,"2-Methyl-4-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2-butenal",0,train
+CCCCCC1CC1C(=O)O,cis-2-Pentylcyclopropanecarboxylic acid,0,test
+CCCCCCC(=O)C(=O)CC,"Decane-3,4-dione",0,train
+CC(=O)c1cc(C)oc1C,"3-Acetyl-2,5-dimethylfuran",0,train
+O=C1CCC(C(=O)O)N1,Pyrrolidone carboxylic acid,0,train
+C=CC1(C)CCC(C(C)(C)O)CC1C(=C)C,2-(4-Ethenyl-4-methyl-3-(prop-1-en-2-yl)cyclohexyl)propan-2-ol,1,train
+CCCCC1CCCO1,2-Butyltetrahydrofuran,0,train
+CC1CCC(C(C)(C)S)C(=O)C1,p-Mentha-8-thiol-3-one,0,train
+CC(C)(C)C1CCCCC1O,2-tert-Butylcyclohexanol,0,train
+C=C(C)CCOC(=O)C(C)CC,3-Methyl-3-buten-1-yl 2-methylbutanoate,0,train
+CN,Methylamine,0,test
+CCCCC(=O)OCCc1ccccc1,Phenethyl valerate,1,test
+CNC(=O)C(C)(C(C)C)C(C)C,Methyl diisopropyl propionamide,0,train
+FC(F)(Cl)Cl,Dichlorodifluoromethane,0,test
+CCC(O)C=CC1=C(C)CCCC1(C)C,"1-Penten-3-ol, 1-(2,6,6-trimethyl-1-cyclohexen-1-yl)-",0,train
+CCCCCCCCCCCCCCCC(=O)OC,Methyl Palmitate,0,train
+CCCCCCC(CCOC(C)=O)OC(C)=O,"1,3-Nonanediol, 1,3-diacetate",0,train
+CC(=O)OCCCC1CCCCC1,Cyclohexylpropyl acetate,0,test
+N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,Chlorothalonil,0,train
+Cc1nc(C(C)C)sc1C,"2-Isopropyl-4,5-dimethylthiazole",0,train
+CCCC(=O)OCC(C)C,Isobutyl butyrate,0,test
+Cc1ccc(O)cc1C,"3,4-Dimethylphenol",0,train
+CCC=CC=CC=O,"Hepta-2,4-dienal",0,test
+CC1=NCSC1,4-Methyl-3-thiazoline,0,train
+CCCS,Propyl mercaptan,0,train
+CC(C#N)=Cc1ccccc1,2-Methyl-3-phenylprop-2-enenitrile,0,train
+S=c1nccc[nH]1,2-Mercaptopyrimidine,0,train
+CCCC(=S)OCC,Ethyl thiobutyrate,0,train
+CC(S)C(C)S,"2,3-Butanedithiol",0,train
+CC(C)CC(=O)CC(C)C,Isobutyl ketone,0,train
+CCCCCCC(=O)CSC,1-Methylsulfanyloctan-2-one,0,train
+CCCC(=O)OCCc1ccccc1,Phenethyl butyrate,1,test
+CCOC(=O)C1C(C)=C(C)CCC1(C)C,"Ethyl 2,3,6,6-tetramethylcyclohex-2-ene-1-carboxylate",1,test
+CC(C)C(C)O,3-Methyl-2-butanol,0,train
+Cc1ccc(C)c(NC(=O)C(C)Sc2ccccc2)c1,"N-(2,5-dimethylphenyl)-2-phenylsulfanylpropanamide",0,train
+CC1CC(CC2C3CCC(C3)C2(C)C)CCC1=O,"4-((3,3-Dimethylbicyclo(2.2.1)hept-2-yl)methyl)-2-methylcyclohexanone",0,train
+CC(CO)C1CCCCC1,2-Cyclohexylpropanol,0,train
+C[N+](C)(C)[O-],Trimethylamine oxide,0,test
+CCC(O)C(C)=O,3-Hydroxy-2-pentanone,0,train
+CC(C)C1CCC2CC(=O)CC(C)C2(C)C1,"6-Isopropyl-4,4a-dimethyloctahydro-2(1h)-naphthalenone",0,train
+CCC(CC)CO,2-Ethyl-1-butanol,0,train
+CCCCCCCCCCCCCC(=O)OCC,Ethyl Myristate,0,train
+CCOC(=O)C(CC)CC,Ethyl 2-ethylbutyrate,0,train
+CNC(=O)Oc1cc(C)c(N(C)C)c(C)c1,Mexacarbate,0,train
+CCOC(=O)CCCCCOC(C)=O,Ethyl 6-acetoxyhexanoate,0,train
+CC1=C(C=O)C(C)(C)CCC1,beta-Cyclocitral,1,train
+CCC(C)C(C)=O,3-Methylpentan-2-One,0,train
+CCc1cnc(CC)c(C)n1,"2,5-Diethyl-3-methylpyrazine",0,train
+Cc1ccc(S(=O)(=O)NC(=O)NN2CCCCCC2)cc1,Tolazamide,0,train
+CC1=CCC(CCC(C)CO)C1(C)C,"3-Cyclopentene-1-butanol, beta,2,2,3-tetramethyl-",0,train
+CCCCCC(=O)OC(C)c1ccccc1,1-Phenylethyl hexanoate,1,train
+CCOC(OCC)C(C)c1ccccc1,"(2,2-Diethoxy-1-methylethyl)benzene",0,train
+Cc1ccc(S(=O)(=O)NC2CCCCC2)cc1,N-Cyclohexyl-4-methylbenzenesulfonamide,0,test
+CCCCCCCC(O)CC,3-Decanol,0,train
+CCC(C)(CCCC(C)C=O)OC,"6-Methoxy-2,6-dimethyloctanal",0,test
+CCn1cccc1C=O,1-Ethyl-2-pyrrolecarboxaldehyde,0,test
+COc1cc(C)cc(OC)c1O,"4-Methyl-2,6-dimethoxyphenol",0,train
+CC(C)C(=O)OCCCc1ccccc1,3-Phenylpropyl isobutyrate,0,train
+CCCCCCCCOC(=O)c1ccco1,Octyl 2-furoate,0,train
+C=CCSCC(N)C(=O)O,2-Amino-3-Prop-2-Enylsulfanylpropanoic Acid,0,train
+CCC=CCC1CCCC(=O)O1,Tetrahydro-6-(2-pentenyl)-2H-pyran-2-one,0,train
+C=CCOC(=O)CCC(C)C,Allyl 4-methylpentanoate,0,train
+C=C1C2CCC(=O)C23CCC(C3)C1(C)C,"7,7-Dimethyl-6-methylene-tricyclo[6.2.1.01,5]undecan-2-one",0,train
+CC=CC(=O)OCC(C)C,2-Methylpropyl but-2-enoate,0,test
+CCCCCOC(C)OCCCC,Acetaldehyde butyl pentyl acetal,0,train
+CCCC=CC(=O)OCCCC,Butyl hex-2-enoate,0,test
+CC=Cc1ccc(OCc2ccccc2)c(OC)c1,Benzyl isoeugenol,0,train
+CC(=O)CCc1ccco1,4-(2-Furyl)-2-butanone,0,test
+CCCCCCC1OCC(O)CO1,"1,3-Dioxan-5-ol, 2-hexyl-",0,test
+OCCNCCO,Diethanolamine,0,train
+C=CCCCCCCCCC(=O)OC,Methyl 10-undecenoate,1,test
+CCCCCc1ccccn1,2-Pentylpyridine,0,test
+CCCCOC(=O)C(C)O,Butyl Lactate,0,test
+CCCC(CC=O)SC(C)=O,3-(Acetylsulfanyl)hexanal,0,test
+CCCCCCCC=CCOC(C)=O,2-Decenyl acetate,0,train
+CCCCCCCC(=O)OCCc1ccccc1,Phenethyl octanoate,0,train
+CCCCOC(CCCC)OCCCC,Valeraldehyde dibutyl acetal,0,train
+OC1COC(O)C(O)C1O,Pentose,0,train
+CC1=CC2(O)OC3(CC2=C(C)C)C(C)CCC13,"(3S,3aS,6R,8aS)-3,8-Dimethyl-5-(propan-2-ylidene)-2,3,4,5,6,8a-hexahydro-1H-3a,6-epoxyazulen-6-ol",0,train
+C=CC(CCCCC)OC(=O)CCC,1-Octen-3-yl butyrate,0,train
+CCCCCCCCCC=Nc1ccccc1C(=O)OC,Methyl 2-(decylideneamino)benzoate,0,train
+CCC(C=O)c1ccc(C)o1,2-(5-Methylfuran-2-yl)butanal,0,train
+CC(=O)Cc1ccc[nH]1,1-(1H-Pyrrol-2-yl)propan-2-one,0,train
+CCCCCCCC=Nc1ccccc1C(=O)OC,"Benzoic acid, 2-(octylideneamino)-, methyl ester",0,train
+CCOC(=O)C(C)(O)CC,Ethyl 2-hydroxy-2-methylbutyrate,0,train
+O=C(O)COc1ccccc1,Phenoxyacetic Acid,0,test
+CCCCC=CCCCCC(=O)OCCC(C)C,3-Methylbutyl undec-6-enoate,1,train
+CCOC(=O)CC(O)(CC(=O)OCC)C(=O)OCC,Triethyl Citrate,0,train
+CC(C)CCC1(C)OCC=CCO1,"1,3-Dioxepin, 4,7-dihydro-2-methyl-2-(3-methylbutyl)-",0,train
+Cc1cccc(C)c1O,"2,6-Dimethylphenol",0,train
+C=C(C)C1CCC(C)=C1CC(C)(C)COC(=O)CC,"1-Cyclopentene-1-propanol, beta,beta,2-trimethyl-5-(1-methylethenyl)-, 1-propanoate",0,test
+OCC(O)C(O)C(O)C(O)COC1OC(CO)C(O)C(O)C1O,1-O-Hexopyranosylhexitol,0,train
+CSc1ccccc1O,o-(Methylthio)phenol,0,train
+COC1CC2CC1C1C=CCC21,"4,7-Methano-1H-indene, 3a,4,5,6,7,7a-hexahydro-5-methoxy-",0,train
+CCOCCOC(C)=O,Glycol monoethyl ether acetate,0,test
+CCCCCCC1OCCO1,"2-Hexyl-1,3-dioxolane",0,train
+O=C(OCCc1ccccc1)c1ccccc1O,Phenethyl salicylate,1,test
+CC=CC(=O)OC(C)C1CCCCC1,1-Cyclohexylethyl 2-butenoate,0,train
+CCCc1nc(CC)c(CC)s1,"4,5-Diethyl-2-propyl-1,3-thiazole",0,test
+CC(=O)OC1CC(C)CC(C)(C)C1,"3,3,5-Trimethylcyclohexyl acetate",1,train
+CCCCOc1ccc(C=O)cc1,4-Butoxybenzaldehyde,0,train
+CCCC=CCCCO,4-Octen-1-ol,0,train
+CCCCCC1C(=O)CCC1CC(C)=O,"Cyclopentanone, 3-(2-oxopropyl)-2-pentyl-",0,train
+CC(=O)OCCOCCOCCOC(C)=O,"1,8-Diacetoxy-3,6-dioxaoctane",0,train
+C=CCSSSCC=C,Diallyl Trisulfide,0,train
+CC(C)=CCCC(C)C1C=CC(C)=CC1,"2-Methyl-5-(6-methylhept-5-en-2-yl)cyclohexa-1,3-diene",0,train
+Cc1ccccc1Oc1ccccc1,1-Methyl-2-phenoxybenzene,1,train
+CC(CCO)CC(C)(C)C,"3,5,5-Trimethyl-1-hexanol",0,train
+C=CCOC(=O)C(C)(C)C,"Prop-2-en-1-yl 2,2-dimethylpropanoate",0,train
+CC1=CCC(C)C(C)(C)C12C=CC(C)O2,"2,6,9,10,10-Pentamethyl-1-oxaspiro[4.5]deca-3,6-diene",0,train
+C=C1C=CC(C(C)C)CC1,Beta-Phellandrene,0,train
+NC(Cc1cnc[nH]1)C(=O)O,DL-histidine,0,train
+CCOC(=O)CCCSC,Ethyl 4-(methylthio)butyrate,0,test
+CCCCCCCCc1cccs1,2-Octylthiophene,0,train
+CCC=CCCCCOC(=O)CC,(Z)-5-octen-1-yl propionate,0,train
+CC(=O)OC1CC2CC1C1CC=CC21,Verdyl acetate,0,train
+CCOC(=O)C1=C(CC)C(C)CCC1(C)C,"1-Cyclohexene-1-carboxylic acid, 2-ethyl-3,6,6-trimethyl-, ethyl ester",0,train
+CC(C)CCCC(=O)O,5-Methylhexanoic acid,0,train
+CCCCCCOCC#N,"Acetonitrile, (hexyloxy)-",0,train
+CCCCCCOC(=O)CCC,Hexyl butyrate,0,train
+CCC(=O)C(C)S,2-Mercapto-3-pentanone,0,train
+CCCCCCCOC(=O)Cc1ccccc1,Heptyl phenylacetate,0,train
+CCCCCCCCCCCC(OC)OC,"1,1-Dimethoxydodecane",0,train
+CC1CCC(C(C)C)C(OCCO)C1,2-(Menthoxy)ethanol,0,train
+C=CC(=C)CCC=C(C)C=O,"2-Methyl-6-methylideneocta-2,7-dienal",0,train
+CCC=CCC1=C(C)C(=O)CC1,Isojasmone,0,train
+CCCCCCCC#N,Octanenitrile,0,train
+CCCCCC1CCOC(C)O1,"Acetaldehyde 1,3-octanediol acetal",0,train
+COc1ccc(C(=O)O)cc1,4-Methoxybenzoic Acid,0,train
+C=C1CCCC(C)(C)C1C(=O)C=CC,"1-(2,2-Dimethyl-6-methylenecyclohexyl)-2-buten-1-one",1,train
+Cn1c(=O)c2c(ncn2C)n(C)c1=O,Caffeine,0,test
+COC(=O)C(C)S,Methyl 2-mercaptopropionate,0,train
+CCC(=O)OC(C)(C)C,tert-Butyl propionate,0,train
+CCCCc1ncc(C)nc1C,"Pyrazine, 2-butyl-3,5-dimethyl-",0,train
+CC=Cc1ccc(OCC)c(O)c1,2-Ethoxy-5-prop-1-enylphenol,0,train
+C=CC(C)(CCC=C(C)C)OC=O,Linalool formate,0,train
+Cc1ccc2c(c1)OCC(=O)CO2,Methyl benzodioxepinone,0,train
+CCCCCCCC1CCCC1=O,2-Heptylcyclopentanone,0,test
+CC1=CC(=O)C(C(C)C)CC1,(+-)-Piperitone,0,train
+CCCCCC(C#N)=C1CCC(C)CC1,2-(4-Methylcyclohexylidene)heptanenitrile,0,train
+CSSc1ccoc1C,Methyl 2-methyl-3-furyl disulfide,0,test
+CCCCCCCC1(C)OCC(C)O1,2-Nonanone propyleneglycol acetal,0,train
+CC(C)COC(CC(C)C)OCC(C)C,"1,1-Di-isobutoxy-3-methylbutane",0,test
+CC1C=CC(=O)O1,4-Hydroxy-2-pentenoic acid gamma-lactone,0,train
+COc1ccc(C(=O)CCc2ccccn2)c(O)c1,1-(2-Hydroxy-4-methoxyphenyl)-3-(2-pyridinyl)-1-propanone,0,test
+COc1cc(C(=O)O)ccc1O,Vanillic Acid,0,train
+CSCSC,"2,4-Dithiapentane",0,test
+CCOC(=O)C=CC(=O)OCC,Diethyl 2-butenedioate,0,train
+CC(=O)SC1CC(C)OC1C,"S-(2,5-dimethyloxolan-3-yl) ethanethioate",0,train
+CCOC(N)=O,"Carbamic acid, ethyl ester",0,train
+CCOC(=O)CCC(C)=O,Ethyl levulinate,0,train
+CCCCCCCCCC(=O)OCc1ccccc1,Benzyl caprate,0,train
+CCCCC(C)(CC)C(=O)OCC,Ethyl 2-methyl-2-ethyl-hexanoate,0,test
+N[C@@H](CC(=O)O)C(=O)O,L-Aspartic Acid,0,train
+c1csc(SSc2cccs2)c1,"2,2'-Dithiobis[thiophene]",0,train
+COC(=O)c1ccccc1N=CC(C)Cc1ccc2c(c1)OCO2,"2-((3-(1,3-Benzodioxol-5-yl)-2-methylpropylidene)amino)benzoic acid methyl ester",0,train
+CSC(=O)C(C)C,Methyl isobutanethioate,0,train
+C=C(C)C1CCC(C)C2=C(C1)C(C)CC2=O,"1(2H)-Azulenone, 3,4,5,6,7,8-hexahydro-3,8-dimethyl-5-(1-methylethenyl)-, (3S,5R,8S)-",0,train
+C=CCCCCCCCC=O,9-Decenal,1,train
+CC1SCCCS1,"2-Methyl-1,3-dithiane",0,train
+CC(=O)C1CCCC(C)(C)C1,"1-(3,3-Dimethylcyclohexyl)ethanone",0,train
+CC1CCC(C(C)C)C(=O)C1,p-Menthan-3-one,0,test
+CC1NC(C)SC(C)S1,"2,4,6-Trimethyldihydro-1,3,5-dithiazine",0,test
+CCOC(=S)c1ccccc1,Ethyl thiobenzoate,0,train
+CC(C)CCC(=O)O,Isocaproic acid,0,train
+CCC(C)CN1CCCC1,N-(2'-Methylbutyl)pyrrolidine,0,train
+CC(=CCC(C)C=O)C(C)C,"4-Heptenal, 2,5,6-trimethyl-",0,test
+CC=Cc1cc(C(C)C)ccc1C,2-Prop-1-enyl-p-cymene,0,train
+CC=CSSC,CID 521863,0,train
+CCCSSSC,Methyl propyl trisulfide,0,train
+CC(C)N1CCN(c2ccc(OC[C@H]3CO[C@](Cn4cncn4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,Terconazole,0,train
+CCC(=O)CO,1-Hydroxy-2-butanone,0,train
+CCCC(C)(S)CCO,3-Mercapto-3-methylhexan-1-ol,0,train
+COc1ccc(CCC(C)=O)cc1,Anisylacetone,1,train
+CCCC(O)CC(=O)O,3-Hydroxyhexanoic acid,0,train
+CCC(C)SSC(C)CC,Di-sec-butyl disulfide,0,train
+CC(C)CCCC(C)(C)O,"2,6-Dimethyl-2-heptanol",1,train
+Cc1cccc(CCO)c1,3-Methylbenzeneethanol,1,train
+CCCCCCCCCCCCCCCCO,Cetyl Alcohol,0,train
+CC(O)C1C2CCC(C2)C1(C)C,"Bicyclo(2.2.1)heptane-2-methanol, alpha,3,3-trimethyl-",0,train
+COc1ccncc1,4-Methoxypyridine,0,test
+CCCC(C)(COC(N)=O)COC(N)=O,Meprobamate,0,train
+CCCCCCCCCCCCCCCCCC(=O)OC1CC(C)CCC1C(C)C,"Octadecanoic acid, 5-methyl-2-(1-methylethyl)cyclohexyl ester",0,train
+COC1CCc2ccccc21,Methoxyindane,0,train
+CCC1CCC2(CCC(=O)O2)CC1,"1-Oxaspiro(4.5)decan-2-one, 8-ethyl-, cis-",0,train
+CCCCC(C=CC(=O)O)CC,4-Ethyloct-2-enoic acid,0,train
+CCCCCCCCCCC(C)O,Dodecan-2-ol,0,train
+CCC(C)CCCCCCCCCCC=O,12-Methyltetradecanal,0,train
+CC(C)C1CCC(C)(O)CC1,p-Menthan-1-ol,0,test
+COc1ccccc1OC(=O)C(C)C,Guaiacol isobutyrate,0,train
+COC1CCC(OC)O1,"2,5-Dimethoxytetrahydrofuran",0,train
+COc1c(C=O)c(C)cc2c1C(C)(C)CCC2(C)C,"2-Naphthalenecarboxaldehyde, 5,6,7,8-tetrahydro-1-methoxy-3,5,5,8,8-pentamethyl-",0,train
+CCOCC=C(C)CCC=C(C)C,"1-Ethoxy-3,7-dimethylocta-2,6-diene",1,train
+CCCC(=O)OCCOc1ccccc1,2-Phenoxyethyl butanoate,0,train
+CCCC(=O)OC1CC2CCC1(C)C2(C)C,"1,7,7-Trimethylbicyclo(2.2.1)heptan-2-yl butanoate",0,train
+C=C1CCC23C(C)CCC(C(C)C)C2C13,4(15)-Cubebene,0,test
+CC(=O)c1cnccn1,Acetylpyrazine,0,test
+CCOC(=O)CCC1CCCCC1,Ethyl cyclohexane propionate,0,train
+C=CCC(O)C=CCCCCC,"1,5-Undecadien-4-ol",0,train
+CC=CC(=O)OC(C)C,1-Methylethyl 2-butenoate,0,train
+COc1cc(C2OCC(COC3CC(C)CCC3C(C)C)O2)ccc1O,"4-(Menthoxymethyl)-2-(3'-methoxy-4'-hydroxyphenyl)-1,3-dioxolane",0,train
+CCCCCCC#CC(OC)OC,"1,1-Dimethoxynon-2-yne",0,train
+O=C(O)C1CC(O)CN1,4-Hydroxyproline,0,test
+CCCCCCCCCCCCOC(=O)CCC,Dodecyl butyrate,0,train
+CCCCCCCCCCC(=O)OCCCC,Butyl undecanoate,0,train
+Cc1ccc(Oc2ccccc2)cc1,p-Phenoxytoluene,1,test
+O=C(OCCc1ccccc1)c1ccccc1,Phenethyl Benzoate,1,test
+CC(C)CN,Isobutylamine,0,train
+CCC(C=O)CS,3-Mercapto-2-ethylpropanal,0,train
+CCC(=O)Oc1c(C)occc1=O,2-methyl-3-(1-oxopropoxy)-4H-pyran-4-one,0,train
+Nc1ccccc1C(=O)O,Anthranilic Acid,0,train
+Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-],"2,4,6-Trinitrotoluene",0,train
+CCOC(OCC)C1CC2CC1C1C=CCC21,"4,7-Methano-1H-indene, 5-(diethoxymethyl)-3a,4,5,6,7,7a-hexahydro-",0,train
+CC1CCC(C(C)C)C(NC(=O)C2CC2)C1,Cyclopropane carboxylic acid (2-isopropyl-5-methyl cyclohexyl) amide,0,train
+O,Water,0,train
+O=C(c1ccccc1)c1ccccc1,Benzophenone,1,train
+CCCCCC=CC=O,Oct-2-enal,0,train
+CC(C)=CCCC(C)c1ccc(C)cc1,Curcumene,0,train
+C#CCO,Propargyl alcohol,0,train
+CCON=O,Ethyl Nitrite,0,train
+CC(C)(S)CCOC=O,3-Mercapto-3-methylbutyl formate,0,test
+CC(=O)CCSCCC(C)=O,"4,4'-Thiobis-2-butanone",0,train
+CCCCCCCCC(=O)OC(C)C,"Nonanoic acid, 1-methylethyl ester",0,test
+O=CC=Cc1ccco1,3-(2-Furyl)acrolein,0,train
+CCCCCCCCC=COC,1-Methoxydec-1-ene,0,train
+COC(C)(C)CCCC(C)CC=O,"7-Methoxy-3,7-Dimethyloctanal",0,train
+COc1ccc(COC(=O)Cc2ccccc2)cc1,Anisyl phenylacetate,1,train
+CC(C(=O)O)c1ccccc1,2-Phenylpropionic acid,0,test
+CC=CCCCCC,Oct-2-ene,0,train
+CNc1ccccc1C(=O)OC,Methyl N-methylanthranilate,0,train
+CC(=O)Oc1cccc(C)c1,Cresatin,0,train
+CC(C)=C1CCC(C)C2=C(C1)C(C)CC2,"1,4-Dimethyl-7-(propan-2-ylidene)-1,2,3,4,5,6,7,8-octahydroazulene",0,train
+C=CC(C)=O,Methyl vinyl ketone,0,train
+CC(=O)CCC(=O)OCc1ccccc1,Benzyl levulinate,0,train
+CCC(=O)OCCCCCCC(C)C,Isononyl propionate,0,train
+CC1=C(C=CC(C)O)C(C)(C)CCC1,"4-(2,6,6-Trimethylcyclohexen-1-yl)but-3-en-2-ol",0,train
+O=C(O)CC1CCCCC1,Cyclohexaneacetic acid,0,test
+c1cc[nH]c1,Pyrrole,0,train
+CC1=CC2C(C(C)C)CCC(C)C2(O)CC1,"1-Isopropyl-4,7-dimethyl-1,3,4,5,6,8a-hexahydro-4a(2H)-naphthalenol",0,test
+CC(C)C(=O)OC1CCC2CCCCC2C1,"Propanoic acid, 2-methyl-, decahydro-2-naphthalenyl ester",1,test
+CCCC(=O)CCC,4-Heptanone,0,train
+CC1SCCC1=O,Dihydro-2-methyl-3(2H)-thiophenone,0,train
+Cc1ccncc1,4-Methylpyridine,0,test
+CC1(C)C2CCC1(C)C(OC=O)C2,Bornyl formate,0,train
+CC(=O)C1=CC(C)(C)CCC1,"Ethanone, 1-(3,3-dimethyl-1-cyclohexen-1-yl)-",0,train
+CCC=CCCOC(=O)CC(C)=O,"Butanoic acid, 3-oxo-, 3-hexenyl ester",0,train
+CCCCCCCCCC(=O)OC,Methyl Decanoate,0,train
+CCC=CCCOC(=O)C(C)CC,3-Hexenyl 2-methylbutyrate,0,train
+Cc1ccoc1CC1OC1(C)C,Rose furan epoxide,0,train
+S=c1[nH]c2ccccc2s1,2-Mercaptobenzothiazole,0,train
+C=C(C)C(CC(=O)O)CC(=O)O,3-Isopropenylpentanedioic acid,0,train
+CC(=O)OCCCCCCCC(C)C,"Acetic acid, isodecyl ester",1,train
+CC1=CCC(C(C)C)C=C1,alpha-PHELLANDRENE,0,train
+CC(C)C=NCc1ccco1,Isobutylidene furfurylamine,0,train
+CC(=O)SC(C)(C)C1CCC(C)CC1=O,"Ethanethioic acid, S-1-methyl-1-(methyloxocyclohexyl)ethyl ester",0,train
+O=C(C=Cc1ccccc1)OCC=Cc1ccccc1,"2-Propenoic acid, 3-phenyl-, 3-phenyl-2-propenyl ester",1,train
+COC1CC(C)CCC1C(C)C,1-Menthyl methyl ether,0,train
+CCCCCCCC(C)=O,2-Nonanone,0,train
+CSCSCSC,"2,4,6-Trithiaheptane",0,train
+CCC(=O)C(O)CC,4-Hydroxyhexan-3-one,0,train
+COCCOCCO,Diethylene Glycol Monomethyl Ether,0,train
+C=C1C2CC3CC1C(OC(C)=O)C(C2)C3C,4-Methyl-8-methyleneadamantan-2-yl acetate,0,train
+CCOc1cc(C=O)ccc1O,Ethylvanillin,0,train
+C=CCOC=O,Allyl Formate,0,train
+CC(C)CCOC(OCCC(C)C)C(C)C,"2-Methyl-1,1-di-isopentyloxypropane",0,train
+CC=CC(=O)OCC=C(C)CCC=C(C)C,"3,7-Dimethylocta-2,6-dienyl but-2-enoate",1,train
+CC(C)C(=O)OC1CCCCC1,"Propanoic acid, 2-methyl-, cyclohexyl ester",0,train
+CCOC(=O)CC(=O)OC(C)C1CCCC(C)(C)C1,"Propanedioic acid, 1-[1-(3,3-dimethylcyclohexyl)ethyl] 3-ethyl ester",0,test
+C=CCc1ccc(OC(C)=O)c(OC)c1,Eugenyl Acetate,0,train
+Cc1ccc(OC(=O)Cc2ccccc2)cc1,p-CRESYL PHENYLACETATE,1,train
+CC(=O)C1=CSCCN1,"5-Acetyl-2,3-dihydro-1,4-thiazine",0,train
+CCCC(=O)OC(C)C(C)=O,Butan-3-one-2-yl butanoate,0,train
+CC12CCC(C1)C(C)(C)C2OC=O,"1,3,3-Trimethylbicyclo(2.1.1)hept-2-yl formate",0,test
+CCCCCCCC=CC=CCO,"Dodeca-2,4-dien-1-ol",0,train
+CCCCCOC(=O)C(C)CC,Pentyl 2-methylbutyrate,0,train
+CCCCCCCC(COC(C)=O)OC(C)=O,"Octanol, acetate, mono[(acetyloxy)methyl] deriv.",0,train
+CCCCCCCC(=O)OCC(C)C,Isobutyl octanoate,0,train
+CCC(=O)OC1=C(C)CCC1=O,Cyclotene propionate,0,train
+C=C(C)CCCC(C)CCO,"3,7-Dimethyl-7-octen-1-ol",1,train
+CSCC(C)=O,1-Methylthio-2-propanone,0,train
+C=CCc1ccc(O)cc1,Chavicol,0,train
+CCC(=O)C=CC1C(C)=CCCC1(C)C,"5-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-4-penten-3-one",0,test
+CC(C)=CCCC(C)=CCC1CCCC1=O,"Cyclopentanone, 2-(3,7-dimethyl-2,6-octadienyl)-",0,train
+C=CC=CC=O,"Penta-2,4-dienal",0,train
+CC=CC(C)C(=O)OCC,Ethyl 2-methylpent-3-enoate,0,train
+Cc1ccc2ncccc2c1,6-Methylquinoline,0,train
+CCCCCC(=O)CCSC,1-(Methylthio)-3-octanone,0,train
+CCCCCCC(=O)OCC(C)C,Isobutyl heptanoate,0,train
+OC1COC(Cc2ccccc2)OC1,"2-(Phenylmethyl)-1,3-dioxan-5-ol",1,train
+CCC=CCCOC(=O)OC,Hex-3-en-1-yl methyl carbonate,0,train
+CC(=O)CS,1-Mercapto-2-propanone,0,train
+CCCCCCCCCC(=O)OCCc1ccccc1,Phenethyl decanoate,1,test
+CCCCCOC(=O)c1ccccc1C(=O)OCCCCC,Dipentyl phthalate,0,train
+C=CC(O)CCCCC,1-Octen-3-Ol,0,train
+CCCCSSSCCCC,"Trisulfide, dibutyl",0,train
+CC(=O)Cc1cnccn1,1-(Pyrazin-2-yl)propan-2-one,0,train
+CCC(C)(O)CC,3-methyl-3-Pentanol,0,test
+CNC(=O)Oc1cccc2c1OC(C)(C)C2,Carbofuran,0,train
+O=C(Cc1ccccc1)OC1CCCCC1,"Benzeneacetic acid, cyclohexyl ester",1,train
+CC1C(C)(C)c2ccc(-c3ccncn3)cc2C1(C)C,"4-(1,1,2,3,3-Pentamethyl-indan-5-yl)-pyrimidine",0,train
+CCCCC(C)C(=O)O,2-Methylhexanoic Acid,0,train
+O=C(c1ccccc1)c1ccc2ccccc2c1,"Methanone, 2-naphthalenylphenyl-",0,train
+CCCC(C)CC=O,3-Methylhexanal,0,train
+Cc1occc1SSSSc1ccoc1C,bis(2-Methyl-3-furyl) tetrasulfide,0,train
+CCC(C)C(=O)OCc1ccccc1,Benzyl 2-methylbutyrate,0,train
+N#CCO,Hydroxyacetonitrile,0,test
+CC=CC(C)C(=O)O,2-Methylpent-3-enoic acid,0,test
+C=CCc1ccc(OC)c(O)c1,Chavibetol,0,train
+S=C=Nc1ccc(N=C=S)cc1,p-Phenylene diisothiocyanate,0,train
+CC=CC=CC=O,"Hexa-2,4-dienal",0,test
+O=C1OC(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c21,Tetrachlorophthalic anhydride,0,train
+Sc1ccccc1,Thiophenol,0,train
+C=CC=CC=CC=CCCC,"1,3,5,7-Undecatetraene",0,test
+CCC(C=O)=Cc1ccco1,2-[(Furan-2-yl)methylidene]butanal,0,train
+CCCCC(=O)OCC=Cc1ccccc1,3-Phenylprop-2-en-1-yl pentanoate,1,test
+CCC(C)COC=O,2-Methylbutyl formate,0,test
+CCC=CCCC=CCO,"2,6-Nonadien-1-ol",0,train
+CCNC(=O)C1CC(C)CCC1C(C)C,"Cyclohexanecarboxamide, N-ethyl-5-methyl-2-(1-methylethyl)-",0,train
+COC(OC)C(C)C,"1,1-Dimethoxy-2-methylpropane",0,train
+CCCCCCCCCCOC(=O)C(C)C,Decyl isobutyrate,0,train
+CCC=CCC1CCCC1=O,3-Oxo-2-(2-pentenyl)-cyclopentane,0,train
+C=C(C)C(=O)C(C)(C)c1ccccc1,"2,4-Dimethyl-4-phenylpent-1-en-3-one",0,train
+CCCCCCCCCC(=O)OC(C)CCC,1-Methylbutyl decanoate,0,test
+CCOC(=O)CCCSC(C)=O,Ethyl 4-(acetylthio)butyrate,0,train
+CC(C)CC(=O)OC1C2(C)CCC(C2)C1(C)C,"1,3,3-Trimethylbicyclo[2.2.1]heptan-2-YL 3-methylbutanoate",0,train
+CSCC(C=O)=CC(C)C,4-Methyl-2-(methylsulfanylmethyl)pent-2-enal,0,train
+CCCCCCCCCC1CCCC(=O)O1,delta-TETRADECALACTONE,0,train
+CCCc1ccc(O)cc1,4-Propylphenol,0,train
+CCOc1ccc(C=O)cc1OC,4-Ethoxy-3-methoxybenzaldehyde,0,train
+CCCCC(CC)C(=O)OCCc1ccccc1,2-Phenylethyl 2-ethylhexanoate,1,train
+CC1CCC(C(C)C)OC(=O)C1,"6-Hydroxy-3,7-dimethyloctanoic acid lactone",0,test
+CCCOC(=O)CCC(=O)OCCC,Dipropyl succinate,0,train
+Cc1ccccc1OC(=O)c1ccccc1O,o-TOLYL SALICYLATE,0,test
+CCCCCCCCC(=O)O,Nonanoic Acid,0,train
+C=CCc1ccc(OC(=O)Cc2ccccc2)c(OC)c1,Eugenyl phenylacetate,0,train
+CCCC=CCCCCCCC=O,Dodec-8-enal,0,train
+CCCCCCCC(=O)OCCCC,Butyl octanoate,0,test
+CC(C)C(C)S,3-Methyl-2-butanethiol,0,train
+O=C(C=Cc1ccccc1)OCCCc1ccccc1,"2-Propenoic acid, 3-phenyl-, 3-phenylpropyl ester",1,train
+CCC=CCCC=CCOC(C)=O,"2,6-Nonadien-1-ol, acetate, (2E,6E)-",0,test
+CCCCCCC=CCCCCC(C)=O,7-Tetradecen-2-one,0,train
+Cc1ccc(CC(C)C=O)cc1,2-Methyl-3-(p-tolyl)propanal,0,train
+CC(=O)OCCC1CCCCC1,Cyclohexaneethyl acetate,1,train
+C=CCS,Allyl Mercaptan,0,train
+CC(C)=CCCC(C)=CCCC(C)(O)C1CO1,"6,10-Dimethyl-2-(oxiran-2-yl)undeca-5,9-dien-2-ol",0,train
+CCOC(=O)c1ccccc1OCC,"Benzoic acid, 2-ethoxy-, ethyl ester",0,train
+CC1=CC(C)CC(C#N)C1,"3-Cyclohexene-1-carbonitrile, 3,5-dimethyl-",0,train
+CC(=O)C(=O)CC(C)C,"5-Methyl-2,3-hexanedione",0,train
+CC=CC(=O)C(C)=C(CC)C(C)C,"6-Ethyl-5,7-dimethylocta-2,5-dien-4-one",1,train
+CC(C)COC(Cc1ccccc1)OCC(C)C,Phenyl acetaldehyde diisobutyl acetal,1,train
+CC(OC=O)c1ccccc1,alpha-Methylbenzyl formate,0,train
+CC(=O)C(S)C(C)C,4-Methyl-3-sulfanylpentan-2-one,0,train
+C=CCC(O)C1CC=C(C)CC1,alpha-Allyl-4-methyl-3-cyclohexene methanol,0,train
+CCCCCCCCOC(=O)CC(C)=O,Octyl acetoacetate,0,train
+CC(=O)C=CC1C(C)C=C(C)CC1C,"4-(2,4,6-Trimethylcyclohex-3-en-1-yl)but-3-en-2-one",0,train
+CC(=O)c1ccc(Cl)cc1,P-Chloroacetophenone,0,train
+CCCCC(C=O)CC,2-Ethylhexanal,0,train
+CCCCCCCCCCCC(=O)OCCCCC,Pentyl laurate,0,train
+CC1(C)C2CC=C(CC=O)C1C2,"Bicyclo[3.1.1]hept-2-ene-2-acetaldehyde, 6,6-dimethyl-",0,test
+CCOC(=O)C(C)(O)c1ccccc1,Ethyl 2-hydroxy-2-phenylpropanoate,0,train
+Cc1csc(C)n1,"2,4-Dimethylthiazole",0,train
+CCCCOC=O,Butyl Formate,0,train
+CCc1nc(C)sc1CC,"4,5-Diethyl-2-methyl-1,3-thiazole",0,train
+CCCCCCC(OCC)OCC,"Heptane, 1,1-diethoxy-",0,train
+CCOC(=O)C(O)Cc1ccccc1,"Ethyl phenyllactate, (+-)-",0,train
+CCCCCCC=O,Heptanal,0,train
+CCOC(OCC)c1ccc2c(c1)OCO2,"5-(Diethoxymethyl)-1,3-benzodioxole",0,train
+CC(c1ccccc1)C1OCCO1,"1,3-Dioxolane, 2-(1-phenylethyl)-",0,test
+CC(=O)OCC1=CCC23CC1C(C)(C)C2CCC3C,"(2,6,6-trimethyl-8-tricyclo[5.3.1.01,5]undec-8-enyl)methyl acetate",0,train
+CCC(=O)CCC(C)C,Ethyl iso-amyl ketone,0,train
+CC(=O)c1ccc(C(C)(C)C)cc1,p-tert-Butylacetophenone,0,train
+CCCCCCCC(C)O,2-Nonanol,0,train
+CCCCCC=CC(=O)OCCCC,Butyl oct-2-enoate,0,train
+COP(=S)(OC)SCn1nnc2ccccc2c1=O,Azinphos-Methyl,0,train
+CC(C)C(=O)C(C)C,"2,4-Dimethyl-3-pentanone",0,train
+CC(C)=CCCC(C)(O)C1CC=C(C)CC1,"alpha,4-Dimethyl-alpha-(4-methyl-3-penten-1-yl)-3-cyclohexene-1-methanol",0,train
+CN1CCNc2ccccc21,"1-Methyl-1,2,3,4-tetrahydroquinoxaline",0,test
+CC(=O)CCCC(C)CCCC(C)CCCC(C)C,"6,10,14-Trimethyl-2-pentadecanone",0,train
+C=CCCCCCCCCCOCCC#N,3-(10-Undecenyloxy)propiononitrile,0,train
+CC1=C2CC(C(C)(C)O)CCC2(C)CCC1,"2-(4a,8-Dimethyl-1,2,3,4,4a,5,6,7-octahydronaphthalen-2-yl)propan-2-ol",0,train
+CCCCCCCCCCOC(=O)CC(C)C,"Butanoic acid, 3-methyl-, decyl ester",0,train
+CCOC(C)OCC,Acetal,0,train
+C=C(C)c1ccccc1,Alpha-Methylstyrene,0,train
+CC(C)C=CC=O,"2-Pentenal, 4-methyl-",0,train
+CSCCC=C(C=O)CSC,Methialdol,0,test
+CC=CC(=O)C(C)=C(C)C(C)C,"5,6,7-Trimethylocta-2,5-dien-4-one",1,train
+CC(C)(C#N)C(C)(C)C#N,"2,2,3,3-Tetramethylbutanedinitrile",0,train
+C=C(C)C1CCC(=C)C(OC(C)=O)C1,Menthadienyl acetate,0,test
+COC(=O)C1C(C)=CCCC1(C)C,"2-Cyclohexene-1-carboxylic acid, 2,6,6-trimethyl-, methyl ester",0,train
+C=CCCC(=O)C1=CCCC(C)(C)C1,"1-(5,5-Dimethylcyclohexen-1-yl)pent-4-en-1-one",0,train
+CCOC(C)(C)C1CC=C(C)CC1,"Cyclohexene, 4-(1-ethoxy-1-methylethyl)-1-methyl-",0,train
+CC(C)(C=O)COCc1ccccc1,"3-Benzyloxy-2,2-dimethylpropanal",0,train
+CCOC(=O)C1OC1c1ccccc1,Ethyl 3-phenylglycidate,1,train
+CC12CCC3C(CCC4C(C)(C)CCCC43C)(CO1)O2,"5H-3,5a-Epoxynaphth[2,1-c]oxepin, dodecahydro-3,8,8,11a-tetramethyl-",0,train
+CCOc1ccccc1OC,1-Ethoxy-2-methoxybenzene,0,train
+c1ccc(Oc2ccccc2)cc1,Diphenyl Ether,0,train
+O=C1CCCCC1=O,"1,2-Cyclohexanedione",0,test
+O=C(Cc1ccccc1)OCC1CCCO1,"Benzeneacetic acid, (tetrahydro-2-furanyl)methyl ester",0,train
+C=CC1(OC(C)=O)CCCCC1C(C)CC,"Cyclohexanol, 1-ethenyl-2-(1-methylpropyl)-, 1-acetate",0,train
+c1cnc(CC2CCCCC2)cn1,(Cyclohexylmethyl)pyrazine,0,train
+CCCCCCCCOC=O,Octyl formate,1,train
+Cc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1,"2,6-Di-tert-butyl-4-methylphenol",0,test
+CCc1cnc(C)c(CC)n1,"3,5-Diethyl-2-methylpyrazine",0,train
+C=C(C)OC(C)=O,Isopropenyl acetate,0,train
+CC(C)=CCCC(C)C1OCC(C)O1,"2,6-Dimethyl-5-heptenal propylene glycol acetal",0,test
+CCCCCOC(=O)CCSC,Pentyl 3-(methylthio)propionate,0,train
+COc1nccnc1C(C)C,2-Isopropyl-3-methoxypyrazine,0,train
+CCC=CC(=O)OC(C)C,Propan-2-yl pent-2-enoate,0,train
+CC1OCC=C1SC1(S)CCOC1C,"3-((2,5-Dihydro-2-methyl-3-furyl)thio)tetrahydro-2-methylfuran-3-thiol",0,train
+CC=C(C)CO,2-Methylbut-2-en-1-ol,0,train
+CC1=CCC(C(C)CCO)CC1,Methylcyclohexenyl butanol,1,train
+COC(=O)c1ccccc1C,Methyl o-toluate,0,train
+CCCCC1CCC(=O)O1,gamma-Octalactone,0,train
+C=CC(C)(O)CCC=C(C)CCC=C(C)C,"3,7,11-Trimethyldodeca-1,6,10-trien-3-ol",0,test
+CCCOS(=O)(=S)CCC,Propylpropanthiosulfonat,0,train
+COc1cc(C=CC=O)ccc1O,"2-Propenal, 3-(4-hydroxy-3-methoxyphenyl)-",0,test
+CCC(C)=C(C)C(C)=O,"3,4-Dimethyl-3-hexen-2-one",0,train
+CCCCC(CC)COC(=O)CC,"Propanoic acid, 2-ethylhexyl ester",0,train
+CC(=O)OCCC(C)S,3-Mercapto-1-butyl acetate,0,train
+CCCCCC=CCCC=O,4-Decenal,0,train
+CCCCCCCCCCOC(C)=O,Decyl acetate,1,train
+CCCCCCCCCCC=O,Undecanal,0,train
+CCCC=C1OC(=O)c2ccccc21,"1(3H)-Isobenzofuranone, 3-butylidene-",0,train
+CCCCOC(=O)C(C)C,Butyl isobutyrate,0,train
+CCCSSCC,Ethyl propyl disulfide,0,train
+CC=CSSCCC,Propyl 1-propenyl disulfide,0,train
+CC1=CC2CC(C3OCCO3)C1CC2C(C)C,"1,3-Dioxolane, 2-[6-methyl-8-(1-methylethyl)bicyclo[2.2.2]oct-5-en-2-yl]-",1,train
+CC(C)COC(C)OCC(C)C,Acetaldehyde di-isobutylacetal,0,train
+CC=C(C=O)CC,2-Ethyl-but-2-enal,0,train
+CCOC(=O)C(C)C,Ethyl isobutyrate,0,test
+COc1cc(C)ccc1C(C)C,Thymyl methyl ether,0,train
+CCOCc1ccc(O)c(OC)c1,Vanillyl ethyl ether,0,train
+CCC(=O)N1C=CCC1,"1-(2,3-Dihydropyrrol-1-yl)propan-1-one",0,train
+CC(=O)CC(C)SCc1ccco1,4-Furfurylthio-2-pentanone,0,train
+CC=CC(C)O,(+-)-3-Penten-2-ol,0,train
+CCCCC(=O)c1ccccc1,Valerophenone,0,train
+CCCCOCCc1ccccc1,Butyl phenethyl ether,0,test
+CCc1ccc(C=O)cc1,4-Ethylbenzaldehyde,0,train
+CC(C)c1ccccc1O,2-Isopropylphenol,0,train
+CC=CCCCCCCCC(=O)OC,Methyl-undec-9-enoate,1,train
+CC1CC(C)C(=O)C1=O,"3,5-Dimethyl-1,2-cyclopentanedione",0,train
+OCCCCc1ccccc1,Benzenebutanol,1,test
+CC(C)=CCC1(C)CC(C)C=C(C)C1=O,"2,4,6-Trimethyl-6-(3-methylbut-2-enyl)cyclohex-2-en-1-one",0,train
+C=CCc1cc(OC)c2c(c1)OCO2,Myristicin,0,train
+Nc1ccccc1C(=O)OCC=Cc1ccccc1,Anthranilic acid cinnamyl ester,0,train
+CCCCCCCCC(S)C=O,2-Sulfanyldecanal,0,train
+CC(=O)OCCCc1ccccc1,3-Phenylpropyl acetate,0,test
+CC(=O)C(C)Sc1ccoc1C,3-((2-Methyl-3-furyl)thio)-2-butanone,0,train
+C=C(CC=O)CCC=C(C)C,"6-Octenal, 7-methyl-3-methylene-",1,train
+CCCOC(C)OCCC(C)C,1-Isopentyloxy-1-propoxyethane,0,train
+CCCC(=O)OC1CCCCC1,Cyclohexyl butyrate,0,train
+CC(C)Cc1cccnc1,3-Isobutyl pyridine,0,train
+C=CC1(C)CCC(O)C(C)(C)O1,"Linalool oxide pyranoid, (+-)-",0,train
+CCCCCCCCCCCC(=O)OC,Methyl Laurate,0,test
+CC(C)=CCCC(C)CCOC=O,Citronellyl formate,1,train
+CCC(=O)OC1CCC(C(C)(C)C)CC1,"Cyclohexanol, 4-(1,1-dimethylethyl)-, 1-propanoate",0,test
+CCOC(=O)C(C)(C)S,Ethyl 2-mercapto-2-methylpropionate,0,train
+CCCCCC(=O)OCCCSC,3-(Methylthio)propyl hexanoate,0,train
+CCC(C)(CCCC(C)C)OC(C)=O,Tetrahydrolinalyl acetate,0,test
+CC1=NC(C)OC1C,"2,4,5-Trimethyl-3-oxazoline",0,train
+CCCC(=O)OCCC(C)CCCC(C)C,"Butanoic acid, 3,7-dimethyloctyl ester",1,train
+O=C1CCC(C2CCCCC2)CC1,"(1,1'-Bicyclohexyl)-4-one",0,test
+CCCC=CCC(C)=O,Oct-4-en-2-one,0,test
+CCC1SC(C(C)CC)N=C1C,Unii-vbv00thq12,0,train
+CC(C)=CCCC(C)=CC(C)(C)O,"2,4,8-Trimethylnona-3,7-dien-2-OL",0,train
+C=C1C(=O)OC2C1CCC(=C)C1CCC(=C)C12,"3,6,9-Trimethylidene-3a,4,5,6a,7,8,9a,9b-octahydroazuleno(4,5-b)furan-2-one",0,train
+CC1CCC(C(C)C)C(OC(=O)c2ccccc2N)C1,Menthyl Anthranilate,0,test
+CCOC(C)OC(C)C,"Acetaldehyde ethyl isopropyl acetal, (+-)-",0,train
+CC(C)CC1OC(=O)C2=CCCCC21,"3-(2-Methylpropyl)-3a,4,5,6-tetrahydro-2-benzofuran-1(3h)-one",0,test
+CCCCCC(C=O)=Cc1ccc(C)cc1,"Heptanal, 2-[(4-methylphenyl)methylene]-",0,train
+CC1=CC(C)C(C)C(C=O)C1,"3,5,6-Trimethyl-3-cyclohexene-1-carboxaldehyde",0,train
+CCC(=CCC(C)CCO)CC,"5-Octen-1-ol, 6-ethyl-3-methyl-",0,test
+CCCCCOC(=O)C(C)C,Amyl isobutyrate,0,test
+CCCCCC(O)CCCC(=O)OCC(O)CO,"2,3-Dihydroxypropyl 5-hydroxydecanoate",0,train
+CC(C)=CCCC(C)=CC1OCC(C)O1,"1,3-Dioxolane, 2-(2,6-dimethyl-1,5-heptadienyl)-4-methyl-",0,train
+CSc1cc(C)oc1C,"2,5-Dimethyl-3-(methylthio)furan",0,train
+Cc1ccc(C2OCC(C)O2)cc1,4-Methylbenzaldehyde propyleneglycol acetal,0,train
+CCC(C)C(=O)OC,Methyl 2-methylbutyrate,0,train
+Cc1ccc(O)c(C)c1,"2,4-Dimethylphenol",0,test
+CCC(C)n1c(=O)[nH]c(C)c(Br)c1=O,Bromacil,0,train
+CCCCCOC(=O)Cc1ccccc1,Pentyl phenylacetate,0,train
+CC(O)C=Cc1ccccc1,4-Phenylbut-3-en-2-ol,0,train
+FCF,Difluoromethane,0,train
+CC(=O)Oc1cc(C)ccc1C(C)C,Thymol acetate,0,train
+CC(=O)OCCCCCOC(C)=O,"1,5-Diacetoxypentane",0,train
+CC(C)(c1ccc(OCC2CO2)cc1)c1ccc(OCC2CO2)cc1,Bisphenol A diglycidyl ether,0,test
+CC(C)CC(=O)OCCC1CCCCC1,2-Cyclohexylethyl 3-methylbutanoate,0,train
+COc1cc(C=O)ccc1OC(=O)C(C)C,Vanillin isobutyrate,0,train
+CC(C)COC(=O)C(C)C,Isobutyl isobutyrate,0,test
+CCOC(=O)C(C)c1ccccc1,"Benzeneacetic acid, alpha-methyl-, ethyl ester",0,train
+C=C1C=CCC(C)(C)C12CCC(C)O2,Vitispirane,0,train
+CCCC1(C(C)(C)C)CCC(C)O1,2-tert-Butyl-5-methyl-2-propyltetrahydrofuran,0,train
+O=C1CCc2ccccc2O1,Dihydrocoumarin,0,train
+CC1=C(C)C2(C)CCC1(C)C(C)(C)C2(C)O,"Bicyclo[2.2.2]oct-5-en-2-ol, 1,2,3,3,4,5,6-heptamethyl-",0,train
+Cc1ccc(C(C)C=O)cc1,2-(p-Tolyl)propanal,0,train
+Nc1ccc(S(=O)(=O)Nc2ccccn2)cc1,Sulfapyridine,0,train
+CC(F)F,"1,1-Difluoroethane",0,train
+CCCCCCCCCCCCCCCCOC(C)=O,Cetyl Acetate,0,train
+C=CCCC(C)=O,5-Hexene-2-one,0,train
+CC(=O)c1cc2ccccc2o1,2-Acetylbenzofuran,0,train
+COc1cccc(CNC(=O)C(=O)NCCc2ccccn2)c1OC,"N1-(2,3-Dimethoxybenzyl)-N2-(2-(pyridin-2-yl)ethyl) oxalamide",0,train
+CC12CCC(CC1)C(C)(C)O2,"1,8-Cineole",0,train
+Cc1c([N+](=O)[O-])cc2c(c1[N+](=O)[O-])C(C)(C)CC2(C)C,Moskene,0,train
+CC=C(C)C(=O)OCCC=CCC,Hex-3-en-1-yl 2-methylbut-2-enoate,0,test
+CCCC(=O)c1ccccc1,Butyrophenone,0,test
+COC(=O)c1ccccc1,Methyl Benzoate,0,train
+CCCCCCCCCCCCCCCC(=O)OC1CC(C)CCC1C(C)C,2-Isopropyl-5-methylcyclohexyl palmitate,0,test
+C=CCSC(=O)CC,Allyl thiopropionate,0,train
+c1ccc2c(c1)cc1ccc3cccc4c5ccccc5c2c1c34,"Dibenzo(a,l)pyrene",0,train
+C=CCCCC(=O)OCC,Ethyl 5-hexenoate,0,train
+CCOc1nccnc1CC,2-Ethoxy-3-ethylpyrazine,0,train
+CCCCCC(=O)OCc1ccccc1,Benzyl hexanoate,0,train
+CCCCCCCCCCCCCCC(=O)OCC,Ethyl pentadecanoate,0,train
+C=CC(CC=O)c1ccccc1,3-Phenyl-4-pentenal,0,train
+CCC=CCC(=O)O,Hex-3-enoic acid,0,train
+CC1COC(=O)O1,Propylene Carbonate,0,train
+CCCCCCCCC(C)=O,2-Decanone,0,test
+CCCc1ccc(OC)cc1,4-Propylanisole,0,train
+O=C(O)CCC(=O)OOC(=O)CCC(=O)O,Succinoyl peroxide,0,train
+CC1=CC=CC(C)(C)CC1=O,Eucarvone,0,train
+C=CCOCCc1ccccc1,(2-Allyloxyethyl)benzene,0,train
+CCCCCCC(=O)OCC,Ethyl Heptanoate,0,train
+CCCCC1OCCC(C)S1,"2-Butyl-4-methyl-1,3-oxathiane",0,train
+Sc1ccc2ccccc2c1,2-Naphthalenethiol,0,train
+CCC=CCCC(=O)O,4-Heptenoic acid,0,test
+CCCCCCCCOC(=O)CCCCCCC,Octyl caprylate,0,test
+CC(=O)CCC=C(C)CCC=C(C)C,"6,10-Dimethylundeca-5,9-Dien-2-One",1,train
+CCCCC(=O)CCCC,5-Nonanone,0,train
+CCC1OC(C)(CC)CCC1C(C)C,"5-isopropyl-2,6-diethyl-2-methyltetrahydro-2H-pyran",0,train
+CCOC(=O)C(C)=O,Ethyl pyruvate,0,train
+CCCCCCOC(=O)Cc1ccccc1,Hexyl phenylacetate,1,test
+CC(C)CCOC(=O)c1ccco1,3-Methylbutyl 2-furoate,0,train
+CCCC=CC(=O)OCC,Ethyl hex-2-enoate,0,train
+C=CC(C)CCC=C(C)CCC=O,"4,8-Dimethyl-4,9-decadienal",0,train
+CCCCCCCCOC(=O)CCC(C)C,"Pentanoic acid, 4-methyl, octyl ester",0,train
+Cc1cscc1C,"3,4-Dimethylthiophene",0,train
+Cc1cscn1,4-Methylthiazole,0,train
+CC(=O)C1(C)CC2=C(CCCC2(C)C)CC1C,"1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-tetramethyl-2-naphthalenyl)ethanone",0,train
+O=C1C=CCCCCCCO1,"2,3,4,5,6,7-Hexahydrooxecin-10-one",0,test
+CCC(S)C(=O)OC,Methyl 2-sulfanylbutanoate,0,train
+CSSCc1ccco1,Furfuryl methyl disulfide,0,test
+CCNc1nc(Cl)nc(NC(C)C)n1,Atrazine,0,train
+OCC=Cc1ccccc1,3-Phenylprop-2-En-1-Ol,0,train
+CCC1(C)OCC(C)O1,"2-Ethyl-2,4-dimethyl-1,3-dioxolane",0,test
+CC=CC(C)C(=O)OCCCCCC,"3-Pentenoic acid, 2-methyl-, hexyl ester",0,train
+CCCCCCCCC=CCO,Undec-2-enol,1,train
+COCC=C(C)CCC=C(C)C,"1-Methoxy-3,7-dimethyl-2,6-octadiene",1,train
+CCCCCSCCCCC,Diamyl sulfide,0,test
+CCCCCCC(=O)Oc1ccc(C)cc1,4-Methylphenyl heptanoate,0,train
+CCCCSCC,Butyl ethyl sulfide,0,test
+C=C1CCC(C(C)C)C2C=C(C)CCC12,"7-Methyl-4-methylidene-1-(propan-2-yl)-1,2,3,4,4a,5,6,8a-octahydronaphthalene",0,train
+c1ccc2c(c1)CC1COCOC21,"4,4a,5,9b-Tetrahydroindeno(1,2-d)-1,3-dioxin",0,train
+C=CCCCCCCCCOC(=O)CC,"9-Decen-1-ol, 1-propanoate",1,train
+Nc1ccc(Nc2ccccc2)cc1,N-Phenyl-p-phenylenediamine,0,train
+CC(C)(C)C1CCCCC1=O,2-tert-Butylcyclohexanone,0,test
+CCC(=O)OC1CC(C)CCC1C(C)C,Menthyl propionate,1,train
+CC(OCCc1ccccc1)OCCc1ccccc1,"1,1-Bis(phenethyloxy)ethane",1,test
+CC1=CCCC(=C(C)C)C1=O,"2-Cyclohexen-1-one, 2-methyl-6-(1-methylethylidene)-",0,train
+CC=CC(=O)OCc1ccco1,"2-Butenoic acid, 2-furanylmethyl ester",0,train
+CC(O)C(C)C(C)C(C)C(C)(C)C,"2-Heptanol, 3,4,5,6,6-pentamethyl-",0,test
+CC(C)=CCCC(C)=CCOC(=O)C(C)=C(C)C,"3,7-Dimethylocta-2,6-dienyl 2,3-dimethylbut-2-enoate",1,train
+COCC(C)Cc1ccccc1,(3-Methoxy-2-methylpropyl)benzene,1,train
+CCCCCC1CC=CC(=O)O1,(+-)-Massoia lactone,0,train
+CC=C(C)C(=O)OCCCC,Butyl angelate,1,test
+CC(C)CCOC(=O)c1ccccc1,Isoamyl benzoate,0,train
+CCCC=CC=O,Hexenal,0,test
+CCC=CCC(=O)OCC,Ethyl-3-hexanoate,0,train
+Cc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,"2-Methyl-4,6-dinitrophenol",0,train
+CCCCCCCCCC(=O)Oc1ccccc1C,(2-Methylphenyl) decanoate,0,train
+C=Cc1ccccc1OC,2-Vinylanisole,0,train
+CC1=CCC(=O)O1,alpha-Angelica lactone,0,train
+C=CCCC(=O)c1ccccc1,"4-Penten-1-one, 1-phenyl-",0,train
+COC(C=Cc1ccccc1)OC(C)=O,(1-Methoxy-3-phenylprop-2-enyl) acetate,0,train
+COc1ccc(CC=O)cc1,4-Methoxyphenylacetaldehyde,0,train
+Cc1cccc2nccnc12,5-Methylquinoxaline,0,train
+C=CCc1ccc(O)c(-c2cc(CC=C)ccc2O)c1,Magnolol,0,test
+CCCC(CCOC(C)=O)SC(C)=O,S-(1-(2-(Acetyloxy)ethyl)butyl) ethanethioate,0,train
+CCOC(C)C=CC1C(C)=CCCC1(C)C,"6-(3-Ethoxy-1-buten-1-yl)-1,5,5-trimethylcyclohexene",0,train
+CCCC(=O)Oc1c(CC)occc1=O,"Butanoic acid, 2-ethyl-4-oxo-4H-pyran-3-yl ester",0,train
+CCCCCC=CC=CC(=O)OCCCC,"butyl (E,Z)-2,4-decadienoate",0,train
+CCCCCCC(C)OC(C)=O,1-Methylheptyl acetate,0,train
+CCCCCC=C(C)O,Oct-2-en-2-ol,0,train
+CCCCCC(=Cc1ccccc1)CO,alpha-Amylcinnamyl alcohol,0,train
+CCCC=CC(=O)OC,Methyl 2-hexenoate,0,train
+CCOC(=O)CCCC(=O)OCC,Diethyl glutarate,0,test
+C=Cc1ccccc1,Styrene,0,train
+COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],Nifedipine,0,train
+CCOC(=O)C(C)(C)C,Ethyl pivalate,0,train
+CCCCCC(=O)CCC,4-Nonanone,0,test
+CC(=S)Oc1ccccc1C,Methylphenyl thioacetate,0,train
+CCCCCCC(=O)O,Heptanoic Acid,0,test
+CC1(C)CCCC2(C)C1CCC1(C)OC(=O)CC12,"Decahydro-3a,6,6,9a-tetramethylnaphtho[2,1-b]furan-2(1H)-one",0,test
+CCOC(=O)C(C)CC,Ethyl 2-methylbutyrate,0,train
+CC1=CC=CC(C)(C)C12CC(=O)C(C)O2,"2,6,6,10-Tetramethyl-1-oxaspiro[4.5]deca-7,9-dien-3-one",0,train
+CCOC(=O)C(CC)(CC)C(=O)OCC,Diethyl diethylmalonate,0,train
+CC(=O)c1ccc2ccccc2c1,2-Acetylnaphthalene,0,train
+CCOC(=O)CC(CC(=O)OCC)(OC(C)=O)C(=O)OCC,Acetyl Triethyl Citrate,0,test
+CC(C)=CCCC(C)=CCCC(C)CC=O,"2,3-Dihydrofarnesal",0,test
+CCCCCCCCCCCCCC=O,Tetradecanal,0,train
+CCCCSSCCC,Butyl propyl disulfide,0,test
+CC(C)=CCCC(C)=CCOC(Cc1ccccc1)OCC=C(C)CCC=C(C)C,"(2,2-Bis((3,7-dimethyl-2,6-octadienyl)oxy)ethyl)benzene",1,train
+CC(C)(C)C(=O)OCCc1ccccc1,2-Phenylethyl pivalate,1,train
+CCCCCCCOC(=O)CCCCCC,Heptyl heptanoate,0,train
+CCC=CCC1C(=O)CCC1CC(=O)OC,Methyl 3-oxo-2-(pent-2-enyl)cyclopentaneacetate,0,train
+CCOC(=O)c1ccc(O)cc1,Ethylparaben,0,train
+CCCCOC(=O)CCC(=O)OCCCC,Dibutyl succinate,0,train
+CCCCC(OC)OC,"Pentane, 1,1-dimethoxy-",0,train
+C=CCOC(=O)C=Cc1ccccc1,Prop-2-enyl 3-phenylprop-2-enoate,0,test
+O=C1Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O,Oxazepam,0,train
+Cc1ccc(C(=O)c2cc(O)c(O)c([N+](=O)[O-])c2)cc1,Tolcapone,0,train
+CCC(O)COC1CCCCC1C(C)(C)C,2-tert-Butylcyclohexyloxybutanol,0,train
+CCC(C)C1N=C(C)C(C)S1,"2,5-Dihydro-4,5-dimethyl-2-(1-methylpropyl)thiazole",0,test
+CC1C=Cc2nccnc21,5-Methyl-5H-cyclopenta[b]pyrazine,0,train
+CCCCCC(=O)OCC,Ethyl hexanoate,0,train
+CC1=NC(C)SC1,"2,4-Dimethyl-3-thiazoline",0,train
+CC(=O)c1cc2c(cc1C)C(C)(C)C(C)C2(C)C,Phantolide,0,train
+CSCc1ccsc1,3-(Methylthio)methylthiophene,0,train
+C=C(C)C1CCC(C)(O)C1C,Plinol,0,test
+CC(=O)OC(C)CC(C)C,4-Methyl-2-pentyl acetate,0,train
+Sc1ccsc1,3-Thiophenethiol,0,train
+COC(=O)C(O)CC(C)C,Methyl 2-hydroxy-4-methylpentanoate,0,test
+CCCCOC(=O)CC(C)C,Butyl isovalerate,0,train
+CCOC(=O)c1ccc(N)cc1,Benzocaine,0,train
+CC(C)=O,Acetone,0,test
+C=CC(=O)CC,1-Penten-3-one,0,train
+C=CC(CCCCC)OC(C)=O,1-Octen-3-yl acetate,0,train
+CC(C)CCCC1=CCC(C)(C=O)CC1,1-Methyl-4-(4-methylpentyl)cyclohex-3-ene-1-carbaldehyde,0,train
+C=CCCCCCCCCOC(C)=O,9-Decenyl acetate,1,test
+CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,Phenobarbital,0,train
+CCCCC(O)C(C)CCC,4-Methyl-5-nonanol,0,train
+CC(C=O)=CCC1C(C)=CCCC1(C)C,"2-Butenal, 2-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-",0,train
+C=CC(=C)CCC=C(C)CCC=C(C)C,"7,11-Dimethyl-3-methylene-1,6,10-dodecatriene",0,train
+C=CC(=O)CCCC,1-Hepten-3-one,0,train
+O=[Si]=O,Silica,0,train
+COc1ccc2ccc(=O)oc2c1,Methylumbelliferone,0,train
+CC=CC=C1C(C)=CC(=O)CC1(C)C,"2-Cyclohexen-1-one, 4-(2-butenylidene)-3,5,5-trimethyl-",0,train
+CCCCCCC1=CCCC1=O,2-Hexyl-2-cyclopenten-1-one,0,train
+C=C(C)CSC(C(=O)CC(C)C)C(C)C,"3-(Methallylthio)-2,6-dimethyl-4-heptanone",1,train
+O=C(O)C(=O)CO,Hydroxypyruvic acid,0,train
+C=CCOC(=O)c1ccccc1N,Allyl anthranilate,0,train
+CC(=O)CCC(=O)OCC(C)C,Isobutyl 4-oxovalerate,0,train
+CCC(=O)C(C)=CC1C(C)CC=CC1(C)C,"2-Methyl-1-(2,2,6-trimethylcyclohex-3-en-1-yl)pent-1-en-3-one",0,train
+CC=CSSC(C)CC,Sek-Butylpropenyldisulfid,0,train
+CCCC(=O)C(O)CCC,Butyroin,0,train
+CCCCCCCCC=CCCCCCCCC(=O)O,9-Octadecenoic Acid,0,train
+CC(=O)CCS,4-Mercapto-2-butanone,0,train
+CCOC(=O)CC(C)CCC=C(C)C,"Ethyl 3,7-dimethyloct-6-enoate",1,train
+CCCCCC(S)CC=O,3-Mercaptooctanal,0,train
+CCOC(=O)C1C(C)=CC=CC1(C)C,Ethyl alpha-safranate,1,train
+CCC(O)OC,Propylene glycol methyl ether,0,train
+CC(C)COC(=O)Cc1ccccc1,Isobutyl phenylacetate,1,test
+CCCCCC=CCOC(C)=O,Oct-2-enyl acetate,0,test
+COc1cc(C2OCC(C)O2)ccc1O,Vanillin propylene glycol acetal,0,train
+Cc1ccc2ccccc2c1,2-Methylnaphthalene,0,train
+CCCCCC(CC)OC=O,3-Octanol formate,0,train
+CCCCc1cccs1,2-Butylthiophene,0,test
+COc1cc(C=O)cc(-c2cc(C=O)cc(OC)c2O)c1O,Divanillin,0,train
+CC(C)=CCCC(C)CCOC(=O)c1ccccc1,"6-Octen-1-ol, 3,7-dimethyl-, 1-benzoate",1,train
+COc1ccc(C=CC(=O)C(C)C)cc1,1-(4-Methoxyphenyl)-4-methylpent-1-en-3-one,0,train
+COCCOC(=O)CC(C)=O,2-Methoxyethyl acetoacetate,0,train
+CC1=CCC2C(C1)C2(C)C,3-Carene,0,train
+CCOc1ccc(C)cc1,"Benzene, 1-ethoxy-4-methyl-",0,train
+C=C1CCCC(C)(C)C1C(=O)OC,"Cyclohexanecarboxylic acid, 2,2-dimethyl-6-methylene-, methyl ester",1,train
+CC1CC2CC(C)(C)COC2CC1C,"3,3,6,7-Tetramethyl-2,4,4a,5,6,7,8,8a-octahydrochromene",0,train
+CC(=O)O,Acetic Acid,0,train
+C=CC(C)(O)CCC=C(C)C,Linalool,1,train
+O=C(OCCc1ccccc1)c1ccco1,Phenethyl 2-furoate,1,train
+CCc1cnc(C)c(C)n1,"5-Ethyl-2,3-dimethylpyrazine",0,train
+CCc1cncc(C(C)=O)n1,1-(6-Ethylpyrazin-2-yl)ethanone,0,train
+CCCCSCCCC,Dibutyl sulfide,1,train
+C=CC(C)CCCC(C)(C)O,Dihydromyrcenol,0,train
+CCCCCCCCCOC(=O)c1ccccc1N,Nonyl anthranilate,0,train
+CCOC=O,Ethyl formate,1,train
+Cc1ccc(CS)cc1,4-Methylbenzyl mercaptan,0,train
+CCCCCC(=O)OCC=Cc1ccccc1,3-Phenylprop-2-en-1-yl hexanoate,0,train
+C=C(C)CCC(C)=O,5-Methyl-5-hexen-2-one,0,train
+CC(O)C(C)(C)C,"3,3-Dimethyl-2-butanol",0,train
+CC1(C)C2CC3C(C2)C31C,Tricyclene,0,test
+CCc1ccc(C)o1,2-Ethyl-5-methylfuran,0,train
+CC(=Cc1ccccc1)CO,2-Methyl-3-phenyl-2-propen-1-ol,0,train
+CCCCCCCCCCCCCC(=O)OCCC,Propyl myristate,0,test
+CC1=CCC2C3C(C(C)C)CCC2(C)C13,"1,3-Dimethyl-8-(1-methylethyl)tricyclo(4.4.0.02,7)dec-3-ene",0,test
+CCCCCCC=CCC(=O)OCC,Ethyl dec-3-enoate,0,test
+CCCC(CC(=O)OC)OC(C)=O,Methyl 3-acetoxyhexanoate,0,train
+CSC(C)C(C)=O,3-(Methylthio)-2-butanone,0,test
+CCC=CCCOC(C)OCCC=CCC,"3-Hexene, 1,1'-[ethylidenebis(oxy)]bis-, (3Z,3'Z)-",0,train
+Nc1ncn[nH]1,Amitrole,0,train
+CC(C)C1CC=C(CCC=O)CC1,3-(4-Propan-2-ylcyclohexen-1-yl)propanal,0,train
+CCCCOC(=O)C1CCCCC1,Butyl cyclohexanecarboxylate,0,train
+CCC(=O)OCC(C)O,"1,2-Propanediol, 1-propanoate",0,train
+CC1=CCC(CC=O)C1(C)C,"3-Cyclopentene-1-acetaldehyde, 2,2,3-trimethyl-",0,train
+CCCC(=O)OC(C)C(=O)OCC,2-Ethoxy-1-methyl-2-oxoethyl butyrate,0,train
+CC(C)=CCCC(C)=CCOC=O,"3,7-Dimethylocta-2,6-dienyl formate",1,train
+CC(C)CCCC(C)CCCC(C)CCCC(C)C,Pristane,0,test
+C=CC(C)=CCCC(C)(C)OC(C)=O,"2,6-Dimethylocta-5,7-dien-2-yl acetate",0,train
+CC1CCC(C(C)C)C(OC(=O)C(C)O)C1,"Propanoic acid, 2-hydroxy-, 5-methyl-2-(1-methylethyl)cyclohexyl ester",0,test
+COc1ccccc1-c1ccccc1,2-Methoxybiphenyl,1,train
+CC(=O)OC(C)(C)C1CCC(C)C2=C(C1)C(C)CC2,"2-(3,8-Dimethyl-1,2,3,4,5,6,7,8-octahydro-5-azulenyl)-2-propanyl acetate",1,train
+C=CCSSC=CC,1-(Prop-2-enyldisulfanyl)prop-1-ene,0,test
+CCC=CCCC=CC#N,"2,6-Nonadienenitrile",0,train
+Cc1ccc(C=O)c(O)c1,2-Hydroxy-4-methylbenzaldehyde,0,train
+O=Cc1cccc(O)c1,3-Hydroxybenzaldehyde,0,train
+C=CC(C)(O)CCC=C(C)CCC=C(C)CCC=C(C)C,"3,7,11,15-Tetramethyl-1,6,10,14-hexadecatetraen-3-ol",1,train
+CCCCCC1OC1C=O,3-Pentyloxirane-2-carbaldehyde,0,train
+CCC=CCC(OCC)OCC,"1,1-Diethoxyhex-3-ene",0,train
+CCCC(=O)OCCC(C)C,Isoamyl butyrate,0,test
+Cc1cccc(C=O)c1,3-Methylbenzaldehyde,0,train
+CCCC(=O)OC(C)c1ccccc1,alpha-Methylbenzyl butyrate,0,test
+C=C(C)CCCC(C)CO,"2,6-Dimethyl-6-hepten-1-ol",0,test
+C=Cc1ccc(OC)c(OC)c1,"3,4-Dimethoxystyrene",0,train
+C=C(C)C1CCC(C)CC1=O,"Cyclohexanone, 5-methyl-2-(1-methylethenyl)-",0,train
+CCCCCC=CCC=CCCCCCCCC(=O)O,"9,12-Octadecadienoic Acid",0,train
+CCCCCCC(=O)OC1CCCCC1,Cyclohexyl heptanoate,0,test
+Cc1cc(SC(=O)CC(C)C)c(C)o1,"2,5-Dimethyl-3-thioisovalerylfuran",0,test
+CCCCCC=CCCCOC(C)=O,Dec-4-enyl acetate,1,test
+O=C1C=CCCCCCCCCCCCCC1,Cyclohexadecen-1-one,0,train
+CCOc1cc(C(C)C)ccc1C,Carvacryl ethyl ether,0,train
+CCC=CCO,Pent-2-en-1-ol,0,train
+O=C(O)C=C(CC(=O)O)C(=O)O,Aconitic Acid,0,train
+CCOC(=O)C(CC)Cc1ccccc1,Ethyl 2-ethyl-3-phenylpropanoate,0,train
+C=C(C(C)C(C)O)C(C)C(C)(C)C,"3,5,6,6-Tetramethyl-4-methyleneheptan-2-ol",0,train
+CCCCc1cscn1,4-Butylthiazole,0,train
+C1CCSC1,Tetrahydrothiophene,0,train
+FC(F)(F)C(Cl)C(F)(F)Cl,"1,2-Dichloro-1,1,3,3,3-pentafluoropropane",0,train
+CC(C)=CC1CC(C)=CCO1,(+-)-Nerol oxide,0,train
+CC(C)CCCC(C)CCO,"3,7-Dimethyl-1-octanol",1,train
+CC1=CC2C3CC(CC3O)C2C1C,"4,7-Methano-1H-inden-5-ol, 3a,4,5,6,7,7a-hexahydrodimethyl-",0,train
+CSCCCC=O,4-(Methylthio)butanal,0,train
+CC1CCC(C(C)C)C(OC(=O)Cc2ccccc2)C1,2-Isopropyl-5-methylcyclohexyl phenylacetate,0,train
+CCCCCC(=O)OCC=C(C)CCC=C(C)C,"3,7-Dimethylocta-2,6-dienyl hexanoate",1,train
+CC(=O)CCC1C(C)=CCCC1(C)C,Dihydro-alpha-ionone,0,train
+CCC=CCCOC(=O)CCCCCCC,Hex-3-enyl octanoate,0,train
+C=C(CCC=C(C)C)C1CC=C(C=O)CC1,beta-Bisabolenal,0,test
+CC(C)C1CC(c2ccccc2)C=CO1,2-Isopropyl-4-phenyl-dihydropyran,0,train
+CC=C(O)C(C)=O,3-Hydroxypent-3-en-2-one,0,test
+CC1=CC(C)C(C=O)CC1,"2,4-Dimethyl-3-cyclohexene carboxaldehyde",0,train
+CCC=O,Propanal,0,train
+CCC=CCCOC(=O)CC=CCC,"3-Hexenoic acid, (3Z)-3-hexenyl ester, (3Z)-",0,train
+CC1(C)C2CCC1(C)C(C1CCC(O)CC1)C2,"4-((1R,2R,4R)-born-2-yl)cyclohexanol",0,train
+CC(C)OC(=O)C(C)O,Isopropyl Lactate,0,train
+C=COCCCCCCCCCC,"Decane, 1-(ethenyloxy)-",1,train
+C=C(C)CCCC(C)CCOC(=O)CCC,"Rhodinyl butyrate, (+-)-",1,train
+CCCCCCC=CC(=O)OC,"Nonenoic acid, methyl ester",0,train
+CC(C)=CCCC(C)CC#N,Citronellyl nitrile,0,train
+CCCCCC(=O)OCCC(C)CCC=C(C)C,"Hexanoic acid, 3,7-dimethyl-6-octen-1-yl ester",1,test
+CCC(=O)SCc1ccco1,Furfuryl thiopropionate,0,train
+CCCCCCCCCCCCCCC(=O)O,Pentadecanoic Acid,0,train
+CCCCCCCCCCCC(=O)OCCOCC(OCCO)C1OCC(OCCO)C1OCCO,"2-(2-(3,4-Bis(2-hydroxyethoxy)tetrahydro-2-furanyl)-2-(2-hydroxyethoxy)ethoxy)ethyl dodecanoate",0,train
+CC(=O)CC(=O)OC1CC(C)CCC1C(C)C,"Butanoic acid, 3-oxo-, 5-methyl-2-(1-methylethyl)cyclohexyl ester",0,train
+C=C1C2CCC(C)(OCC)C1CCC2(C)C,"Bicyclo[3.3.1]nonane, 2-ethoxy-2,6,6-trimethyl-9-methylene-",0,train
+CC(C)=CCOC(=S)CC(C)C,O-(3-methylbut-2-enyl) 3-methylbutanethioate,0,train
+OC1CCCCC1,Cyclohexanol,0,test
+C=CCCCC=CCOC,"1-Methoxy-2,7-octadiene",0,train
+CCOC(=O)OCC,Diethyl Carbonate,0,train
+CCC=CCCO,3-Hexen-1-ol,0,train
+CC(C)=CCCC(C)CCOC(=O)C=Cc1ccccc1,"2-Propenoic acid, 3-phenyl-, 3,7-dimethyl-6-octen-1-yl ester",1,train
+CC(C)=CCOC(=S)C(C)C,O-(3-methylbut-2-enyl) 2-methylpropanethioate,0,test
+CC(=O)OC(C)CCC=C(C)CCC=C(C)C,"6,10-Dimethylundeca-5,9-dien-2-yl acetate",0,train
+OCCCCC1=CCCC1,4-(Cyclopenten-1-yl)butan-1-ol,1,train
+O=C1c2ccccc2C(=O)C1C(=O)C(c1ccccc1)c1ccccc1,Diphacinone,0,train
+CC(=CCC1CC=C(C)C1(C)C)C(C)O,"3-Methyl-5-(2,2,3-trimethylcyclopent-3-en-1-yl)pent-3-en-2-ol",0,train
+CCC(C)C(C)C=O,"2,3-Dimethylpentanal",0,train
+CC1=CCC(C(C)(C)OC(=O)CC(C)C)CC1,Terpinyl isovalerate,0,train
+CCC(C)CCCCCCCCCCCCC=O,14-Methylhexadecanal,0,train
+C=CC1=C(C=O)CCCC1,"1-Cyclohexene-1-carboxaldehyde, 2-ethenyl-",0,train
+CC(C)N,Isopropylamine,0,train
+CC(=O)OCCC(C)CC(C)(C)C,"3,5,5-Trimethylhexyl acetate",0,train
+Cc1nccnc1C,"2,3-Dimethylpyrazine",0,train
+COCC1OC(OC2C(COC)OC(OC)C(OC)C2OC)C(OC)C(OC)C1OC,"D-(+)-Lactose, permethyl",0,train
+C=CC(C)(CCC=C(C)C)OC(C)OCC,"1,6-Octadiene, 3-(1-ethoxyethoxy)-3,7-dimethyl-",0,train
+CC1(C)CCC(CO)C23C4CC(CC412)C3(C)C,"Octahydro-7,7,8,8-tetramethyl-2,3b-methano-3bH-cyclopenta(1,3)cyclopropa(1,2)benzene-4-methanol",0,test
+CCOC(=O)C1OC1c1ccc(C)cc1,Ethyl 3-(4-methylphenyl)-2-oxiranecarboxylate,1,train
+CC(=O)OCc1ccc2c(c1)OCO2,Piperonyl acetate,0,train
+CC=CC(=O)OCCc1ccccc1,Phenylethyl-crotonate,1,train
+CSCCC1OCC(C)O1,"1,3-Dioxolane, 4-methyl-2-[2-(methylthio)ethyl]-",0,train
+CCC(=O)OCCOc1ccccc1,Phenoxyethyl propionate,0,train
+CCCCC(=O)OCCC(C)CCC=C(C)C,Citronellyl valerate,1,train
+CC1OC(Cc2ccccc2)OC1C,"Phenylacetaldehyde 2,3-butylene glycol acetal",0,train
+OCC1(O)COC(O)(CO)CO1,Dihydroxyacetone dimer,0,train
+CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O,"6-((2-Amino-2-phenylacetyl)amino)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo(3.2.0)heptane-2-carboxylic acid",0,train
+CC=CC(=O)C1=C(C)CCCC1(C)C,"1-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-2-buten-1-one",1,train
+CC(=O)c1occc1O,Isomaltol,0,train
+CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,Phenylbutazone,0,train
+CSc1nccnc1C(C)C,2-Isopropyl-3-methylthiopyrazine,0,train
+CCCCCCC=CC=CC=O,"Undeca-2,4-dienal",0,train
+CCCCCCCCC#CC(=O)OCC,"2-Undecynoic acid, ethyl ester",0,train
+CC1=CCCC2(C)CCC(C(C)(C)O)CC12,"2-(4a,8-dimethyl-2,3,4,5,6,8a-hexahydro-1H-naphthalen-2-yl)propan-2-ol",0,train
+C=CCc1ccc(OC(=O)c2ccccc2)c(OC)c1,Eugenyl benzoate,0,train
+CCOC(=O)C=C(C)CCC=C(C)C,"Ethyl 3,7-dimethylocta-2,6-dienoate",1,train
+CCCCCOC(=O)C(C)CCC,Pentyl 2-methylvalerate,0,train
+c1ccc(CCCC2CCCO2)cc1,2-(3-Phenylpropyl)tetrahydrofuran,0,train
+CCCCCCCCOC(=O)C(C)C,Octyl isobutyrate,0,train
+CCc1nccs1,2-Ethylthiazole,0,train
+CCCC=CC(OCCCCCC)OCCCCCC,"1,1-Dihexoxyhex-2-ene",0,train
+O=[N+]([O-])c1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1,Picric Acid,0,train
+CCCCCCCCCCCC(=O)OCc1ccccc1,Benzyl laurate,0,train
+CC1SC(C)N2CCCC2S1,"4H-Pyrrolo2,1-d-1,3,5-dithiazine, tetrahydro-2,4-dimethyl-, 2S-(2alpha,4alpha,8abeta)-",0,test
+COc1ccccc1OC,Veratrole,0,train
+CCC(C)CCO,3-Methyl-1-pentanol,0,train
+CCC(C)COC(=O)C(C)C,2-Methylbutyl isobutyrate,0,train
+Cc1ccsc1C,"2,3-Dimethylthiophene",0,train
+CCCC=CCOC(C)OCC,1-(1-Ethoxyethoxy)-2-hexene,0,test
+CC1(C)COC(C)(c2ccccc2)OC1,"2,5,5-Trimethyl-2-phenyl-1,3-dioxane",0,test
+Cc1scnc1CCOC=O,"2-(5-Methyl-1,3-thiazol-4-yl)ethyl formate",0,train
+CC1(C=O)CC(C)(C)C2CCCC=C21,"1H-Indenecarboxaldehyde, 2,3,3a,4,5,6-hexahydro-1,3,3-trimethyl-",0,train
+CC(=O)c1cc2c(cc1C)C(C)(C)C(C)C2C(C)C,"Ethanone, 1-[2,3-dihydro-1,1,2,6-tetramethyl-3-(1-methylethyl)-1H-inden-5-yl]-",0,train
+CCC=CCCOC(=O)Cc1ccccc1,Hex-3-enyl 2-phenylacetate,1,train
+CCCCC=O,Pentanal,0,test
+CC(=CC=O)CCC=C(C)CC(C)C,"2,6-Decadienal, 3,7,9-trimethyl-",0,train
+CCC(=O)OCCCc1ccccc1,3-Phenylpropyl propanoate,0,train
+CC1=CC(C)(C)C=C(C)C1=O,"2,4,4,6-Tetramethylcyclohexa-2,5-dien-1-one",0,train
+SCc1cnccn1,2-Mercaptomethyl pyrazine,0,train
+CCCC(=O)OC1=C(C)OC(C)C1=O,"4-Butyroxy-2,5-dimethyl-3(2H)-furanone",0,train
+Cn1cccc1C=O,1-Methyl-1H-pyrrole-2-carbaldehyde,0,train
+CC=C(C)C(=O)OCCCCC,Amyl Angelate,0,train
+CC1=CCC(C=CC(C)(C)C(C)O)C1(C)C,"3,3-Dimethyl-5-(2,2,3-trimethyl-3-cyclopenten-1-yl)-4-penten-2-ol",0,train
+CCCCCCCCOCC=O,"Acetaldehyde, (octyloxy)-",0,train
+CCCc1cnccn1,Propylpyrazine,0,train
+CC=C(OCC)C(=O)OCC,Ethyl 2-ethoxybut-2-enoate,0,train
+O=C1C=CCO1,2(5H)-Furanone,0,test
+CCCCOC(C)OCC(C)CC,1-(1-Butoxyethoxy)-2-methylbutane,0,test
+CCC=CCCC1CCC(=O)O1,5-Hex-3-enyloxolan-2-one,0,test
+CC1CCCC(C)(C)C1=O,"2,2,6-Trimethylcyclohexanone",0,train
+SC1CCCCC1,Cyclohexanethiol,0,train
+COc1ccc(COC(C)=O)cc1,4-Methoxybenzyl acetate,0,train
+C=CCOC(=O)CC1CCCCC1,Allyl cyclohexaneacetate,0,train
+CC1=CC2CC(C=O)C1CC2C(C)C,"Bicyclo[2.2.2]oct-5-ene-2-carboxaldehyde, 6-methyl-8-(1-methylethyl)-",0,test
+CCC1=CCC(=O)O1,"2(3H)-Furanone, 5-ethyl-",0,train
+C=CC(=O)OC,Methyl Acrylate,0,train
+CC(=O)OC1CCCCC1,Cyclohexyl acetate,0,train
+CC(C)=CCC=C(C)CCO,"3,7-Dimethyl-3,6-octadien-1-ol",1,train
+CC(C)=CCCC(C)=CCOCC=O,"Acetaldehyde, ((3,7-dimethyl-2,6-octadienyl)oxy)-",1,test
+CC(C)CCOC=O,Isoamyl formate,0,train
+CC(=CCC1CC=C(C)C1(C)C)CO,"2-Buten-1-ol, 2-methyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-",0,train
+CCc1cccnc1,3-Ethylpyridine,0,train
+CCC=CCCCC,3-Octene,0,train
+CCC(=O)OCCC(C)C,Isoamyl propionate,0,train
+CCCC(O)CC(=O)OCC,Ethyl 3-hydroxyhexanoate,0,train
+CCCCC1OC(=O)CC1C,5-Butyl-4-methyldihydro-2(3H)-furanone,0,train
+Cc1cccc(O)c1C,"2,3-Dimethylphenol",0,train
+CCC(S)C(C)CO,3-Mercapto-2-methylpentan-1-ol,0,test
+C=CCc1ccc(OC)c(OC)c1,Methyleugenol,0,train
+CCc1cccc(CC)c1N(COC)C(=O)CCl,Alachlor,0,train
+CCCCCCOC(=O)C(C)CC,Hexyl 2-methylbutyrate,0,test
+CCCCCC(CC(=O)OCC)OC(C)=O,Ethyl 3-(acetyloxy)octanoate,0,train
+CCOC(=O)c1ccccc1,Ethyl benzoate,0,train
+CCC(=O)CC(C)(C)c1ccccc1,"3-Hexanone, 5-methyl-5-phenyl-",1,train
+CCCCCCCC(=O)OC,Methyl Octanoate,0,train
+CC(C)C1C=C2CCC3C(C)(CO)CCCC3(C)C2CC1,"1-Phenanthrenemethanol, 1,2,3,4,4a,4b,5,6,7,9,10,10a-dodecahydro-1,4a-dimethyl-7-(1-methylethyl)-",0,test
+CC(O)C(=O)OCc1ccccc1,Benzyl lactate,0,test
+CCCCC1COC2(CCCC2)O1,"1,4-Dioxaspiro(4.4)nonane, 2-butyl-",0,train
+CC=CC(=O)OC1CCCC1C1CCCC1,"2-Butenoic acid, [1,1'-bicyclopentyl]-2-yl ester",1,train
+NC(N)=NCCCC(N)C(=O)O,DL-Arginine,0,train
+COC(=O)CCc1ccccc1,Methyl 3-phenylpropionate,0,train
+O=C(CO)C(O)C(O)C(O)CO,"1,3,4,5,6-Pentahydroxyhexan-2-One",0,train
+C=CCCC(=O)C1CCCC(C)(C)C1,"1-(3,3-Dimethylcyclohexyl)-pent-4-en-1-one",0,test
+CCCCCCCC1CCC(=O)O1,Gamma-undecalactone,0,test
+CCOC(=O)CCCCSC,Ethyl 5-(methylthio)valerate,0,test
+CCCSC,Methyl propyl sulphide,0,test
+CCC(C)(O)CCC=C(C)C,Dihydrolinalool,1,train
+CCC1=C(O)C(=O)C(C)O1,5-Ethyl-4-hydroxy-2-methyl-3(2H)-furanone,0,train
+C=C(C)C(=S)OCC,O-ethyl 2-methylprop-2-enethioate,0,train
+CC(=O)OCC(COC(C)=O)OC(C)=O,Triacetin,0,train
+CC(C)CCOC(=O)CCCc1ccco1,Isoamyl 4-(2-furan)butyrate,0,train
+CCCCC1(OC(C)=O)CCCCC1,Butylcyclohexyl acetate,0,train
+CC1C(=O)C2CC1C(C)(C)C2,"2,6,6-Trimethylbicyclo(3.1.1)heptan-3-one",0,train
+C=CC1(C)CCC(C(C)(C)OC(C)=O)O1,"2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, 2-acetate",0,train
+Cc1occc1SSC1CCOC1C,2-Methyl-3-furyl 2-methyl-3-tetrahydrofuryl disulfide,0,train
+CCC(=O)CC(C)CC,5-Methyl-3-heptanone,0,train
+CCCCOC(=O)Cc1ccccc1,Butyl phenylacetate,1,test
+CCCCC(O)C(S)CCC,4-Sulfanylnonan-5-ol,0,train
+COc1cccc(C=O)c1O,o-Vanillin,0,train
+CCCCCCC=CC=O,Non-2-enal,0,train
+OCCOCc1ccccc1,2-(Benzyloxy) ethanol,1,train
+C#CC1(OC(C)=O)CCCCC1,"Cyclohexanol, 1-ethynyl-, 1-acetate",0,train
+Nc1ccccc1C(=O)OCc1ccccc1,Benzyl anthranilate,0,train
+O=C(CO)CO,Dihydroxyacetone,0,test
+Cc1nc(C)c(CC(C)C)o1,"2,4-Dimethyl-5-(2-methylpropyl)-1,3-oxazole",0,train
+CC(=O)C1(C)CCC23CC1C(C)(C)C2CCC3C,CID 11694472,0,train
+CCc1nccnc1CC,"2,3-Diethylpyrazine",0,train
+COCc1ccc(OC)cc1,p-Methoxymethylanisole,0,train
+CC(=O)CC1CCC2C(C1)C(C)CC2(C)C,"1-(1,1,3-Trimethyl-2,3,3a,4,5,6,7,7a-octahydroinden-5-yl)propan-2-one",0,train
+CCCCCC(C)=O,2-Heptanone,0,train
+CC=C(C=O)CSC,2-((Methylsulfanyl)methyl)but-2-enal,0,train
+BrC=Cc1ccccc1,beta-Bromostyrene,0,train
+O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O,Ethylenediaminetetraacetic Acid,0,train
+COc1ccc(C)cc1N,2-Methoxy-5-Methylaniline,0,train
+CCC=C(C)SC,2-Methylsulfanylpent-2-ene,0,train
+CC=C(C)C(=O)OCC(C)CC,2-Methylbutyl(E)-(+)-2-methylisocrotonate,0,test
+CC(=O)c1nccnc1C,2-Acetyl-3-methylpyrazine,0,train
+CCC(OCC(C)C)OCC(C)C,"1,1-Bis(2-methylpropoxy)propane",0,train
+CC(C)=CC1OCCC(C)O1,"1,3-Dioxane, 4-methyl-2-(2-methyl-1-propen-1-yl)-",0,train
+CCOC(CC(C)C)OCC,Isovaleraldehyde diethyl acetal,0,train
+CC(C)(C)c1ccncc1,4-tert-Butylpyridine,0,test
+CCC=CCOC(=O)CCCCC,Pent-2-en-1-yl hexanoate,0,train
+CCOC(=O)C(C)C(C)OC(C)=O,Ethyl 3-acetoxy-2-methylbutyrate,0,train
+CC1CCCCC1NC(=O)c1c(F)c(F)c(F)c(F)c1F,"2,3,4,5,6-Pentafluoro-N-(2-methylcyclohexyl)benzamide",0,train
+SCCN1CCSC1,"N-(2-mercaptoethyl)-1,3-thiazolidine",0,test
+CC(O)c1ccccc1,1-Phenylethanol,1,train
+CC1=CC(C)(C)Nc2ccccc21,"2,2,4-Trimethyl-1,2-dihydroquinoline",0,train
+CCCC=CCOC(=O)CC(C)C,Hex-2-enyl 3-methylbutanoate,0,train
+CCn1cccc1C(C)=O,1-Ethyl-2-acetyl pyrrole,0,train
+CCCCCCCCCCC(=O)OC,Methyl undecanoate,0,train
+CCCC(=O)c1ccco1,2-Butyrylfuran,0,test
+CCCCC(=O)c1cccs1,2-Pentanoylthiophene,0,train
+C=CCCCCCCCCC=O,10-Undecenal,1,train
+C#CC(C)(O)CCC=C(C)C,Dehydrolinalool,0,train
+CC1CCCC(=O)C1,3-Methylcyclohexanone,0,train
+CC(C)(O)c1ccccc1,2-Phenyl-2-propanol,0,train
+COC(C)(C)C1CC=C(C)CC1,Methyl alpha-terpinyl ether,0,train
+C=CC(C)(CCC=C(C)C)OC(=O)CCCCCCC,Linalyl octanoate,0,train
+CCCCCC1OCCOC1=O,"3-Pentyl-1,4-dioxan-2-one",0,train
+Cc1cc2ccccc2o1,2-Methylbenzofuran,0,train
+CC(=O)OC1CC2CCC1(C)C2(C)C,"Acetic acid 1,7,7-trimethyl-bicyclo(2.2.1)hept-2-yl ester",0,test
+CCC(C)c1ccc2ncccc2c1,6-(sec-Butyl)quinoline,0,train
+CC(C)=CCCC(C)=CC=CC(C)=CC=CC(C)=CC=CC=C(C)C=CC=C(C)C=CC=C(C)CCC=C(C)C,"2,6,10,14,19,23,27,31-Octamethyl 2,6,8,10,12,14,16,18,20,22,24,26,30-dotriacontatridecaene",0,train
+CC1C(O)CC2(C(C)C)CC12,"(1alpha,3alpha,4alpha,5alpha)-4-Methyl-1-(1-methylethyl)bicyclo(3.1.0)hexan-3-ol",0,train
+CCC(C)COC(=O)c1ccccc1O,2-Methylbutyl salicylate,0,train
+C=CCCCCCCCCC(=O)OCC(C)C,Isobutyl 10-undecenoate,0,train
+FC(C(F)(F)F)C(F)(Cl)Cl,"1,1-Dichloro-1,2,3,3,3-pentafluoropropane",0,train
+CC(C)C(NC(=O)CCC(N)C(=O)O)C(=O)NCC(=O)O,2-Amino-5-[[1-(carboxymethylamino)-3-methyl-1-oxobutan-2-yl]amino]-5-oxopentanoic acid,0,test
+CC(C)CCCCCCCCCC=O,"Dodecanal, 11(or 12)-methyl-",0,train
+C=CC(C)(S)CCC=C(C)C,"1,6-Octadiene-3-thiol, 3,7-dimethyl-",0,test
+CCC=C(C)C=O,2-Methyl-2-pentenal,0,test
+CCCCCCCOC(=O)CCC,Heptyl butyrate,0,test
+CC(=O)OC1C=C(C)C2CC1C2(C)C,Verbenyl acetate,0,train
+CC(C)(c1ccccc1)c1cc(-n2nc3ccccc3n2)c(O)c(C(C)(C)c2ccccc2)c1,"2-(2H-Benzotriazol-2-yl)-4,6-bis(1-methyl-1-phenylethyl)phenol",1,train
+CC=C(C)C(=O)OCCc1ccccc1,2-Phenylethyl 2-methylbut-2-enoate,1,train
+CCCCCCCC(=O)OCCCCCC,Hexyl Octanoate,0,test
+CCOC(=S)C(C)CC,O-ethyl 2-methylbutanethioate,0,train
+CC(C)C(=O)OCCOc1ccccc1,Phenoxyethyl isobutyrate,1,train
+O=CC=O,Glyoxal,0,test
+COc1cc(C=O)cc(OC)c1O,Syringaldehyde,0,train
+CCCC1C=CC(=O)O1,5-Propylfuran-2(5H)-one,0,test
+CCCCCC=COC(=O)CC(C)C,Hept-1-enyl 3-methylbutanoate,0,train
+CC(C)CC(=O)C(=O)O,4-Methyl-2-oxovaleric acid,0,train
+CCCCCCCCCCc1ccco1,2-Decylfuran,0,train
+Cc1cccc(CCCCCO)c1,5-(m-Tolyl)pentan-1-ol,1,train
+Cc1cccc(OC(=O)Cc2ccccc2)c1,3-Tolyl phenylacetate,0,train
+C=CCCCO,4-Penten-1-OL,0,train
+CC(=O)CCc1ccc2c(c1)OCO2,"4-(1,3-Benzodioxol-5-yl)-2-butanone",0,train
+CCC(=O)OC(C)C,Isopropyl propionate,0,test
+CCCCCCC(=O)CC,3-Nonanone,0,train
+CCC(C)CCC(C)(CC)OC(C)=O,"3-Octanol, 3,6-dimethyl-, 3-acetate",0,train
+C=C(C)C=COC(=O)c1ccccc1,Isoprenyl benzoate,0,train
+CCOC(C)OC,1-Ethoxy-1-methoxyethane,0,train
+CCC(C)C1=NC(C)C(CC)S1,cis-and trans-5-Ethyl-4-methyl-2-(2-butyl)-thiazoline,0,test
+O=C1CCCCCCC=CCCCCCCC1,Cyclohexadec-8-en-1-one,0,train
+CCCCCCCC(=O)OC(C)C,Isopropyl caprylate,0,train
+CC1=CCC(C(C)(C)OC(=O)c2ccccc2N)CC1,Terpinyl o-aminobenzoate,0,train
+CCCOC(=O)C(C)=O,Propyl pyruvate,0,train
+CC(=O)c1ccccn1,2-Acetylpyridine,0,train
+CCOC(=O)c1ccccc1NC(C)=O,Ethyl 2-(acetylamino)benzoate,0,test
+CCc1cnc(CC)s1,"2,5-Diethylthiazole",0,train
+COC(CC(C)C)OC,"1,1-Dimethoxy-3-methylbutane",0,train
+CCC(S)SC(S)CC,1-(1-Sulfanylpropylsulfanyl)propane-1-thiol,0,train
+CC=CC(=O)OC,Methyl but-2-enoate,0,train
+Cc1ccc(C)[nH]1,"2,5-Dimethylpyrrole",0,train
+CCCCCCCCCCOC(=O)CCC,Decyl butyrate,1,train
+O=C1CCCC1C1CCCC1,2-Cyclopentylcyclopentanone,0,train
+COc1cc(C(C)C)ccc1C,Carvacryl methyl ether,0,test
+CCCCC1COCC(C)O1,"2-Butyl-6-methyl-1,4-dioxane",0,train
+Cc1nc(CC(C)C)cs1,"2-Methyl-4-(2-methylpropyl)-1,3-thiazole",0,test
+CC(C)OC(=O)Cc1ccccc1,Isopropyl Phenylacetate,1,test
+CC1=CCCCC1,1-Methylcyclohexene,0,train
+CC1=CCC(C(C)(C)O)CC1,Alpha-Terpineol,0,train
+CCCCCC(C(C)=O)C(=O)OCC,"Heptanoic acid, 2-acetyl-, ethyl ester",0,train
+CC1=CCC(=C(C)C)CCC(C)=CCC1,"1,5-Dimethyl-8-(propan-2-ylidene)cyclodeca-1,5-diene",0,train
+CCCC(O)SCC,1-Ethylsulfanylbutan-1-ol,0,train
+C=CC1(C)CCC(=C(C)C)CC1C(=C)C,Elixene,0,train
+C=CC(C)(CCC=C(C)C)OC(C)=O,Linalyl Acetate,0,test
+CCCCCCCC=COC(=O)CCC,non-1-enyl butanoate,0,train
+CC1CCC2C1C1C(CCC2(C)O)C1(C)C,Npc239037,1,train
+CCCCC(=S)OCC,O-ethyl pentanethioate,0,test
+CCCCCCCCCC(=O)OCCCCC,Pentyl decanoate,0,train
+CCOC(CCSC)OCC,Methional diethyl acetal,0,train
+CCC(C)(C=O)Sc1ccco1,Methylfurylthiobutanal,0,test
+CC(C)=CCCC(C)=CCOCC=C(C)CCC=C(C)C,"Bis-(3,7-dimethyl-2,6-octadienyl)ether",0,train
+COc1ccc(CO)cc1,4-Methoxybenzyl alcohol,1,train
+CC(C)CCOC(OCC(C)C)C(C)C,1-(1-Isobutoxy-2-methylpropoxy)-3-methylbutane,0,train
+CCCCCO,1-Pentanol,0,test
+CC(C)CCCCCCC(=O)O,8-Methylnonanoic acid,0,train
+CC(C)=CCCC1=CCC(C)(C=O)CC1,"3-Cyclohexene-1-carboxaldehyde, 1-methyl-4-(4-methyl-3-penten-1-yl)-",0,test
+C=C(C)C=CC(CCC(C)=O)C(C)C,"2-Methyl-5-isopropyl-1,3-nonadiene-8-one",0,train
+CCCCCCCCCCCCOC(=O)C(C)O,Lauryl Lactate,0,train
+CC1=CCC2C3CC(C2C1)C1(C3)OC1C,Rhubofix,0,test
+CCCCCC(C=Cc1ccccc1)OC(C)=O,1-Phenyloct-1-en-3-yl acetate,0,train
+CCCCCCC=CC(=O)OCC,Ethyl non-2-enoate,0,train
+CC(=O)C1CCC=N1,"1-(3,4-Dihydro-2H-pyrrol-2-yl)ethan-1-one",0,train
+O=C(O)C1CC2C=CC1C2,5-Norbornene-2-carboxylic acid,0,train
+CCCOC(=O)C(C)(C)C,n-Propyl pivalate,0,train
+CC(C)C(=O)O,Isobutyric Acid,0,train
+Cc1coc2c1CCC(C)C2,Menthofuran,0,test
+CCCCCC(=O)CC,3-Octanone,0,train
+O=Cc1ccc(O)cc1,4-Hydroxybenzaldehyde,0,train
+OCCCCCCCc1ccccc1,Benzeneheptanol,1,train
+CN(C)C(=O)Nc1ccc(Oc2ccc(Cl)cc2)cc1,Chloroxuron,0,test
+CCCCCCCCOC(=O)CC,Octyl propionate,0,train
+CC(C)SSC(C)C,Diisopropyl disulfide,0,test
+OC1C(C2CCCC2)CCC1C1CCCC1,"2,5-Dicyclopentylcyclopentan-1-ol",0,train
+C=CCCCCCCCCCC(=O)O,11-Dodecenoic acid,0,train
+COc1ccccc1CO,2-Methoxybenzyl alcohol,0,train
+CCC(C)(C)SSC(C)(C)CC,Di-tert-pentyl disulphide,0,train
+CCCCCCCCCC(=O)OCCCC,Butyl decanoate,0,train
+CC(C)CC(=O)OC1CC(C)CCC1C(C)C,"Butanoic acid, 3-methyl-, 5-methyl-2-(1-methylethyl)cyclohexyl ester",0,train
+CC(C)C1OC(C)(C)OCC1(C)C,"1,3-Dioxane, 2,2,5,5-tetramethyl-4-(1-methylethyl)-",0,train
+CC(=O)C=CC1=CCCC(C)C1(C)C,"4-(5,6,6-Trimethylcyclohexen-1-yl)but-3-en-2-one",0,train
+CC(=O)OC1C2(C)CCC(C2)C1(C)C,"1,3,3-Trimethyl-2-norbornanyl acetate",0,train
+CCCCCC1OC1C=CC=O,"trans-4,5-epoxy-2(E)-Decenal",0,train
+O=C1CCC=C1O,2-Hydroxy-2-cyclopenten-1-one,0,train
+O=c1[nH]cnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O,"9-(5-O-Phosphonopentofuranosyl)-1,9-dihydro-6H-purin-6-one",0,train
+CCCCCC1CCCC1=O,2-Pentylcyclopentan-1-one,1,train
+C=CCCCCCCCCC(=O)O,Undecylenic Acid,0,train
+NC(Cc1ccc(O)cc1)C(=O)O,DL-Tyrosine,0,train
+CCCCC(C=O)=Cc1ccccc1,2-Benzylidenehexanal,0,test
+CCCCCCCCC(=O)OCCc1ccccc1,Phenethyl nonanoate,1,train
+CCCC(CS)OC=O,Mercaptomethylbutyl formate,0,train
+C=C1CCCC2(C)CCC(CC(C)(C)O)CC12,2-Methyl-1-(4a-methyl-8-methylidenedecahydronaphthalen-2-yl)propan-2-ol,0,train
+CC(=O)CC(C)(C)C1CCCCC1,"2-Pentanone, 4-cyclohexyl-4-methyl-",0,train
+O=COCCc1ccccc1,2-Phenylethyl formate,1,train
+CCCCCCCCC=Nc1ccccc1C(=O)OC,"Benzoic acid, 2-(nonylideneamino)-, methyl ester",1,test
+CC(C)(C)c1ccc(O)c(O)c1,4-tert-Butylcatechol,0,train
+CCCCCC(OCCCC)OCCC(C)C,1-Butoxy-1-(3-methylbutoxy)hexane,0,train
+CN=C=S,Methyl isothiocyanate,0,train
+CC(C=O)c1ccccc1,2-Phenylpropanal,0,train
+CC(C)CC1SSC(CC(C)C)S1,"3,5-Bis(2-methylpropyl)-1,2,4-trithiolane",0,test
+CC(=O)OC(CC(C)C)CC(C)C,"4-Heptanol, 2,6-dimethyl-, 4-acetate",0,test
+CCCCC(=O)OC1CC(C)CCC1C(C)C,5-Methyl-2-(propan-2-yl)cyclohexyl pentanoate,0,test
+CCCCC(=O)OC(C)(C)C1CC=C(C)CC1,1-Methyl-1-(4-methylcyclohex-3-enyl)ethyl valerate,0,train
+CCC(=O)OCCc1ccccc1,2-Phenylethyl propionate,1,test
+CCCCCC#CC(=O)OCc1ccccc1,Benzyl oct-2-ynoate,0,test
+C=CCOC(=O)COCCC(C)C,Allyl amyl glycolate,0,train
+CC1=CC(=O)NS(=O)(=O)O1,Acesulfame,0,train
+C=CCC(CC)C(=O)CC,4-Ethyl-6-hepten-3-one,0,train
+CSCSSc1ccoc1C,2-Methyl-3-(methylsulfanylmethyldisulfanyl)furan,0,train
+C=CCOC(=O)c1ccccc1O,Allyl salicylate,0,train
+CC1=C(O)C(=O)CO1,4-Hydroxy-5-methyl-3(2H)-furanone,0,train
+O=C(O)CCCCC(=O)O,Adipic Acid,0,train
+SC1CCCC1,Cyclopentanethiol,0,train
+CC12CCC(C1)C(C)(C)C2=O,(+-)-Fenchone,0,train
+CC(=O)c1ccc(O)cc1,4'-Hydroxyacetophenone,0,train
+CC(C)CCN,Isoamylamine,0,train
+CCCCCCC1OC(C)C(C)O1,"2-Hexyl-4,5-dimethyl-1,3-dioxolane",0,test
+O=C(c1ccccc1)C(O)O,"Ethanone, 1-phenyl-, dihydroxy deriv.",0,test
+CC(C)=CCCC(C)(O)C1CO1,Linalool oxide (5-ring),0,train
+CCCCCCCCCCC=CC(=O)O,Tridec-2-enoic acid,0,train
+COc1ccc(C2CCc3ccc(O)cc3O2)cc1O,"3',7-Dihydroxy-4'-Methoxyflavan",0,train
+CC(=O)OCc1ccco1,Furfural acetate,0,train
+CCC=C(C=O)c1ccccc1,2-Phenylpent-2-enal,0,test
+COc1ccccc1C=CC(=O)O,"2-Propenoic acid, 3-(methoxyphenyl)-",0,train
+OCc1ccco1,Furfuryl Alcohol,0,train
+CCCCCCCCCC=CCOC(C)=O,"2-Dodecen-1-ol, 1-acetate",0,train
+CCOc1cc(C2OC(C)CC(C)(C)O2)ccc1O,"Phenol, 2-ethoxy-4-(4,4,6-trimethyl-1,3-dioxan-2-yl)-",0,train
+CC(C)=CCOC(=O)c1ccccc1,Prenyl benzoate,0,test
+CCCCC(C)OC(=O)CCC,1-Methylpentyl butanoate,0,test
+CC(CC=O)c1ccc(C(C)(C)C)cc1,3-(4-tert.-Butylphenyl)butanal,0,train
+C=CC(C)(CCC=C(C)CCC=C(C)C)OC(C)=O,CID 98043,0,train
+CCCCCCCC(=O)OCCC,Propyl octanoate,0,test
+CCOC(=O)C(C)O,Ethyl Lactate,0,train
+C=C(C)C1CC=C(C)C(OC(=O)CC)C1,"Carvyl propionate, (+-)-",0,train
+CCC(C)C(=O)OCCC(C)C,Isoamyl 2-methylbutyrate,0,train
+CCOC(=O)c1ccc(O)c(OC)c1,Ethyl vanillate,0,train
+CC1=CCC(=C(C)CCC=O)CC1,4-(4-Methylcyclohex-3-en-1-ylidene)pentanal,0,train
+CC(=O)C=CCCC(C)C,CID 36308,0,test
+CC(=O)c1cc(C(C)(C)C)cc2c1CCC2(C)C,Celestolide,0,train
+CC=CCCCOC(C)=O,Hex-4-enylacetate,0,train
+CCCCCCCCCC(=O)OCCC(C)CCC=C(C)C,Citronellyl decanoate,1,train
+CC(C)=CCOC=O,Prenyl formate,0,test
+CCCCCCCCCCCCS,1-Dodecanethiol,0,train
+CC(C)=CCS,3-Methyl-2-butene-1-thiol,0,train
+CCOC1CCC(C(C)(C)CC)CC1,1-Ethoxy-4-(2-methylbutan-2-yl)cyclohexane,0,train
+CCC(C)CCCC(C)(C)OC(C)=O,"2-Octanol, 2,6-dimethyl-, 2-acetate",0,train
+O=Cc1ccc2c(c1)OCO2,Piperonal,0,train
+C=CCOC(=O)CCC1CCCCC1,Allyl cyclohexanepropionate,0,train
+CCCC(C)C(=O)OC,Methyl 2-methylpentanoate,0,train
+CCc1ccc(C)nc1,5-Ethyl-2-methylpyridine,0,train
+CCCCC=C(C=O)CC,2-Ethylhept-2-enal,0,train
+C=C(CCCCCCC)C(C)O,3-Methylidenedecan-2-ol,0,train
+c1cnc2c(n1)CCCC2,"5,6,7,8-Tetrahydroquinoxaline",0,train
+CC(=O)c1ccc2n1CCC2,"1-(2,3-Dihydro-1H-pyrrolizin-5-yl)ethanone",0,test
+C1=Nc2ccccc2Oc2ccccc21,"Dibenz(B,F)(1,4)Oxazepine",0,train
+O=C1CCCCC1C1CCCCC1,2-Cyclohexylcyclohexanone,0,train
+CCOC(=O)CCCCCCCCC(=O)OCC,Diethyl Sebacate,0,train
+CCCCC(=O)C(C)C,2-Methyl-3-heptanone,0,train
+CCC=CCC=CCCO,"3,6-Nonadien-1-ol",0,test
+OCc1ccccc1,Benzyl Alcohol,1,train
+C=C1CCC(C(C)(C)OC(=O)c2ccccc2)CC1,trans-beta-Terpinyl benzoate,0,train
+C=C(C)c1ccnc(CC)c1,2-Ethyl-4-prop-1-en-2-ylpyridine,0,test
+CCCCCC(=O)OCc1ccc(OC)cc1,(4-Methoxyphenyl)methyl ester hexanoic acid,0,train
+CC(C)=CCC1(C)CCC(C)=C(C)C1=O,"2,3,6-Trimethyl-6-(3-methylbut-2-enyl)cyclohex-2-en-1-one",0,train
+CSC(C)c1ccco1,2-(1-Methylsulfanylethyl)furan,0,train
+CC(=O)CCC(CCC(C)O)C(C)C,5-(1-Methylethyl)-8-hydroxynonan-2-one,0,train
+O=CCc1ccccc1,Phenylacetaldehyde,1,train
+CCCC(C)(C)S,2-Methyl-2-pentanethiol,0,train
+CCC(C)COC(C)OCCC(C)C,2-Methyl-1-[1-(3-methylbutoxy)ethoxy]butane,0,test
+O=C(c1ccccc1)C(O)c1ccccc1,Benzoin,0,test
+CCC(=O)C(=O)CC,"3,4-Hexanedione",0,test
+C=CCOC(=O)CCCC,Allyl valerate,0,train
+CC=CCCCCCCCC#N,9-Undecenenitrile,0,train
+CC(O)COC(=O)Cc1ccccc1,"Benzeneacetic acid, 2-hydroxypropyl ester",0,train
+OC1CCC2CCCCC2C1,"2-Naphthalenol, decahydro-",1,train
+CCCCCCCCCCCCCCCCC,Heptadecane,0,train
+CC=CC(=O)OCCCC,Butyl but-2-enoate,0,train
+C=CCOCC,Allyl ethyl ether,0,train
+CC(=O)OC(C)c1ccccc1,1-Phenylethyl Acetate,0,train
+CC(O)COC(C)COC(C)CO,2-(2-(2-Hydroxypropoxy)propoxy)-1-propanol,0,train
+CC(=O)OCCc1ccccc1,2-Phenylethyl Acetate,1,train
+CCCCOC(CC(C)C)OCCCC,"1,1-Dibutoxy-3-methylbutane",0,train
+CC1CCC2C(C2(C)C)C12COC(C)(C)OC2,Spirambrene,0,train
+CCCC(C)C=O,2-Methylpentaldehyde,0,test
+CC1=CC(=O)C2CC1C2(C)C,"4,6,6-Trimethylbicyclo(3.1.1)hept-3-en-2-one",0,train
+CCC1=C(O)C(=O)CC1,3-Ethyl-2-hydroxy-2-cyclopenten-1-one,0,train
+CC12CCC(C1)C(C)(C)C2O,Fenchol,0,train
+CC(C)=CCCC1=CCCC(C#N)C1,"3-Cyclohexene-1-carbonitrile, 3-(4-methyl-3-penten-1-yl)-",0,train
+CCCCCCOC(=O)c1ccco1,Hexyl 2-furoate,0,train
+C=CC(CCC)OC(C)=O,"1-Hexen-3-ol, 3-acetate",0,train
+NNC(=O)c1ccncc1,Isoniazid,0,train
+CCCCCCCCCCC,Undecane,0,train
+COC(=O)c1ccccc1N=CC1CC=C(CCCC(C)(C)O)CC1,"Benzoic acid, 2-(((4-(4-hydroxy-4-methylpentyl)-3-cyclohexen-1-yl)methylene)amino)-, methyl ester",0,train
+C=CCCCCCCCCC(=O)OCC=C(C)CCC=C(C)C,"3,7-Dimethylocta-2,6-dienyl undec-10-enoate",1,train
+CCCCC(CC)C(=O)OC,Methyl 2-ethylhexanoate,0,train
+CC1(C)C2CCC3(C2)C1c1ncncc1CC3(C)C,"6,6,10,10-tetramethyl-5,7,8,9,10,10a-hexahydro-6H-6a,9-methanobenzo[H]quinazoline",0,train
+Cc1nc(CC(C)C)oc1C,"2-Isobutyl-4,5-dimethyloxazole",0,train
+C=Cc1scnc1C,4-Methyl-5-vinylthiazole,0,train
+CC(=O)C(C)=C(C)C(C)C(C)(C)C,"3,4,5,6,6-Pentamethylhept-3-en-2-one",0,train
+Oc1ccccc1O,Catechol,0,train
+CCCCCC(=O)OC(C)CC,sec-Butyl hexanoate,0,test
+CCOC(C)OCC(C)OC(C)OCC,"1,2-Di[(1'-ethoxy)ethoxy]propane",0,train
+CCOCCC(OCC)OCC,"1,1,3-Triethoxypropane",0,train
+OCC(O)C(O)=Cc1ccccc1,"4-Phenylbut-3-ene-1,2,3-triol",0,train
+C=C(C)C1CCC2CC(=O)CC(C)C2(C)C1,"1,10-Dihydro nootkatone",0,test
+COc1cc(C)ccc1O,2-Methoxy-4-Methylphenol,0,train
+CC(C)=CCCC(C)=CCOC(=O)c1ccccc1,"Benzoicacid,geraniolester",1,train
+CC(c1ccccc1)N(C)C,"Benzenemethanamine, N,N,alpha-trimethyl-",0,train
+CC(C)=CCCC(C)CCOC(=O)c1ccccc1N,Citronellyl anthranilate,1,train
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,"5,8,11,14-Eicosatetraenoic acid, (5Z,8Z,11Z,14Z)-",0,test
+CSSSCc1ccco1,"Furan, 2-(methyltrithio)methyl-",0,train
+CC=CC(=O)C1=C(C)C=CCC1(C)C,Damascenone,1,test
+CC1CCC2CC1SC2(C)C,"2,8-Epithio-cis-p-menthane, (+-)-",0,train
+CCc1cccc(O)c1,3-Ethylphenol,0,train
+CC(C)Cc1nccs1,2-Isobutylthiazole,0,train
+NC(CC(=O)O)C(=O)O,(+-)-Aspartic Acid,0,train
+O=C(O)c1ccc([N+](=O)[O-])cc1,4-Nitrobenzoic Acid,0,train
+CCCCCC(OCC)OCC,"Hexane, 1,1-diethoxy-",0,test
+CCCCCCCCC=CCCCCCCCCOC(C)=O,Octadec-9-en-1-yl acetate,0,train
+O=P(OCCCl)(OCCCl)OCCCl,Tris(2-chloroethyl) phosphate,0,train
+CCCCCCCC=CCCC=O,Dodec-4-enal,0,train
+CCCCCC(=O)CCS,1-Sulfanyloctan-3-one,0,test
+OC(c1ccccc1)c1ccccc1,Benzhydrol,1,train
+CCCCCCc1cccs1,2-Hexylthiophene,0,train
+CCCCC=CCO,Hept-2-en-1-ol,0,train
+COCOC,Dimethoxymethane,0,test
+CCCCCCCC=CC(=O)OC,Methyl dec-2-enoate,0,train
+O=C1CCCCCCCCCCCCCCCO1,Hexadecanolide,0,train
+CCCCOC(=O)CCC,Butyl butyrate,0,test
+C=C1C2CCC(C2)C1(C)CCC=C(C)COC(=O)Cc1ccccc1,"Santalol, benzeneacetate",0,train
+O=C1CCCCCC=CCCCCCCCCO1,1-Oxacycloheptadec-8-en-2-one,0,train
+C=C(C)C1=C(C)C2(C)CC1CC2C(=O)OC,"Bicyclo[2.2.1]hept-5-ene-2-carboxylic acid, 1,6-dimethyl-5-(1-methylethenyl)-, methyl ester",0,train
+CC1=CCCC(C)(Cc2ccccc2)C1=O,"6-Benzyl-2,6-dimethylcyclohex-2-en-1-one",1,train
+O=COC1CCC2CCCCC2C1,"2-Naphthalenol, decahydro-, 2-formate",0,test
+CC1CCCCC1O,2-Methylcyclohexanol,0,train
+CC=CCOC(=O)CCCCC,But-2-en-1-yl hexanoate,0,train
+CC(C)Cc1cnccn1,"Pyrazine, (2-methylpropyl)-",0,test
+CCCOC(=O)C(C)OC(C)(C)CC,Propyl 2-(2-methylbutan-2-yloxy)propanoate,1,train
+CCOCCOCCC(C)C,1-(1-Ethoxyethoxy)-3-methylbutane,0,train
+CC1CCC2(O)C(C)(C)C3CCC2(C)C1C3,"1,6-Methanonaphthalen-1(2H)-ol, octahydro-4,8a,9,9-tetramethyl-, (1alpha,4beta,4aalpha,6beta,8aalpha)-",0,train
+CC1C=CC2(O1)C(C)(C)CCCC2(C)O,"2,6,10,10-Tetramethyl-1-oxa-spiro[4.5]dec-3-ene-6-ol",0,train
+O=[N+]([O-])OCCO[N+](=O)[O-],Ethylene glycol dinitrate,0,train
+O=C(Cc1ccccc1)OCc1ccccc1,Benzyl phenylacetate,1,train
+CCCCCCCOC(=O)CCCCCCC,Heptyl octanoate,0,train
+CCSC,Ethyl methyl sulfide,0,test
+CCC=CCC=CCC1CCC(=O)O1,"5-(Octa-2,5-dien-1-YL)oxolan-2-one",0,test
+CCCC(C)=O,2-Pentanone,0,train
+CCCCCCCCCCCCCCOC(C)=O,Myristyl Acetate,0,test
+CC(=O)OCC1OC(OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O,beta-D-Galactopyranose pentaacetate,0,test
+CCC1(c2ccccc2)C(=O)NCNC1=O,Primidone,0,test
+CCCCCCOC(=O)CC(C)C,Hexyl isovalerate,0,train
+CCOC(=O)C1C(C=C(C)C)C1(C)C,Ethyl chrysanthemate,0,test
+Cc1ncc2c(n1)CSC2,"5,7-Dihydro-2-methylthieno(3,4-d)pyrimidine",0,train
+C=CCCCCCCC(C)=O,9-Decen-2-one,0,train
+CC(C)C(=O)OCc1ccccc1,Benzyl isobutyrate,1,train
+CCCCCOC(C)OCCC(C)C,1-[1-(3-Methylbutoxy)ethoxy]pentane,0,test
+C=C(CC(C)CO)C1CC=C(C)C1(C)C,"3-Cyclopentene-1-butanol, beta,2,2,3-tetramethyl-delta-methylene-",0,train
+CCC=CCCCCC=O,Non-6-enal,0,train
+CC1=C(O)C(=O)CC(C)(C)C1,"2-Hydroxy-3,5,5-trimethyl-2-cyclohexenone",0,test
+CCOC(=O)C(C)OC(C)=O,Ethyl 2-acetyloxypropanoate,0,test
+CCc1ccccc1C=O,2-Ethylbenzaldehyde,0,train
+CC=CC(=O)C1=C(C)CCCC1,2-Methyl-1-[but-2-enoyl]-cyclohex-1-ene,0,train
+CCCOC(=O)C(C)O,"Propyl lactate, (+-)-",0,train
+COC(=O)c1ccccc1N=CC(C)Cc1ccc(C(C)C)cc1,"Benzoic acid, 2-[[2-methyl-3-[4-(1-methylethyl)phenyl]propylidene]amino]-, methyl ester",0,train
+CCCCCCCCC(=O)OCCCC,Butyl nonanoate,1,train
+CC1NC(C(C)C)SC(C)S1,"Dihydro-2,4-dimethyl-6-(1-methylethyl)-4H-1,3,5-dithiazine",0,train
+CC(C)=CCCC(C)=CC1OCCO1,"2-(2,6-Dimethylhepta-1,5-dienyl)-1,3-dioxolane",0,train
+CCOC(=O)COc1ccc(C)cc1,Ethyl (p-tolyloxy)acetate,0,test
+CCCCCCCCC(CC)C(=O)O,2-Ethyldecanoic acid,0,test
+CCCSSC,Methyl propyl disulfide,0,train
+C=CCCN=C=S,3-Butenyl isothiocyanate,0,train
+CCCCCCCC1CC(C)OC1=O,3-Heptyldihydro-5-methyl-2(3H)-furanone,0,train
+COC1=C(C)C(C)C2C3CCC(C3)C12,"3a,4,5,6,7,7a-hexahydromethoxydimethyl-4,7-methano-1H-indene",0,train
+CCC(C)CS,2-Methyl-1-butanethiol,0,train
+CC1CCC(C(C)C)C2(C1)OC(=O)C(C)O2,"3,9-Dimethyl-6-(1-methylethyl)-1,4-dioxaspiro(4.5)decan-2-one",0,train
+CCCCCCOC(CC(C)C)OCCCCCC,1-(1-Hexoxy-3-methylbutoxy)hexane,0,test
+CC(C)CCOC(=O)C(C)c1ccccc1,3-Methylbutyl 2-phenylpropanoate,0,train
+COc1ccccc1OC(=O)Cc1ccccc1,2-Methoxyphenyl benzeneacetate,0,test
+COC1=C(C)OC(C)C1=O,"2,5-dimethyl-4-methoxy-3(2H)-furanone",0,train
+CCCC=CCCCOC(C)=O,oct-4-enyl acetate,0,train
+CC(C)=CCCC(C)C1(O)CC=C(C)CC1,4-Methyl-1-(6-methylhept-5-en-2-yl)cyclohex-3-en-1-ol,0,train
+CCCOC(=O)c1ccc(O)cc1,Propylparaben,0,test
+CC=CC(=O)OCCCCCCCC,"2-Butenoic acid, octyl ester",0,train
+CC1CCC(O)C(C(C)(C)C)C1,2-tert-Butyl-4-methylcyclohexanol,0,test
+COCOC1CCCCCCCCCCC1,"Cyclododecane, (methoxymethoxy)-",0,train
+C=CC(C)=CCC=C(C)CCC=C(C)C=O,"2,6,9,11-Dodecatetraenal, 2,6,10-trimethyl-",0,test
+CCCCCCOC(=O)c1ccccc1O,Hexyl Salicylate,0,train
+C=CC(C)=CCC(C)(C)C(=NO)C(C)C,"N-(2,4,4,7-Tetramethylnona-6,8-dien-3-ylidene)hydroxylamine",1,train
+O=CCOc1ccccc1,Phenoxyacetaldehyde,0,train
+CCCCCCCC(=O)OCCCCC,Pentyl octanoate,0,train
+CCCCC(C)=O,2-Hexanone,0,test
+Cc1ccco1,2-Methylfuran,0,train
+O=CO,Formic Acid,0,train
+CC(NC(=O)C(N)CC(=O)O)C(=O)NC1C(C)(C)SC1(C)C,Alitame anhydrous,0,train
+CC(=O)c1cnc(C)cn1,2-Acetyl-5-methylpyrazine,0,train
+CCCCCCCCCOC(=O)CC,Nonyl propionate,1,train
+CCCCC(=O)OCc1ccccc1,Benzyl pentanoate,0,test
+CCCCCCCCCCCCCCCO,1-Pentadecanol,0,test
+CCCCCCCCC=CCCCCCCCCO,9-Octadecen-1-ol,0,train
+CC(=O)CCCC(C)CCC=C(C)C,Tetrahydro-pseudo-ionone,1,train
+CCCC(=O)OC(C)C1CCCCC1,1-Cyclohexylethyl butyrate,0,train
+CC(=O)c1cccn1C,2-Acetyl-1-methylpyrrole,0,train
+CC1=C(O)C(=O)C(O)CO1,"2,3-Dihydro-3,5-dihydroxy-6-methyl-4H-pyran-4-one",0,train
+c1coc(Cc2ccco2)c1,2-(2-Furfuryl)furan,0,train
+CCCCOC(=O)C(C)OC(=O)CCC,Butyl Butyryllactate,0,train
+Cc1ccc(OCCO)cc1,2-(4-Methylphenoxy)ethanol,0,train
+CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,Amobarbital,0,train
+O=C(O)C1CCCN1,proline dl-form,0,train
+C=CCOC(=O)c1ccco1,Allyl furoate,0,train
+CCCc1ccccn1,2-Propylpyridine,0,train
+CCOC(CC)OCC,"Propane, 1,1-diethoxy-",0,train
+CSCCCCO,4-(Methylthio)butanol,0,train
+CC(=O)OC1CCC(C(C)(C)C)CC1,4-tert-Butylcyclohexyl acetate,0,train
+CC1C(C)(C)C2CCCC3OC(C)(C)CC32C1(C)C,"Decahydro-2,2,7,7,8,9,9-heptamethylindeno(4,3a-b)furan",0,test
+COC1=CCCCC1,1-Methoxycyclohexene,0,train
+c1ccc2scnc2c1,Benzothiazole,0,train
+CCCCC(CC)C(=O)OCC(C)CC,2-Methylbutyl 2-ethylhexanoate,0,train
+C=C(C)C(=S)OCCCC,O-butyl 2-methylprop-2-enethioate,0,train
+CCCCCCOC(C)OCCCC,1-(1-Butoxyethoxy)hexane,0,train
+CC1SCSS1,"3-Methyl-1,2,4-trithiolane",0,test
+CCCCC1OC(C)CC(C)(C)O1,"1,3-Dioxane, 2-butyl-4,4,6-trimethyl-",0,train
+Cc1cccc(C)n1,"2,6-Lutidine",0,train
+CC(=O)OC1(C(C)C)CCCCC1,(1-Propan-2-ylcyclohexyl) acetate,0,test
+Cc1nc(C)c(C)s1,"2,4,5-Trimethylthiazole",0,train
+O=C(OCCCc1ccccc1)c1ccccc1O,3-Phenylpropyl salicylate,0,train
+CC(C)COC(=O)CCCCC(=O)OCC(C)C,Diisobutyl Adipate,0,train
+COc1ccc(OC)cc1,"1,4-Dimethoxybenzene",0,train
+CC=CC(=O)CC,Hex-4-en-3-one,0,train
+Cc1ccccc1C=O,2-Methylbenzaldehyde,0,train
+CC1OCC(c2ccccc2)O1,"1,3-Dioxolane, 2-methyl-4-phenyl-",0,test
+CCCC(=O)OC(C)CC,2-Butyl butyrate,0,train
+CC(=O)OC(C)C(C)CC1C(C)CCCC1(C)C,"Cyclohexanepropanol, alpha,beta,2,6,6-pentamethyl-, 1-acetate",0,train
+CCCCCCC(C)=O,2-Octanone,0,train
+CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,Diuron,0,test
+CCC(=O)c1occc1C,1-(3-Methyl-2-furyl)propan-1-one,0,test
+COc1cc(C=O)ccc1OC1OC(CO)C(O)C(O)C1O,"3-Methoxy-4-{[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzaldehyde",0,train
+CCOCc1ccccc1O,2-(Ethoxymethyl)phenol,0,train
+CCOC(=O)C1CC=CCC1,"3-Cyclohexene-1-carboxylic acid, ethyl ester",0,train
+CC(OCc1ccco1)SCc1ccco1,2-[1-(Furan-2-ylmethoxy)ethylsulfanylmethyl]furan,0,train
+CCCCCCCCCCOCC=O,"Acetaldehyde, (decyloxy)-",1,train
+COc1ccccn1,2-Methoxypyridine,0,train
+CC(O)COC(C)CO,2-(2-Hydroxypropoxy)-1-propanol,0,train
+C=C1C2CC3CC1C(O)C(C2)C3C,"4-Methyl-8-methylenetricyclo[3.3.1.13,7]decan-2-ol",0,train
+O=C(O)Cc1ccccc1,Phenylacetic Acid,1,test
+CCCCC(=O)OCc1ccco1,Furfuryl pentanoate,0,test
+CC1C2CC(CC2C2CCC(O)CC2)C1(C)C,4-Hydroxy-1-(5-isocamphyl)cyclohexane,0,train
+O=C1CCCCCCCCCCCCCCCC1,Cycloheptadecanone,0,train
+CCCC=CC(=O)OC=CCCCC,Hex-1-EN-1-YL hex-2-enoate,0,test
+OCC1COC(Cc2ccccc2)O1,"2-(Phenylmethyl)-1,3-dioxolane-4-methanol",1,train
+CCCCC=CCCCC(=O)O,5-Decenoic acid,0,train
+CC1(C)C2CC3OC3(C)C1C2,alpha-Pinene oxide,0,train
+CC(=O)SC1CCOC1C,2-Methyl-3-thioacetoxytetrahydrofuran,0,train
+C=C1CCC2C1C1C(C(C)C)CCC21C,"3a-Methyl-6-methylidene-1-(propan-2-yl)decahydrocyclobuta(1,2-a:3,4-a')dicyclopentene",0,train
+CC1COC(Cc2ccccc2)O1,"2-Benzyl-4-methyl-1,3-dioxolane",1,train
+C1CSCS1,"1,3-Dithiolane",0,train
+C=CC(C)=CCC=C(C)COC(C)=O,"2,6-Dimethylocta-2,5,7-trien-1-yl acetate",0,train
+CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,"8-(2-(4-Hydroxy-6-oxotetrahydro-2H-pyran-2-yl)ethyl)-3,7-dimethyl-1,2,3,7,8,8a-hexahydro-1-naphthalenyl 2,2-dimethylbutanoate",0,train
+COC(=O)CC(O)(CC(=O)OC)C(=O)OC,Trimethyl citrate,0,train
+C=CCCCCCCCCCOC(C)=O,10-Undecen-1-yl acetate,1,train
+CCCCCCCC=CC=O,Dec-2-enal,1,train
+CCCC(=O)OC(C)(OC(=O)CCC)C(C)=O,"Butanoic acid, 1,1'-(1-methyl-2-oxopropylidene) ester",0,train
+CCCCCCC(O)CC=CCCCCCCCC(=O)OCC,Ethyl 12-hydroxyoctadec-9-enoate,0,train
+CCCC=CCOC(=O)C(C)CC,Hex-2-enyl 2-methylbutanoate,0,train
+CC(=O)OC1CCCCC1C(C)(C)C,2-tert-Butylcyclohexyl acetate,0,train
+CCCCCC=CO,Amyl vinyl alcohol,0,train
+CCCCCCCCC(=O)OCCC(C)C,Isoamyl nonanoate,0,test
+CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21,Lovastatin,0,train
+CC1=NC(CC(C)C)SC1C,"2-Isobutyl-4,5-dimethyl-3-thiazoline",0,test
+CCCC=CC(=O)OCC(C)C,2-Methylpropyl hex-2-enoate,0,train
+CCOC(=O)COC,Ethyl 2-methoxyacetate,0,train
+CCCCC(CC)CO,2-Ethylhexanol,1,test
+O=C1CCCCCCCCCCCCCCO1,Pentadecalactone,0,train
+CC(=O)C=Cc1c(C)ccc(C)c1C,"4-(2,3,6-Trimethylphenyl)but-3-en-2-one",0,train
+CCCCCC(CC)OC(=O)CCC,3-Octyl butyrate,0,train
+CCC(=O)O,Propionic Acid,0,train
+CCOC(OCC)c1ccco1,Furfural diethyl acetal,0,train
+CC1CCC(C(C)C)C(OC(=O)C(C)C)C1,"Propanoic acid, 2-methyl-, 5-methyl-2-(1-methylethyl)cyclohexyl ester",1,train
+COC(=O)COc1ccc(C)cc1,Methyl (p-tolyloxy)acetate,0,train
+Cc1ccc(C)s1,"2,5-Dimethylthiophene",0,train
+CCCCC(CC)COC(C)=O,2-Ethylhexyl Acetate,0,train
+C=CCOC(=O)CCCCC1CCCCC1,Allyl cyclohexanevalerate,0,train
+CC(=O)C(C)(C)c1ccccc1,3-Methyl-3-phenylbutan-2-one,0,test
+CC(C)=CCCC(C)=CC(=O)O,"3,7-Dimethylocta-2,6-dienoic acid",0,test
+Cc1cnc(SCc2ccco2)cn1,"Pyrazine, 2-((2-furanylmethyl)thio)-5-methyl-",0,train
+CCC(C)SC(=O)C=C(C)C,S-sec-Butyl 3-methylbut-2-enethioate,0,train
+CCCCCCCCCCCCCC1CCCC(=O)O1,delta-Octadecalactone,0,train
+C=C(C)COC(=O)CC,2-Methylallyl propionate,0,test
+CC1COC(c2ccc3c(c2)OCO3)O1,Piperonal propyleneglycol acetal,0,train
+CCC(C)CCC=O,"Hexanal, 4-methyl-",0,train
+Cc1ccc(CC=O)cc1,Lilac acetaldehyde,0,train
+CCCC(O)CCC,4-Heptanol,0,train
+CC=CC=CCOC(=O)C(C)C,"Propanoic acid, 2-methyl-, 2,4-hexadien-1-yl ester",0,train
+C=Cc1cc(OC)c(O)c(OC)c1,4-Vinylsyringol,0,train
+COc1ccc(CCCO)cc1,3-(4-Methoxyphenyl)-1-propanol,0,train
+CCOC(=O)CCCCCCCC(=O)OCC,Diethyl azelate,0,train
+CC(C)c1ccc(C(C)C=O)cc1,2-(4-Isopropylphenyl)propionaldehyde,0,train
+CS(C)(=O)=O,Dimethyl Sulfone,0,train
+CCCCC(=O)OCC(C)CC,2-Methylbutyl pentanoate,0,train
+CCCCCCCCC(=O)OC,Methyl nonanoate,0,train
+CC(=O)C1=C(C)OC(C)C1=O,"4-Acetyl-2,5-dimethyl-3(2H)-furanone",0,train
+O=C(O)CC(O)(CC(=O)O)C(=O)O,Citric Acid,0,test
+CCCC=CC(=O)CC,4-Octen-3-one,0,test
+Cc1nccnc1SCc1ccco1,2-Methyl-3-(furfurylthio)pyrazine,0,train
+C=C(C)C1CCC(C)(OC(C)=O)C1C,"1,2-Dimethyl-3-(prop-1-en-2-yl)cyclopentyl acetate",0,train
+CCCCCCCCCCOC,"Decane, 1-methoxy-",0,train
+CC(=O)C(C)S,3-Mercapto-2-butanone,0,train
+CCCCCCOCC(OC)OC,"Hexane, 1-(2,2-dimethoxyethoxy)-",0,train
+CC(C)=CCCC(C)=CC1OCC(CO)O1,"1,3-Dioxolane-4-methanol, 2-(2,6-dimethyl-1,5-heptadien-1-yl)-",0,train
+CC(C)CCCOC(=O)c1ccccc1,4-Methylpentyl benzoate,0,train
+CC(C)CCC(=O)OC(C)C,1-Methylethyl 4-methylpentanoate,0,train
+CCCCCCC(C=Nc1ccccc1C(=O)OC)=Cc1ccccc1,"Benzoic acid, 2-((2-(phenylmethylene)octylidene)amino)-, methyl ester",0,train
+CCCCCCCCCC(C)C(OC)OC,2-Methylundecanal dimethyl acetal,0,test
+CCCCCCOC,Hexyl methyl ether,0,test
+Cc1ccc(C=O)cc1,4-Methylbenzaldehyde,0,train
+CC1CO1,Propylene Oxide,0,train
+CCCCCC(=O)OC(CCCC)C(=O)OCC,Ethyl 2-hexanoyloxyhexanoate,0,train
+CCCCCOC(C)OCC,"Pentane, 1-(1-ethoxyethoxy)-",0,test
+CC1=CCC(C(C)(C)OC(=O)C=Cc2ccccc2)CC1,p-Menth-1-en-8-yl 3-phenylacrylate,0,train
+O=C(O)c1ccco1,2-Furancarboxylic acid,0,test
+C=C(C)C1CCC(C)C1C=O,2-Methyl-5-(1-methylethenyl)cyclopentanecarboxaldehyde,0,test
+CC1COC(C(C)C)O1,"4-Methyl-2-(1-methylethyl)-1,3-dioxolane",0,test
+CCOC(C)(OCC)c1ccccc1,Acetophenone diethyl ketal,0,train
+CC1OCC2(CC=CCC2C)CO1,"3,11-Dimethyl-2,4-dioxaspiro[5.5]undec-8-ene",0,train
+CC(=O)c1cccc2ccccc12,1-Acetylnaphthalene,0,train
+CC1CCC2C(C)(C)C3CC12CCC3(C)O,Cedran-8-ol,0,test
+Cc1nccnc1CC(C)C,2-Isobutyl-3-methyl pyrazine,0,train
+C1SSCSSS1,Lenthionine,0,train
+CCCCOC(OCCCC)c1ccccc1,(Dibutoxymethyl)benzene,0,train
+FC(F)(Cl)CCl,"1,2-Dichloro-1,1-difluoroethane",0,test
+CCCOC(=O)CCC1CCCCC1,Propyl 3-cyclohexylpropanoate,0,test
+CC(=O)OC(C)CCc1ccccc1,1-Phenyl-3-acetoxybutane,0,test
+CC(=O)C=CC=C(C)C,"6-Methylhepta-3,5-dien-2-one",0,train
+COC(=O)c1ccccc1C(=O)OC,Dimethyl Phthalate,0,train
+COc1ccc(COC(C)=O)cc1OC,"Benzenemethanol, 3,4-dimethoxy-, 1-acetate",1,train
+CCCCCCCCCCCCCC(=O)OC,Methyl Myristate,0,train
+CC(C)C(=O)OC(C)c1ccccc1,1-Phenylethyl 2-methylpropanoate,0,train
+CC1(C)CC(=O)C2OC2(C)C1=O,Epoxyoxophorone,0,test
+CC(C)CC(=O)OCC1=CCC2CC1C2(C)C,Myrtenyl isovalerate,0,train
+CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,"1-acetyl-9a,11a-dimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one",0,train
+CCCCCC=CC=CC(=O)OCCC,"Propyl deca-2,4-dienoate",0,train
+CC(=O)C1(C)CC(=O)C(C)(SCc2ccco2)O1,"3(2H)-Furanone, 5-acetyl-2-[(2-furanylmethyl)thio]dihydro-2,5-dimethyl-",0,train
+C=C(C)C1CCC(C)CC1O,"Cyclohexanol, 5-methyl-2-(1-methylethenyl)-",1,train
+CCOC(=O)C1(CC)OC1(C)c1ccccc1,"2-Oxiranecarboxylic acid, 2-ethyl-3-methyl-3-phenyl-, ethyl ester",0,train
+CCCCCCCCCC(=O)OCC(C)C,Isobutyl decanoate,0,test
+CCCC(SCc1ccccc1)SCc1ccccc1,Butanal dibenzyl thioacetal,0,train
+CC1CCSCS1,"4-Methyl-1,3-dithiane",0,train
+CC(C)CCOC(=O)CCC(=O)OCCC(C)C,Diisopentyl succinate,0,test
+CCCC=CC=CCCCO,"Deca-4,6-dien-1-ol",0,test
+COC(=O)c1ccccc1N=CC(C)Cc1ccc(C(C)(C)C)cc1,Verdantiol,0,train
+CCOc1cc(C)ccc1O,"Phenol, 2-ethoxy-4-methyl-",0,test
+CC(=O)C(C)=CCC1CC=C(C)C1(C)C,"3-Methyl-5-(2,2,3-trimethylcyclopent-3-en-1-yl)pent-3-en-2-one",0,train
+CC1=CCC(C(C)CC=O)CC1,"3-Cyclohexene-1-propanal, beta,4-dimethyl-",0,test
+COC(=O)CC(C)C,Methyl isovalerate,0,train
+CC(O)C1CCCC(C)(C)C1,"Cyclohexanemethanol, alpha,3,3-trimethyl-",0,train
+CC(C)Cc1ccc2ncccc2c1,6(Or 8)-(sec-butyl)quinoline,0,test
+CCC1CC(C)=C(O)C1=O,5-Ethyl-2-hydroxy-3-methylcyclopent-2-en-1-one,0,train
+CCCC(S)CCO,3-Mercaptohexanol,0,test
+CCCCCCCCCCCC1CCCC(=O)O1,5-Hexadecanolide,0,train
+O=C(O)C=Cc1ccc(O)cc1,4-Coumaric acid,0,train
+CC1(C)C2CCC3(C2)C1C(=O)CCC3(C)C,"1,3,4,6,7,8a-Hexahydro-1,1,5,5-tetramethyl-2H-2,4a-methanonaphthalen-8(5H)-one",0,train
+CC(C)C(C)CCC(C)(C)O,"2,5,6-Trimethyl-2-heptanol",1,test
+CCCCCCCCCC1OCC(C)O1,Decanal propylene glycol acetal,0,train
+CCCCCCCCCCCCCCCCS,Hexadecanethiol,0,train
+CCCCCC(C=O)=Cc1ccccc1,Amylcinnamaldehyde,0,train
+CCCCCCCCO,1-Octanol,1,train
+CCCCCC1=CC(=O)CCC1,3-Pentylcyclohex-2-en-1-one,0,train
+CC1(C)CCCC2=C1CC(C#N)CC2,"1,2,3,4,5,6,7,8-Octahydro-8,8-dimethyl-2-naphthalenecarbonitrile",0,train
+COC(=O)c1ccccc1N=Cc1ccccc1,"Benzoic acid, ((phenylmethylene)amino)-, methyl ester",0,train
+CCCCCCOC(=O)CCCC,Hexyl valerate,0,train
+C=CC=CCCCCC,Npc232882,0,train
+C=CC(C)(CCC=C(C)C)OC(=O)C=Cc1ccccc1,"3,7-Dimethylocta-1,6-dien-3-yl 3-phenylprop-2-enoate",0,train
+C=CCCC(=O)OCC,Ethyl 4-pentenoate,0,train
+CCCCC=CCCOC(=O)CC,(Z)-3-octen-1-yl propionate,0,train
+C=CCSCC=C,Diallyl Sulfide,0,train
+Cc1nc2ccccc2s1,2-Methylbenzothiazole,0,test
+C=CCCCCCCCC(=O)OCC,Ethyl 9-decenoate,0,train
+CCCCC=CCCCCCCOC(C)=O,Dodec-7-en-1-yl acetate,0,train
+CCC=CC(=O)OC,Methyl pentenoate,0,train
+CC=CC(=O)OCCCCCC,Hexyl but-2-enoate,0,test
+CC1CCOC(C)(C)S1,"2,2,4-Trimethyl-1,3-oxathiane",0,train
+CCC(C)N,Sec-Butylamine,0,train
+CCCCCOC(=O)CCC(C)=O,Pentyl 4-oxovalerate,0,train
+CCC(=O)SC,S-Methyl propanethioate,0,test
+CC(=O)OCC=C(C)CCC=C(C)CCC=C(C)C,Farnesyl acetate,1,train
+CC(=O)n1ccc2ccccc21,"Ethanone, 1-(1H-indol-1-yl)-",0,train
+C1CSCCS1,"1,4-Dithiane",0,train
+CCCC(=O)OCC(C)CC,"Butanoic acid, 2-methylbutyl ester",0,train
+CCOC(=O)C1CC2C=CC1C2,Ethyl 5-norbornene-2-carboxylate,0,train
+O=C1c2ccccc2C(=O)C1(O)O,Ninhydrin,0,train
+CCCCCC(=O)CSCCC,1-Propylsulfanylheptan-2-one,0,train
+CCCCCCCOC(=O)c1ccccc1,Heptyl benzoate,0,train
+COc1ccc2ccc(=O)oc2c1CC=C(C)C,Osthol,0,train
+COc1ccc(CC(C)C=O)cc1,2-Methyl-3-(p-methoxyphenyl)propanal,0,train
+CSCc1cnccn1,"Pyrazine, 2-[(methylthio)methyl]-",0,train
+COC(C)OC,"1,1-Dimethoxyethane",0,train
+CCC=CCCCCCCC=O,Undec-8-enal,0,test
+OOC1(OOC2(O)CCCCC2)CCCCC1,Cyclohexanone peroxide,0,train
+CCC(C)S,2-Butanethiol,0,train
+CSCCO,2-(Methylthio)ethanol,0,train
+O=C(C=Cc1ccccc1)OCc1ccccc1,"2-Propenoic acid, 3-phenyl-, phenylmethyl ester",0,train
+CC=CCCC=CC=O,"2,6-Octadienal",0,train
+CCC(COC(C)=O)C(=O)OC,Methyl 2-(acetyloxymethyl)butanoate,0,train
+CCCCCCC1CCCCC(=O)O1,epsilon-Dodecalactone,0,train
+CC(=O)CCC=C(C)C,6-Methyl-5-hepten-2-one,0,train
+Cc1ccc(CO)cc1,4-Methylbenzyl alcohol,1,train
+CC(=O)OCC=C(C)CCC=C(C)C,"3,7-Dimethylocta-2,6-dienyl acetate",1,train
+CC1=CC(=O)CC(C)(C)C1=O,Ketoisophorone,0,train
+C=CC(O)CCCCCC,1-Nonen-3-ol,0,test
+CC(CCO)CCc1ccccc1,Phenylisohexanol,1,test
+CC(C)C(=O)OCC=Cc1ccccc1,Cinnamyl 2-methylpropanoate,0,train
+CC(=O)CCO,4-Hydroxy-2-Butanone,0,train
+COc1cccc(OC)c1,"1,3-Dimethoxybenzene",0,train
+CC(=O)OCC1CCC2CC1C2(C)C,Myrtanyl acetate,0,test
+CCCC(=O)OC,Methyl butyrate,0,train
+CCS,Ethanethiol,0,train
+C=CC1(C)CCC(C(C)C=O)O1,Lilac aldehyde,0,train
+C=C1CCC2(C(C)C)CC12,Sabinene,0,train
+CCCCCCCCCOC(=O)CCC,Nonyl butyrate,1,train
+CC(C)CC1SC(C)NC(C)S1,"2-Isobutyl-4,6-dimethyl-1,3,5-dithiazinane",0,train
+CCc1ccc(C)s1,2-Ethyl-5-methylthiophene,0,test
+OC(Cc1ccccc1)c1ccccc1,"1,2-Diphenylethanol",0,train
+CCCCCCCC(=S)OC,Methyl thiooctanoate,0,train
+CC(C)=CCCC(C)CC1OCCO1,"1,3-Dioxolane, 2-(2,6-dimethyl-5-heptenyl)-",0,train
+CC=CC=CCCC=CC(=O)NCC(C)C,"N-(2-Methylpropyl)-2,6,8-decatrienamide",0,train
+CC=CC(=O)C1C(C)CCCC1(C)C,"1-(2,2,6-Trimethylcyclohexyl)but-2-en-1-one",0,test
+CCCCCCOC(=O)CCC(C)C,Hexyl isohexanoate,0,test
+Cc1ccc(C)c2c1CCC(C(C)(C)O)C2,Occidol,0,train
+C=CCCCCO,5-Hexen-1-ol,0,train
+C=C1C(O)CC2CC1C2(C)C,"Pinocarveol, (+-)-",0,train
+C=C(C)C1CCC2(C)OC2C1,Limonene oxide,0,train
+C=CCSC(=O)CCC,S-prop-2-enyl butanethioate,0,train
+Cc1nc(CC(C)C)sc1C,"4,5-Dimethyl-2-isobutylthiazole",1,test
+COC(C=C(C)CCC=C(C)C)OC,Citral dimethyl acetal,0,train
+CCCCCCCCCCCCCCCC=O,Hexadecanal,0,train
+Cc1ccc(OC(=O)CC(C)C)cc1,p-Cresyl isovalerate,0,test
+CCCCCCCCC(O)C(=O)OC,Methyl 2-hydroxydecanoate,0,train
+CC(=O)OCC1CCCO1,Tetrahydrofurfuryl acetate,0,train
+CC(C)CCOC(=O)c1ccccc1N,3-Methylbutyl 2-aminobenzoate,0,train
+CC(=O)CC(=O)c1ccccc1,Benzoylacetone,0,test
+CC(C)CCOC(=O)C(C)O,Isoamyl lactate,0,train
+CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C=C(\C)CC/C=C(\C)CCC=C(C)C,Squalene,0,train
+C=CCSC,Allyl methyl sulfide,0,train
+CCCCCCC(C=O)=Cc1ccccc1,2-(Phenylmethylene)octanal,0,test
+CC(=O)OC(c1ccccc1)C(Cl)(Cl)Cl,Rosacetol,1,train
+Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C,Sulfisoxazole,0,train
+CCCCCOC(=O)c1ccco1,Pentyl furoate,0,train
+CC1CCSC(C)S1,"2,4-Dimethyl-1,3-dithiane",0,test
+CCc1nccnc1OC,2-Ethyl-3-methoxypyrazine,0,train
+CC1=CC2OC(=O)C(C)C2CC1,"2(3H)-Benzofuranone, 3a,4,5,7a-tetrahydro-3,6-dimethyl-",0,test
+CCCC=CCOC(=O)CCCC,Hex-2-en-1-yl pentanoate,0,train
+FC(Cl)C(F)(Cl)C(F)(F)F,"2,3-Dichloro-1,1,1,2,3-pentafluoropropane",0,train
+O=C(O)CCCCCC=CCCCCCCCCO,CID 54076879,0,test
+C=CCOC(=O)CCC,Allyl butyrate,0,train
+CC(=O)c1c(C)c([N+](=O)[O-])c(C(C)(C)C)c([N+](=O)[O-])c1C,Musk ketone,0,train
+O=C(Cc1ccccc1)OCCCc1ccccc1,3-Phenylpropyl phenylacetate,1,train
+CCCCCOC(=O)CC(=O)OCCCCC,"Propanedioic acid, dipentyl ester",0,train
+CC(=O)C(C)=O,Butanedione,0,train
+CC(=O)C=CC1C(C)=CCCC1(C)C,Ionone,0,train
+C=CC=CC=CCC,"Octa-1,3,5-triene",0,train
+CSC(C)S,1-Methylthioethanethiol,0,train
+CCCCCCCCC(OCC)OCC,"Nonane, 1,1-diethoxy-",1,test
+CCCCCCc1ccccn1,2-Hexylpyridine,0,test
+CC(C)=CCCC(C)=CC(OCCCCCCCCCCC(C)C)OCCCCCCCCCCC(C)C,"1-[3,7-Dimethyl-1-(11-methyldodecoxy)octa-2,6-dienoxy]-11-methyldodecane",0,train
+CC(C)CCCOC(=O)CC(C)C,4-Methylpentyl isovalerate,0,train
+CCCCCC1OC(C)C(C)O1,"Hexanal butane-2,3-diol acetal",0,train
+CCOC(=O)C1CCC(C(=O)OCC)CC1,"Diethyl 1,4-cyclohexanedicarboxylate",0,train
+CCCCCCC(C)C=O,2-Methyloctanal,1,train
+CCOC(C)CC,2-Ethoxybutane,0,test
+c1coc(CCc2ccco2)c1,"2,2'-(1,2-Ethylenediyl)bis(furan)",0,train
+CCCCCC=CCC=CCO,"Undeca-2,5-dien-1-ol",0,train
+COc1c2occc2cc2ccc(=O)oc12,8-Methoxypsoralen,0,train
+CCC1=C(O)C(=O)CC1C,"2-Cyclopenten-1-one, 3-ethyl-2-hydroxy-4-methyl-",0,train
+c1ccc2n[nH]nc2c1,1H-Benzotriazole,0,train
+CC1=CC(C)C(CO)C(C)C1,Isocyclogeraniol,0,train
+CCOC(=O)CC(C)SCC,Ethyl 3-(ethylthio)butyrate,0,train
+COc1ccc2ccccc2c1,2-Methoxynaphthalene,0,train
+CCCCCCCCCCCCC(C)=O,2-Tetradecanone,0,train
+C=CC1(C)CCCC(C)(C)O1,"2,6,6-Trimethyl-2-vinyltetrahydropyran",0,train
+CCCCCC=CCC1CCC(=O)O1,5-(Oct-2-EN-1-YL)oxolan-2-one,0,train
